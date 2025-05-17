@@ -1,0 +1,3190 @@
+ID,Description
+0,Communication and commitment in multi-agent systems.
+1,Data mining decomposition for industrial knowledge extraction.
+2,Balancing exploration and exploitation in web crawling.
+3,Middleware simplifies distributed system construction.
+4,Flexible service provisioning with dynamic-agent infrastructure.
+5,Hybrid robot architecture for environment navigation.
+6,Optimal interval tree for interval management.
+7,Power law distribution on Web revealed by PageRank.
+8,Large multi-modal database for verification systems.
+9,"Secure, portable, efficient mobile agent kernel."
+10,Query optimization combining conventional and temporal methods.
+11,Characterizing asphalt mixtures using fuzzy techniques.
+12,Research in disaster rescue using multi-agent systems.
+13,Virtual Information Towers for mobile information access.
+14,Learning coordination in multi-agent systems.
+15,Parallelism enhances OLAP query efficiency.
+16,Base NP identification algorithm using treebank grammars.
+17,Efficient categorization methods for multimodal video indexing.
+18,Analyzing Web Access Patterns for Improvement.
+19,Optimizing operator ordering in parallel databases.
+20,Audio indexing system with speech recognition for web.
+21,Accelerometer data analysis for context-aware applications.
+22,Actor-critic algorithms for RL and NDP optimization.
+23,Digital library interfaces and tools for users.
+24,Semantics of programs in four-valued logics.
+25,Comparison of Case-Based Learning algorithms.
+26,Pattern approach for interdisciplinary interaction design collaboration.
+27,Alternative communication method for ubiquitous systems.
+28,Security requirements for multi-agent systems discussed.
+29,Benchmarking XML query processing platforms for efficiency.
+30,Efficient data flow management system.
+31,Conflict resolution in distributed groupware systems.
+32,Clustering techniques for finding work partners.
+33,UCMs for feature description in systems modeling.
+34,Managing user frustration in computer systems.
+35,Notification service for digital libraries.
+36,Framework for Open Video Test Collection.
+37,Implementing teams of agents in robot soccer.
+38,Validation and verification in software evaluation.
+39,XML applications for web mining algorithms.
+40,Minimize view sets for efficient query answering.
+41,Group communication for mobile participants with location awareness.
+42,Estimating MIDI document resemblance using search engine techniques.
+43,Distinctive features for visual recognition.
+44,XML path and type constraints interaction.
+45,Analyzed migration of intelligence to network periphery.
+46,Robustness of CIGAR with problem indexing strategies.
+47,Adaptive algorithm for text information extraction.
+48,Computer vision for virtual environment interface.
+49,RoboCup champion software evolution.
+50,Market-based regulation for mobile-agent systems.
+51,Real-time human interaction recognition system.
+52,Adaptive load sharing for efficient packet processing.
+53,Efficient methods for approximate nearest neighbor queries.
+54,Framework for spatiotemporal objects with geometric transformation.
+55,Intelligent integration tool for heterogeneous sources.
+56,Information-theoretic learning with nonparametric methods.
+57,First-order polynomial theorem proving with Boolean polynomials.
+58,Keyphrase extraction with supervised learning algorithms.
+59,Contextual audio notifications for wearables.
+60,MPEG-7 multimedia content description schemes and applications.
+61,Agents in Internet with error tolerance.
+62,Query translation for diverse information sources.
+63,Fast SVM algorithm outperforms original method.
+64,Analyze local learner with error correcting codes.
+65,Schema evolution with reversible transformations in databases.
+66,Dynamic near-field radio connection for wearables.
+67,Interactive integrity constraint design tool.
+68,ECA conveys routes with multimodal spatial intelligence.
+69,Wireless interface for interactive dance performance.
+70,Active collaboration in agent system for information gathering.
+71,Logical transactions and serializability in information systems.
+72,Indexing schemes for efficient moving point tracking.
+73,Inference and learning in hybrid Bayesian networks.
+74,Software platform for interactive distributed systems.
+75,Optimizing modal logic for knowledge representation systems.
+76,Gesture interface for human-robot interaction.
+77,Enhancing data cleaning with user interaction.
+78,High-level language for executable specification.
+79,Handwriting in VR with Virtual Notepad.
+80,Detecting traffic problems using ILP.
+81,Modeling and simulating mobile agent systems.
+82,Adaptive software with integrated learning.
+83,Querying multidimensional databases with Active Data Repository.
+84,Automated reasoning in KARO Agent Theory.
+85,Automatic texture atlas generation method.
+86,Adaptive routing using distributed mobile agents.
+87,Automated music archive organization with SOM.
+88,Enhancing text categorization for event tracking.
+89,Enhancing inductive definition formalization.
+90,Classifier comparison on error rate and speed.
+91,Knowledge management on Semantic Web with RDF.
+92,Visual context understanding with wearable cameras.
+93,Genomic annotation using multi-agent system.
+94,Fuzzy triggers for active databases with approximate reasoning.
+95,Improving web search efficiency through online learning.
+96,UML strengths and weaknesses for UI modeling.
+97,Personality and emotions control animated agents.
+98,Precision-performance tradeoff for aggregation.
+99,Room metaphor aids groupware system transitions.
+100,Validation toolkit for formal language learning algorithms.
+101,Learning search-control heuristics for automated deduction.
+102,Agent motion control in structured Internet environments.
+103,Statistical pattern recognition challenges and overview.
+104,Dynamic function placement for cluster computing.
+105,Subsumption concept for XML relationships.
+106,Coalition formation in electronic markets using physics model.
+107,Benchmarking optimization software with COPS test set.
+108,Tableau calculus for temporal description logic.
+109,Plan recognition in human-computer collaboration.
+110,Induction principle for unsupervised learning.
+111,Robot coordination for large-scale assembly.
+112,Control architecture for Internet auction servers.
+113,Optimizing query execution in collaborative grid environments.
+114,Semiotic model improves interface design communication.
+115,Modeling emotions in synthetic agents for applications.
+116,Biomedical information retrieval by web crawling agents.
+117,Cloning mechanisms for load balancing in mobile computing.
+118,Lixto wrapper generator features and example program.
+119,Learning wrappers for semi-structured Web sources.
+120,Dynamic hand gesture recognition with hierarchical scheme.
+121,Remote reality browser for collaborative exploration.
+122,Understanding formal constructs in wastewater treatment dynamics.
+123,Monitor network logs for anomalous activity.
+124,Web locality analysis for efficient search.
+125,Importance of nearest neighbor queries in databases.
+126,Active knowledge base system with rule support.
+127,EWA learning in bilateral call markets.
+128,CRISTAL project query facility development summary.
+129,Multi-goal Q-learning with bi-linear function approximator.
+130,Automating query modifications for better search results.
+131,Temporal extension of ODMG object model.
+132,Enhancing collaboration through ontological-based overhearing.
+133,Improving label quality in self-organising maps.
+134,Reinforcement learning for visual servoing on mobile robot.
+135,Optimizing rule-based classifiers for accurate predictions.
+136,Dynamic index structure for data warehouses.
+137,Advantage of commonality-based selection in crossover.
+138,Manage Active Spaces with standard mechanisms.
+139,Heterogeneous database integration with agent-oriented information systems.
+140,Database model for interactive systems architecture.
+141,Exploring dark matter on the Web.
+142,Learning theory for autonomous agents.
+143,Qualitative spatial representation and reasoning techniques.
+144,Optimization for complex designs using AI.
+145,"Efficient, Easy-to-Implement Tabling Technique."
+146,PMS for ATM Networks.
+147,Algorithm for combining preferences in ranking.
+148,Lineage tracing in data warehouse transformations.
+149,Dynamic dependency relationships model with tree mixture.
+150,Agent-based market infrastructure for web-based commerce.
+151,Enhancing groupware usability evaluations with task analysis.
+152,Framework for multimedia retrieval with user customization.
+153,Estimation of spatial selectivity using partitioning methods.
+154,Multimodal term extraction with RST and FCA.
+155,Challenges in groupware calendar system design.
+156,Propositional algorithms for information extraction.
+157,Value approximation for factored MDPs with linear form.
+158,Web-based ITS for high school teacher training.
+159,Feature selection for web apps using ROC inflections.
+160,Cooperative goal-satisfaction in automated-agent systems.
+161,Intelligent integration of heterogeneous sources with schema knowledge.
+162,Bitmap indices for high-cardinality attributes in HEP analysis.
+163,Facial expression interpretation in human-computer interaction.
+164,Detecting logical structure in diverse documents.
+165,Information gathering agent for intelligent web search.
+166,Real-time meta-search engine with adaptive learning.
+167,Enhancing facial images in surveillance.
+168,Comparison of Michigan classifier systems: GA vs. RL.
+169,Trust model for secure mobile agent systems.
+170,Enhancing scalability in multi-agent systems through adaptation.
+171,Consensus methods for adaptive user interfaces.
+172,Wearable spatial conferencing space with AR technology.
+173,Software fault tree for IDS requirements analysis.
+174,Semantic constraints for efficient database design.
+175,Bargaining with Deadlines: Sequential Equilibrium Analysis.
+176,Flattening object algebra for improved performance.
+177,Implementing animal behavior models in robotic systems.
+178,Enhanced Deductive Object-Oriented Database Language.
+179,Neuro-fuzzy model for visual and force control.
+180,User interface boosts social awareness online.
+181,Compact 3D animation delivery for central node.
+182,NLG enhances KDD insights summarization.
+183,Modeling complex systems with combined logics.
+184,Anycasting for web server selection based on experience.
+185,Student web navigation advice multi-agent system.
+186,Term weighting theory with exploratory data analysis.
+187,Audio AR system for fantasy game with location-based sounds.
+188,Rule induction for regional pronunciation variation.
+189,Psychology of socially intelligent robots in development.
+190,Automated text categorization based on document style.
+191,Boosting methods enhance margins for effective voting.
+192,Predicting heart disease using association rules.
+193,Meta search engine with query routing algorithm.
+194,Optimizing neural networks using global minimization methods.
+195,Efficient deinterlacing with zonal-based algorithms.
+196,Research infrastructure for user-system interaction.
+197,Continuous Q-learning for nonlinear system control.
+198,Hybrid coordination models in multiagent systems design.
+199,Probabilistic pursuit-evasion games with multiple agents.
+200,Collaborative browsing agent for group web browsing.
+201,Typechecking for XML transformers using k-pebble transducers.
+202,Biologically inspired system for autonomous rover control.
+203,User adaptation in interface agency with multi-agent learning.
+204,Specialized integrity checks and partial evaluation.
+205,Neural folding architecture for tree automata.
+206,Computational representations of Herbrand models in logic.
+207,Integration of spatial information and image analysis.
+208,Specialized web collection querying system.
+209,Naive Bayes regression: Performance and limitations.
+210,Agent implementation using Jini technology.
+211,Rewriting queries using views in Description Logics.
+212,Enhancing Genetic Algorithm-based Design Optimization with Parallelism.
+213,Vision-based robot localization using CONDENSATION algorithm.
+214,Intelligent agent framework for virtual reality.
+215,Model-free policy iteration using least squares.
+216,Benchmarking spatial index structures for performance evaluation.
+217,Perceptual computing for adaptive Smart-Its.
+218,Toronto XML Engine for data storage.
+219,Logic-based AI architecture with subsumption approach.
+220,Framework for testing recommender systems using ResearchIndex.
+221,Mobile agents for data filtering on wireless networks.
+222,LSI enhances retrieval with spectral analysis.
+223,Logic language for concurrent agent architecture.
+224,Survey of image retrieval techniques and future directions.
+225,MLII algorithm enhances rule accuracy in machine learning.
+226,Extension of logic programming paradigm.
+227,Flexibility in decision-making with case-based reasoning.
+228,Indexing schemes for moving points in plane.
+229,Optimal optimization strategies using multi-layer methods.
+230,Scalable trigger processing with memory-efficient index.
+231,Agent-based modeling for holonic manufacturing systems.
+232,Robust entropy estimation using kMST for data.
+233,Java and CORBA for Internet Databases.
+234,Improving network dependability with efficient routing.
+235,Policy-based mobility control for software components.
+236,Mobile user behavior analysis in location-based search.
+237,Bayesian framework improves image retrieval with regions.
+238,Database consistency verification for schema evolution.
+239,Specify agent architectures using HEMASL.
+240,Multiagent learning with variable learning rate.
+241,Ubiquitous computing game with smart cards.
+242,Query optimization for deterministic data model.
+243,Comparison of EPs and EPSAs in drug docking.
+244,Population information in evolving neural networks.
+245,Organisational concepts for multi-agent system design.
+246,Agent-based approach for floristic digital libraries.
+247,Temporal aggregation with efficient PA-tree structure.
+248,Business processing workflow modelling assessment.
+249,Scalable P2P infrastructure for Semantic Web Services.
+250,Mobile robot testing new navigation approaches.
+251,Conflict resolution in collaborative negotiation strategies.
+252,Integrating source and warehouse security for coherence.
+253,Enhancing data consistency through localization in mobile databases.
+254,Optimizing schema evolution sequences for database performance.
+255,Web mining research survey with categorization.
+256,Supports collaborative annotation work in digital libraries.
+257,Fluid flow visualization tool with multiple modes.
+258,WristCam enables finger movements for computer control.
+259,Pruning methods for decision trees with costs.
+260,State capture for mobile agents in Messengers.
+261,3D earth visualization with speech and gestures.
+262,Decidable fragments of first-order temporal logics.
+263,Metasearch engine database selection for longer queries.
+264,Incremental learning and reasoning for improved understanding.
+265,Mapping Fuzzy Automata to RNNs.
+266,Teamwork model and learning in RoboCup research.
+267,Object localization and classification hardware/software system.
+268,Flexible workflow management system meta-modeling approach.
+269,SIDE Surfer: Web Interaction Development.
+270,MetaSEEk: Image Meta-Search Engine.
+271,Case-based learning with evidence grids.
+272,IQE with hierarchical expansion terms outperforms list form.
+273,Personal agent guides in virtual space.
+274,Identifying and merging inconsistencies in structured text.
+275,MARS: Mobile agent coordination architecture.
+276,Text-based content search in ad hoc P2P communities.
+277,Projective rotations for stereo head calibration.
+278,Mobile agents cooperate for dynamic network routing.
+279,Optimizing queries with expensive methods in databases.
+280,Functional join techniques for database query processing.
+281,Robot autonomy management with motives and visual communication.
+282,Translate Boolean queries across multiple sources.
+283,Design and development of Cub-e device.
+284,Automated legal text analysis and classification techniques.
+285,Unified theory for transaction management.
+286,Conflict resolution model for cooperative design systems.
+287,RoboCup-97 Small-Robot World Champion Team.
+288,Efficient iceberg query computation with minimal resources.
+289,Automating software library comparison for reuse.
+290,Self-organization in sensor networks for distributed perception.
+291,Scalable clustering algorithms for large datasets.
+292,Interpolated data manipulation with infinite relations.
+293,Context-aware tourist guide evaluation.
+294,Reasoning complexity in description logics with concrete domains.
+295,Concurrency control in shared storage systems.
+296,Collaborative learning enhances recommender system performance.
+297,Dynamic service matchmaking in open information environments.
+298,Scalable personalized web search with partial vectors.
+299,Regularized principal manifolds for unsupervised learning.
+300,Enhancing language learning with cognitive biases.
+301,Hypertext categorization with various algorithms.
+302,Temporal patterns in web query refinement analysis.
+303,Universal planning with OBDDs for multi-agent domains.
+304,Logical belief analysis using possible worlds.
+305,Learning approaches for 3D object recognition.
+306,Distributed case-based learning in multi-agent systems.
+307,Locking and transformation for consistency maintenance.
+308,"CSCL design using rooms, protocols, nets metaphors."
+309,Enhancing query result efficiency through algebraic compression.
+310,Learning and tracking human motion in videos.
+311,Zooming enhances image browsing in ZUI systems.
+312,Incremental strategy learning for cost-effective planning.
+313,Modeling social impact on individual mental states.
+314,Clause aggregation for complex sentence generation.
+315,Hybrid heuristics optimize Artificial Neural Network design.
+316,Automatic language discrimination through prosody analysis.
+317,Class representation in image retrieval with classification.
+318,Ontology services in distributed information systems.
+319,Central node: XML for flexible code mobility.
+320,Organisational abstractions in multi-agent system design.
+321,Dynamic reconfiguration in collaborative problem solving.
+322,Enhancing cross-validation with diverse classifier combinations.
+323,Belief aggregation in web metasearch.
+324,Automatic sound effects for interactive simulations/animations.
+325,Performance comparison of clustering methods.
+326,Enhances data integration using agents.
+327,Relational learning for text extraction.
+328,Central node: Language for interactive web services compiler.
+329,Linear tabling with nonlinear delaying mechanism.
+330,Mapping source code to optimized binary.
+331,Data model for moving objects databases.
+332,Time series segmentation for context recognition.
+333,Stable algorithms for link analysis using eigenvector methods.
+334,Comparing library collections to computer memory hierarchy.
+335,Dynamic gait evolution for quadruped robot.
+336,Efficient gradient estimation for POMDPs.
+337,Expert system design challenges addressed by PESKI.
+338,Enhanced knowledge representation through RDF Schema extension.
+339,Feature combination strategies for visual attention systems.
+340,Agent-Oriented Software Engineering: Conceptual Foundation and Autonomy.
+341,Modeling spatial data with abstract data types.
+342,Efficiently improving ad hoc linguistic rule learning.
+343,Vision-based obstacle detection for mobile robots.
+344,Model extensibility in OODBMS for advanced applications.
+345,Performance data warehouse for process improvement.
+346,Layered ML approach for RoboCup Soccer Server clients.
+347,Meta-search engine with improved search quality.
+348,Security architecture for Application Session Handoff.
+349,Interactive retrieval with clustering and genres.
+350,Agent-mediated e-commerce trends and forecasts in Europe.
+351,Modified clustering for interpretable fuzzy models.
+352,Efficient query execution in ILP systems.
+353,Resolution method for multi-modal temporal logics.
+354,Genetic algorithm optimizes MLPs in G-Prop-II.
+355,Analogy-based learning for multilingual pronunciation challenges.
+356,Enhancing WWW query and reasoning services.
+357,Decentralized supply chain formation with market protocols.
+358,Theorem prover tool for database analysis.
+359,Image retrieval system using TS-SOM.
+360,Embodied Evolution for robotic controller design.
+361,Dynamic agent behaviors through communication and triggers.
+362,Customizable hyperlink insertion engine for software browsing.
+363,Word Sense Disambiguation with Semantic Density in WordNet.
+364,"OAI, interoperability, metadata, content dissemination, future plans."
+365,Enhancing human-computer interaction with audio-visual processing.
+366,Feasible low-power AR terminal for ubiquitous computing.
+367,Vision-based navigation using machine learning.
+368,Hand posture recognition with Discriminant-EM algorithm.
+369,Inductive learning methods for Programming by Demonstration.
+370,Intelligent web search with document structure.
+371,Web data extraction using machine learning.
+372,Cross-language search experiment summary.
+373,Rotational polygon containment and minimum enclosure algorithm.
+374,Mobile agents reduce communication costs.
+375,Characterizing bias and evaluating metrics.
+376,Optimizing query execution in distributed DBMS.
+377,Fuzzy reasoning extension for MIR in DL.
+378,Feature selection method for web applications.
+379,Assesses XML database performance for benchmarking.
+380,"ASC research overview: features, algorithms, classification techniques."
+381,Scalable read-only transaction processing in broadcast push.
+382,Interplay of path and type constraints in XML.
+383,Central node: Update translation with constraint satisfaction problems.
+384,Distributed computing overview with dedication.
+385,Agent-based workflow for electronic marketplace architecture.
+386,Gesture recognition in virtual environments.
+387,Enhancing collaboration in floristic digital libraries.
+388,Enhancing collaborative learning with workspace awareness technology.
+389,Security flaws in object-oriented databases authorization model.
+390,Language model with topic dependencies for speech recognition.
+391,Resource usage monitoring in mobile agent systems.
+392,Optimizing query plans for XML data.
+393,Supports self-explanation in learning.
+394,VR Computational Steering for Scientific Simulations.
+395,Speech acts in military and scientific collaboration.
+396,Extending UML with Use Case Maps concepts.
+397,Evolution of ARIES and transaction management.
+398,"Rule learning without global optimization, accurate results."
+399,Indexing spoken documents with Latent Semantic Analysis.
+400,Agent-oriented programming language characteristics for multiagent systems.
+401,Imitation and synthesis of humanoid movement.
+402,Automated approach enhances conversational case library.
+403,Specifying agents in robotic soccer using UML statecharts.
+404,Annotated virtual worlds for agent interaction.
+405,Unsupervised learning for object recognition with flexibility.
+406,Value-added mediation in information systems.
+407,Heuristic extraction for movie showtime query system.
+408,Interval-based probabilities analysis and applications.
+409,Ontology-based web page authoring in CREAM framework.
+410,Face detection with linear subspaces.
+411,Integrating frame-based and Bayesian network systems.
+412,Enhancing business transaction workflow with advanced principles.
+413,Web genre visualization for personalized search results.
+414,Mixed-Initiative UI Principles for Enhanced Interaction.
+415,Adaptable workflow reflection in business processes.
+416,Managing historical semistructured data overview.
+417,Optimal anytime search for constrained nonlinear programming.
+418,Deductive OODBMS: OLOG.
+419,Formalizing knowledge content in case memory systems.
+420,Boosting interval-based literals for time series classification.
+421,Gesture synthesis for conversational agents with timing coordination.
+422,Middleware for heterogeneous device communication.
+423,Dynamic user preferences in scheduling using CBR.
+424,Fault-tolerant agent architecture with persistent broker teams.
+425,Incremental and interactive sequence mining techniques.
+426,Output codes for multiclass categorization problems.
+427,Social information seeking support implications discussed.
+428,Genetic algorithm for feature subset selection.
+429,Personality-driven social behaviors in believable agents.
+430,Multivariate information bottleneck with Bayesian networks.
+431,Specialized multi-user conference search engine.
+432,Automatic I/O hint generation with speculative execution.
+433,Web Aliasing: Prevalence and Performance Implications analysis.
+434,Web page information mining intelligent system.
+435,Modeling score distributions in information retrieval engines.
+436,Combining OOP and ER for data management.
+437,Lazy PRM reduces collision checks for path planning.
+438,MAS architectural styles based on organizational theories.
+439,HTML wrapper representation and learning.
+440,Probabilistic reasoning with conditional constraints and default knowledge.
+441,Updating knowledge bases through abduction.
+442,Intelligent agents for web tasks using theory refinement.
+443,"Spatial data mining techniques, strengths, weaknesses, challenges."
+444,Model management for complex database applications.
+445,Framework for multiagent system methodologies evaluation.
+446,Machine colour constancy limitations for object recognition.
+447,Visual attention model for scene analysis.
+448,Runtime system for interactive web services using CGI.
+449,Stereo rig for motion capture and analysis.
+450,"Future sensor systems with intelligent agents: feasibility, application."
+451,Motivational system for human-robot interaction.
+452,SQL-based data mining on IBM DB2 UDB EEE.
+453,Ant routing algorithm for network management.
+454,Intelligent conceptual modeling tool with logical reasoning.
+455,Neuro-fuzzy control for robot localization.
+456,Efficient temporal aggregate computation with range predicates.
+457,Innovative IT research group in Sweden.
+458,Survey on knowledge compilation methods.
+459,Enhancing realism in virtual agents through behavior modeling.
+460,Temporal statement modifiers for query language enhancement.
+461,Selecting and materializing warehouse views.
+462,Fault-tolerant robot cooperation through adaptive architecture.
+463,Scientific data management challenges and solutions.
+464,Issues and solutions in deductive database languages.
+465,Ordinal regression in social sciences using machine learning.
+466,Child-friendly digital library interface design.
+467,Region-based image retrieval algorithm with index.
+468,Wearable spatial conferencing space for communication.
+469,AR technology with computer vision for scene understanding.
+470,Hybrid coordination for AUV control with RL.
+471,Authority extraction from hyperlinked environments for web search.
+472,Introduction to hybrid neural systems with recent results.
+473,Design challenges in mixed-initiative agent systems.
+474,User-defined time granularities symbolically represented.
+475,Optimizing queries with limited access patterns.
+476,Agent architecture for proactive persistent NPC in games.
+477,Metasearch tool for text and image online.
+478,Interactive text database management through mining operations.
+479,Optimizing ADFs with Factorized Distribution Algorithm.
+480,Control law design for haptic interfaces in VR.
+481,Whole-hand input design for virtual environments.
+482,Parallel processing for multi-user VR applications.
+483,Improving business process quality through exception analysis.
+484,Collaborative decision-making model in multi-agent systems.
+485,Plan recognition in military simulation using ML.
+486,Inductive verification of cryptographic protocols using Isabelle/HOL.
+487,Word clusters enhance text classification accuracy.
+488,Web search engine coverage and recency analysis.
+489,Distributed multimedia retrieval framework with flexible queries.
+490,Bank controlling data warehouse system.
+491,Agent autonomy in attention planning.
+492,Efficient weighted proximity relationship computation algorithm.
+493,Electronic travel recommendations multiagent system.
+494,Autoepistemic belief theories and semantics computation.
+495,Clustering algorithms for web document categorization.
+496,DALI logic programming language for agent systems.
+497,Low-power processor board for wearables.
+498,Design support system integration using case-based learning.
+499,Automated recommendations for collaborative filtering systems.
+500,Ad-hoc collaboration with schedule learning and prediction.
+501,Arabic OCR systems comparison using paired model.
+502,Genetic algorithm enhances accuracy of small rules.
+503,Declarative signatures transformed into misuse IDS.
+504,Efficient location table for physics objects.
+505,Topical Virtual Reality Internet Solution.
+506,Adaptive color segmentation for hand localization.
+507,Document collection synthesis in various fields.
+508,Min-wise independent permutations for document detection.
+509,Hybrid multiagent system for fuzzy modeling techniques.
+510,Probabilistic deduction with conditional constraints: NP-hard complexity.
+511,AR tool for spatial planning with bricks.
+512,Enhancing web information access with ontologies.
+513,Semantic web site querying with WG-log model.
+514,Automatic labeling of document clusters using hierarchy.
+515,Semantic integration of heterogeneous information sources using RDF.
+516,Comparison of ML and KDD in Databases.
+517,Pattern-supported UI design for information visualization.
+518,Learning probabilistic relational models from databases.
+519,Innovative replication protocols with improved performance.
+520,Adaptive language model for probability estimation.
+521,Automatic database selection using language models.
+522,Vision techniques enhance reinforcement learning speed.
+523,Hierarchical information coding in web directories.
+524,Keyword-based search system for relational databases.
+525,Corporate memory integration in supply chain.
+526,Text classification with labeled and unlabeled data.
+527,Tutoring system with dialog processing.
+528,Behavior-based learning for robots in dynamic conditions.
+529,Wrapper induction for semistructured data extraction.
+530,Vision-guided navigation with SHOSLIF and RPT.
+531,Human motion modeling and tracking through statistical analysis.
+532,Mobile-agent applications benefit from context-dependent coordination.
+533,Learning categories for mobile robot through interaction.
+534,Qualitative spatio-temporal representation and reasoning.
+535,SVM text classification statistical learning model.
+536,Framework for open societies of interacting agents.
+537,Semantic integration with common data model.
+538,Enhancing PageRank with Intelligent Surfer.
+539,Data warehousing research advances and challenges.
+540,Learning environmental features for pose estimation.
+541,Enhances voicemail with visual browsing and search.
+542,Team formation in distributed environment by mobile agents.
+543,CTL branching-time temporal logic resolution method.
+544,Ontology and recommender system synergy for preferences.
+545,Intersection of computer science and statistics.
+546,Flaws in mobile agent security protocols identified.
+547,Efficient KNN search using iDistance technique.
+548,Bayesian exploration for mobile robot mapping.
+549,Facilitates global data sharing standards.
+550,Recovery of evicted variables in computer systems.
+551,Intelligent Diagnosis Systems Comparison in Various Approaches.
+552,Enhancing chat programs with Threaded Text Chat.
+553,Topic-driven crawlers for seeking relevant web pages.
+554,Global platform for spatial-aware applications integration.
+555,Compositional agent model for diverse applications.
+556,Decision criteria and optimization in robotics.
+557,Sensor architecture for autonomous robots in indoor environments.
+558,Personality and emotions in character interaction.
+559,Evolutionary Multiobjective Optimization Techniques: State and Future.
+560,Java resource accounting interface for Internet applications.
+561,Agent-based framework for mobile user support.
+562,Calibrating lag in augmented/virtual environments.
+563,Web-based planning in cooperative multiagent system.
+564,Audio-Visual Speaker Detection with Dynamic Bayesian Networks.
+565,Entity matching and clustering for record linkage.
+566,Incorporating degrees of belief in BDI agents.
+567,Model checking Agent UML protocol diagrams.
+568,Hierarchical method for drawing large graphs.
+569,Embodied agents for human-computer interaction.
+570,Efficient email filtering using machine learning.
+571,Context-aware communication system for mobile devices.
+572,Reflective metalogical framework for rewriting logic.
+573,Optimizing robot numbers for efficient web indexing.
+574,Mobile AR support for process control design.
+575,Algorithm for reverse nearest neighbor queries.
+576,Integrating printed and digital information with web tech.
+577,Emotion modeling in decision-making for computerized agents.
+578,Real-time database challenges and solutions.
+579,User models for adaptive web search.
+580,Mobile app development over mobile networks.
+581,Domain authoring support using layered ontology.
+582,Web-based system outperforms search engines.
+583,Database selection for multimedia databases on the Web.
+584,Data-driven fuzzy classifier with decision-tree initialization.
+585,Evolution of Walden's Paths authoring tools.
+586,Layered NLP for improved information retrieval.
+587,Methodology for cross-database document similarity.
+588,Hierarchical learning in sensory-motor systems with RNNs.
+589,Mobile agents improve web server programmability.
+590,Flexible queries for semi-structured data sources.
+591,Task model development for Collagen For.
+592,Dynamic replica selection for timing fault tolerance.
+593,Framework for adaptive learning using knowledge containers.
+594,Real-Time Index Concurrency Control for Real-Time Databases.
+595,Efficient verification for concurrent software properties.
+596,Evaluation of humanoid agents in e-retail applications.
+597,Nonlinear system identification with fuzzy control.
+598,Automated facial animation system for realistic expressions.
+599,AR classification based on task focus and augmentation nature.
+600,Real-time air-mission simulations plan recognition.
+601,Accelerating RL with automatic subgoal discovery.
+602,F-serializability for multiversion concurrency control protocols.
+603,Hidden Markov Model for Information Extraction.
+604,Agent-aided aircraft maintenance with multi-agent system.
+605,Web-based knowledge extraction through data mining.
+606,Intelligent agent development for diverse applications.
+607,Efficient temporal DBMS implementation with stratum approach.
+608,Evaluate topic-driven web crawlers for SEO.
+609,Scalable consistency protocols for distributed services.
+610,Query optimization strategies using bitmap indices.
+611,Adaptive web-applications from reusable components.
+612,Error-Correcting Codes enhance text classification accuracy.
+613,Mobile agents for network management strategies.
+614,Socialware for network communities.
+615,Updating mental states through effective communication.
+616,Preserving context in hypermedia querying.
+617,Improving dialogue inferencing in conversational CBR.
+618,Wearable AR system with collaboration focus.
+619,Distributed real-time database with multimedia support.
+620,Agent framework using formal methods.
+621,Integration of SE and HCI usability patterns.
+622,Speculative computation in multi-agent systems with default logic.
+623,Nearest neighbor algorithms for dynamic control tasks.
+624,Enhancing expert systems with reducts and classifiers.
+625,Efficient mobile agent planning for information retrieval.
+626,Learning probabilistic Datalog rules for information classification.
+627,BDDs for firewall and router access management.
+628,Efficient wireless network communication protocol: CARMA-NTG.
+629,Data resource selection in distributed visual systems.
+630,Centroid-based algorithm excels in document classification.
+631,Critique and propose new similarity concepts.
+632,Rule-based query optimizer in VenusDB: overview and assessment.
+633,MVLQ for spatio-temporal data with raster images.
+634,Learning source coverage statistics efficiently for integration.
+635,Enhancing safety in end-user programming.
+636,Case-based learning of formal languages with tuning.
+637,Developmental robotics for complex behavior building.
+638,Enhancing app development for pervasive computing.
+639,Augmented reality challenges and future possibilities.
+640,Integration framework for E-Commerce data.
+641,Coastal navigation for mobile robots in dynamic environments.
+642,KRAFT Architecture for Knowledge Fusion and Transformation.
+643,Nonmonotonic inheritance in object-oriented deductive databases.
+644,Adaptation for diverse internet users.
+645,Algorithm for evaluating Quantified Boolean Formulae.
+646,Automatic lifelike gesture generation for virtual agents.
+647,Automatic genre analysis for digital library organization.
+648,Landmark-based localization using image landmarks.
+649,Adaptation techniques for intrusion detection and response systems.
+650,Measuring similarity among XML documents and DTDs.
+651,Optimizing I/O for queries on tertiary storage.
+652,Evolutionary routing heuristics for backbone networks.
+653,Optimizing OODB queries with monoid comprehension calculus.
+654,Agents' coordination plans overview.
+655,Enhancing LDAP functionality for telecom integration.
+656,Image retrieval with textural features and classifiers.
+657,Neural network for image retrieval system.
+658,Accurate query selectivity estimation using workload-aware histogram.
+659,Seamless session transfer across platforms.
+660,Modeling trajectory-based tasks with steering law.
+661,Indexing techniques for semistructured data in Lore DBMS.
+662,Medical data association rules discovery.
+663,Federated system for NDLTD using MARIAN middleware.
+664,Enhancing wearable computing with visual context awareness.
+665,Agent conversation policies for global coherence.
+666,Knowledge modeling in AI integrated with other disciplines.
+667,Coverage optimization in wireless sensor networks.
+668,Runtime analysis for complex distributed systems.
+669,Logic program transformation for specialized evaluation.
+670,Fuzzy lattice framework for learning and decision-making.
+671,Extension of ALC to handle vagueness.
+672,Scalable algorithm for detecting disagreements in teams.
+673,Intelligent Telecommunication: Expert Systems and Data Mining.
+674,Agent-based drama for interactive learning.
+675,Classification framework for AR in surgery.
+676,Agent technology for information discovery and filtering.
+677,Mediator cost models for data sources.
+678,Central node: Programming Paradigm - The Logic.
+679,Data integration for consumer decision-making.
+680,Advanced multilingual spoken dialogue information system.
+681,Enhancing mobile and everyday objects with context awareness.
+682,Software infrastructure for collaboration in dynamic environments.
+683,Dynamic user model for intelligent information queries.
+684,RF*IPF weighting for multimedia retrieval integration.
+685,Mobile Agents Platform for Distributed Computing in Java.
+686,Java framework for distributed and mobile applications.
+687,Optimizing query plans in data integration systems.
+688,Meta-learning strategies for large data sets.
+689,Database reformulation for conjunctive databases.
+690,Bayesian system for modeling human interactions.
+691,Brick-based camera control system for virtual interaction.
+692,"Implicit HCI through context, multiple cases emphasized."
+693,Parallelizing PRM motion planning methods for efficiency.
+694,Diagnostic neural network model without independence assumption.
+695,Secure Object Spaces for Agent Coordination in Java.
+696,Bimodal interface for 3D display control.
+697,DAML-Enabled Web Search Architecture with Semantic Queries.
+698,Algebraic process semantics for contextual nets.
+699,Agent negotiation in e-commerce using influence diagrams.
+700,Speeding up kernel PCA learning with EM.
+701,Virtual enterprise design with BDI agents vs. objects.
+702,Discovering unexpected information from competitors' websites.
+703,Muse system for diverse Named Entity Recognition.
+704,Enterprise agents resolving conflicts in eBusiness.
+705,Evaluate recommender algorithms for Internet information broker.
+706,History and techniques of information visualization.
+707,Self-supervised learning for visual tracking and recognition.
+708,Ambient displays connecting people with digital information.
+709,User Interface Design Requirements for Social Computing.
+710,Machine learning text understanding system for domains.
+711,Caching search engine results for efficiency.
+712,Tableau-based proof method for temporal logics.
+713,Bridge-playing program approaches human expert level.
+714,Active learning reduces annotation effort in NLP.
+715,Logic for NLU and CSR in SNePS.
+716,Normative reasoning in diagnosis and decision-making.
+717,Agent-based system for agile BPM.
+718,Real-time error in location modeling.
+719,Learning and recognizing face space methodology.
+720,Comparison of modal language with extensional counterpart.
+721,Overview of web mining in soft computing.
+722,Robot navigation with active perception and mapping.
+723,Regularizing AdaBoost for soft margin classification.
+724,Accuracy not suitable for comparing induction algorithms.
+725,Integrates peer-to-peer networking in AgentScape framework.
+726,Real-time scheduling experiments with agent actions.
+727,Real-time ASL recognition with video HMMs.
+728,Conceptual annotation for web-based information retrieval.
+729,Enhancing cross-cultural communication with large screens.
+730,Active Disk Decision Support Algorithm Performance Evaluation.
+731,Temporal query operators for XML databases.
+732,Document clustering with word clusters for performance.
+733,Algebraic models for contextual nets with token philosophy.
+734,Ejection chain approach for generalized assignment problem.
+735,Mapping decision trees to neural networks.
+736,Automated topographic object reconstruction from aerial images.
+737,Web document classification using hyperlinks and semantics.
+738,Predicting mobile robot behavior using causal model.
+739,Comparison of AdaBoost and Rocchio for text filtering.
+740,Collaborative platform for flexible agent-based data structures.
+741,Efficient PDA web form entry optimization.
+742,Enhancing web resource exploration and organization.
+743,Counterexample method for inductive conjectures.
+744,Recidivism prediction using machine learning with ROC analysis.
+745,Decision tree induction with RELIEFF algorithm.
+746,Enhancing mobile user interaction with situated computing.
+747,Robust face recognition using SFS method.
+748,Robotic systems adaptation in adversarial environments.
+749,Automated state abstraction for hierarchical learning.
+750,Behavior-based position selection for simulated soccer agents.
+751,Supervised WSD algorithms portability and tuning.
+752,Web app for parallel data processing.
+753,Web-based voicemail interface improving user experience.
+754,Efficient management of views in XML repository.
+755,Agent-based approach inspired by wasp colonies.
+756,Algebraic Topology for Analogy Solving in Knowledge Representation.
+757,Social skill development in humanoid robot through imitation.
+758,Individual vs. Collective Action in Multi-Agent Learning.
+759,Web-based knowledge extraction for improved retrieval.
+760,Personalized news service with user modeling.
+761,Semantics and language for complex object databases.
+762,Transforms interaction with wearable public display.
+763,Data integration services for efficient retrieval.
+764,ROL2: Real Deductive Object-Oriented Database Language.
+765,Vision-based interaction replacing traditional input devices.
+766,Adaptive hypermedia for diverse user needs.
+767,Autonomous robot with symbol recognition and emotion.
+768,Concurrency control for broadcast environments with update consistency.
+769,Ensemble learning for network intrusion detection.
+770,Testing multi-agent systems in dynamic virtual environments.
+771,Intelligent tutoring in distance learning with multi-agents.
+772,Crowd guidance with rule-based behavior system.
+773,Genetic algorithm complexity analysis without parameters.
+774,Repairing speech act misunderstandings through negotiation.
+775,Advanced information retrieval and visualization system.
+776,Mobile code for information consistency and maintenance.
+777,Enhancing mobile agent security with trusted hardware.
+778,Neural network for feature binding and segmentation.
+779,Agent framework for multi-agent systems.
+780,UML Statecharts for Multiagent Systems in Manufacturing.
+781,XML data storage performance evaluation in databases.
+782,Interface agents for efficient human-computer interaction.
+783,P2P content search algorithm with TFxIDF approximation.
+784,Improving wordclass tagging accuracy through system combination.
+785,Gabor features for eye detection and head tracking.
+786,Integrating data mining and information extraction.
+787,Human emotions and consciousness complexity.
+788,Summarizing text documents with sentence selection.
+789,Standardizing communication between software agents using ACL.
+790,Debunking myths about multimodal interaction.
+791,Temporal views over non-temporal data sources.
+792,Intelligent agents in concurrent engineering systems.
+793,Active Markov Localization for Mobile Robots.
+794,Efficient projective bundle adjustment algorithms.
+795,Sensory-motor agent learning model using neural network.
+796,Rewards and pitfalls of context-aware interactive systems.
+797,Simultaneous Proxy Evaluation for Web Caches.
+798,PDA app for efficient information navigation.
+799,Learning Markov processes in dynamical systems.
+800,Handling updates in broadcast disks with versions.
+801,Wrapper generation for information extraction.
+802,Improving OID indexing in temporal OODBs.
+803,Data integration for unified user view.
+804,Hand lag critical for VR object reaching performance.
+805,Scalability in Formal Concept Analysis with medical data.
+806,Database synchronization for improved data freshness.
+807,Mobile agents for QoS management in IP networks.
+808,Knowledge-based approach for intelligent team training systems.
+809,New programming language for embedded systems.
+810,Improving interaction design in virtual environments.
+811,Termination detection in mobile computing using formal methods.
+812,Weighting and partitioning in multi-agent RL.
+813,SG-MRF model for effective MRF modeling.
+814,Planning architecture for noncombatant evacuation operations.
+815,Automated web-based knowledge base creation.
+816,Efficient object detection through graded learning.
+817,Efficient dynamic range-sum queries algorithm.
+818,Fuzzy logic programming with argumentation semantics.
+819,Security-focused mobile agent server architecture.
+820,Optimizing leveled commitment contracts in negotiations.
+821,Query processing in Relationlog with advanced techniques.
+822,Data and knowledge management with object-oriented technology.
+823,Web agent for academic database maintenance.
+824,Cloning mechanisms for load balancing in agents.
+825,Challenges in web search quality.
+826,Dynamic Data Warehouse Maintenance in Concurrency.
+827,Antisocial agents disrupt Vickrey auction dynamics.
+828,Guidelines for readable IT-architecture diagrams.
+829,Enhancing manufacturing system integration and agility.
+830,Machine learning techniques for rule extraction.
+831,Semiconductor data mining using rough set theory.
+832,SVM with SRM principle for classification and regression.
+833,Deictic representation in reinforcement learning evaluation.
+834,User study on email filtering profiles.
+835,KeyPhrase-based information filtering with context filters.
+836,Automating domain-specific search engines with machine learning.
+837,Active Spaces in Ubiquitous Computing.
+838,Wireless PDA software with customizable JVM middleware.
+839,Feature selection algorithms compared using Bayesian networks.
+840,Fuzzy logic toolkit for early modeling.
+841,Comparison of distance metrics and local planners.
+842,"SVM tutorial on theory, implementation, performance analysis."
+843,Automated image retrieval using link analysis.
+844,Boosting time series classification with interval literals.
+845,Autonomy-based multi-agent system for robotics simulations.
+846,Feature selection methods for text learning.
+847,Document clustering importance and optimization methods.
+848,Focused crawling and tunneling for digital library.
+849,Usability analysis of log files in TW system.
+850,Visual landmark learning for pose estimation.
+851,Real-time scheduling for distributed agents.
+852,Automating design engineering process with intelligent agents.
+853,Temporal aggregation algorithms for large-scale databases.
+854,Virtual environment for university interaction.
+855,Automatic multi-lingual information extraction with unsupervised learning.
+856,Future database system with versatile features.
+857,Data access and analysis challenges solution.
+858,Learning techniques enhance multi-agent system efficiency.
+859,Bayesian approach enhances face matching recognition.
+860,Formal methods for fuzzy system modeling.
+861,CBR Implementations for Corporate Memory Management strategies.
+862,Database optimization for nonmonotonic reasoning with dlv.
+863,Query processing in CBIR system with examples.
+864,Robotic soccer team with multiagent control.
+865,Link anchor text more effective than content ranking.
+866,Enhancing short-text classification with background knowledge.
+867,Optimizing patient flow control with composable agents.
+868,Digital library infrastructures for future user support.
+869,Query calculus for spatio-temporal object databases.
+870,Control methods for complex articulated agents dancing.
+871,Efficient subsequence search using Segment-Based Approach.
+872,Logic Programming Extension for Abductive Reasoning.
+873,Automated pattern acquisition for Japanese information extraction.
+874,Schema change model for databases.
+875,Customizing patterns for efficient information extraction.
+876,Integrity constraints in logical framework: semantics overview.
+877,Temporal query operators in XML databases.
+878,Hierarchical probabilistic clustering for labeled and unlabeled data.
+879,Theme-Based Web News Retrieval System.
+880,Neural-Q learning for reactive robot behaviors.
+881,Flexible decision-making strategies for multi-agent systems.
+882,Meta search engine for digital library retrieval.
+883,State spaces of object-oriented Petri nets analysis.
+884,Case-based learning of indexed recursive languages.
+885,Search engine comparison for online services.
+886,Analysis and optimization of ECA rules on XML.
+887,Threshold estimation for information filtering systems.
+888,Learning drifting concepts with labeled and unlabeled data.
+889,Neural folding architecture for drug design.
+890,Hierarchical clustering with probabilistic methods for datamining.
+891,Aggregation in multi-feature cubes.
+892,Neural methods framework for minimal distance.
+893,Bio-inspired navigation model for autonomous robots.
+894,Statistical pattern recognition for multimedia interaction.
+895,Cellular system for pattern recognition.
+896,Data mining for adaptive intrusion detection models.
+897,Cooperative problem solving with trainable information assistants.
+898,Markov techniques for object localization with robots.
+899,ATM PNNI routing performance analysis.
+900,Explore alternate interface physics with zoomable sketchpad.
+901,Web document clustering using STC algorithm.
+902,Inductive text classification for NLP systems.
+903,Monitor robot program execution for recovery.
+904,Discovering web content with InfoDiscoverer.
+905,Neural network taxonomy and computational properties.
+906,Automated data extraction with HTML wrappers.
+907,Diagnosis Frontend of dlv System: Implementation and Applications.
+908,Comparison of XML query languages from different communities.
+909,Optimization through integrating case-based reasoning with tabu search.
+910,Representing and querying XML with incomplete information.
+911,Load balancing survey with mobile information agents.
+912,Feature extraction and learning vector quantization.
+913,Property specifications in verification technology.
+914,AI software for home entertainment.
+915,Logic tuple centres using ReSpecT language.
+916,Control UTEP robot in AAAI contests.
+917,Efficient cluster optimization using hybrid genetic algorithm.
+918,Optimal control with free final time.
+919,Bayesian modeling system for human interactions.
+920,Parallel GA for scalable rule discovery in data mining.
+921,Survey on data mining using soft computing.
+922,Mining optimized support rules for numeric attributes.
+923,Enhanced querying through databases and web searches.
+924,Adaptive tech in web-based education review.
+925,Temporal web repository with object versioning and distribution.
+926,Neural swimming controllers for lamprey simulation.
+927,Declarative constraints for multi-user application data model.
+928,Text plane orientation and recovery method.
+929,ATC alarm design experiment: visual notification effectiveness.
+930,Enhancing XML query processing with keyword search.
+931,Uniform web page sampling algorithms for selection.
+932,Document recognition neural networks with global training.
+933,Emergence of spatial structures in cellular automata.
+934,Hybrid classifier for imprecise environments.
+935,Spatial data system for image retrieval.
+936,Query containment in semistructured knowledge bases.
+937,Flexible distributed database management with AgentTeam.
+938,Temporal consistency modeling in data warehouses.
+939,Layout guidelines for web document design.
+940,XML for code migration.
+941,Bayesian network foundations integrating formal and interpreted approaches.
+942,Avoiding logical omniscience in belief modeling.
+943,Data mining models as internet services accessibility.
+944,Advanced browser for library information retrieval.
+945,UB-Tree for efficient interval management.
+946,Privacy-preserving distributed data mining algorithm.
+947,Image database system view mechanism.
+948,Comparison of GAV and LAV in data integration.
+949,Document content and connectivity probabilistic model.
+950,Multimedia retrieval in federated digital libraries.
+951,Multi-robot coordination for target acquisition.
+952,Agent bootstrapping in real-world applications.
+953,"Face detection with linear subspaces, one hop: neural networks."
+954,Data consistency in mobile data broadcasting.
+955,Supporting creativity with advanced interfaces and visualization.
+956,Efficient storage and indexing for data warehouses.
+957,Enhancing user engagement with embodied interface agents.
+958,Neural network optimization for time series prediction.
+959,Enhancing analytical models for replicated database performance.
+960,Privacy-preserving association rule mining in distributed data.
+961,Reinforcement learning for autonomous helicopter control.
+962,Soccer Server Challenges and Solutions.
+963,Distributed control system for multi-robot behavior.
+964,Optimizing de/convolution function for neural net modules.
+965,Query rewriting algorithm for semistructured data.
+966,Enhancing case-based reasoning for classification.
+967,Logical case memory systems for learning and adaptation.
+968,Animated agent with deictic behaviors for learning environments.
+969,Realistic head animation mesh creation for individuals.
+970,Machine learning for task models.
+971,Call center call routing system.
+972,Gesture-to-speech system with neural networks.
+973,Software infrastructure for reconfigurable control systems.
+974,Spatial language processing in virtual environment.
+975,Active rule analysis and optimization in databases.
+976,Scalable metasearch engine with efficient database selection.
+977,Improved Internet Search through Word Sense Disambiguation.
+978,Agent relationships management with influence diagrams in systems.
+979,Neural network models facial expression perception.
+980,Automated SVM text categorization for information overload.
+981,Visual query language for DISIMA multimedia system.
+982,Database categorization for improved document retrieval.
+983,Presence awareness impact on instant messaging.
+984,New science of multiagent systems with social focus.
+985,Automated data extraction from complex HTML websites.
+986,Neural network feature extraction methods comparison.
+987,CBR application with XML integration on Internet.
+988,Kernel expansion for improved classification with unlabeled examples.
+989,Infrastructure for location-aware data management.
+990,Adaptive fault tolerance in distributed multi-agent systems.
+991,Embodied conversational kiosk with spatial intelligence display.
+992,Efficient interval management in object-relational databases.
+993,ECOC enhances text classification accuracy with binary tasks.
+994,COHSE project: Hypermedia Service with ontological reasoning.
+995,Meta-learning for distributed data mining challenges.
+996,Agent conversation interactions in multi-agent coordination.
+997,Fast file access enabled by mobile agents.
+998,Rule induction in machine learning applications.
+999,Scaling inductive algorithms for large databases.
+1000,Object transportation and orientation in Human-Computer Interaction.
+1001,Extending active objects to autonomous agents in OOCP.
+1002,Automated hierarchical text database organization system.
+1003,3D obstacle-based PRM for workspace analysis.
+1004,Evolution of internet knowledge discovery.
+1005,Evolved embryogenies for design problem.
+1006,CAD system using deductive object-relational databases.
+1007,Cooperative response to failing database queries.
+1008,Problem-solving plans in dialogues; repairing misunderstandings.
+1009,Facilitates knowledge exchange through ontology mappings.
+1010,Knowledge base implementation comparison in Otter and CLIPS.
+1011,Jazz: 2D Scene Graph Toolkit for ZUIs.
+1012,Agent interaction analysis in software engineering design.
+1013,Agent architecture with active message board.
+1014,Enhancing Intranet document search with semantic tagging.
+1015,Predicts behavior in games using EWA Lite theory.
+1016,Autonomous web agent for paper retrieval.
+1017,Future trends and challenges in multimedia interfaces.
+1018,SDCC Framework integrates data warehouse maintenance algorithms.
+1019,Research integration for effective knowledge management.
+1020,Enhancing E-commerce Efficiency Through Innovative Features.
+1021,Intelligent crawling learns web page linkage.
+1022,Agent-Oriented Software Engineering and Complex Systems Characteristics.
+1023,Bioinformatics resources benefit from machine-understandable ontologies.
+1024,Tractable query answering in indefinite constraint databases.
+1025,Autonomous robot office courier scheduling challenges.
+1026,Collaborative knowledge maintenance in AI.
+1027,Mobile sensing techniques for user interaction enhancement.
+1028,Query evaluation conditions for incremental updates.
+1029,Self-adaptive operator scheduling in Religion-Based EA.
+1030,Predicting equipment failures with network alarm sequences.
+1031,Dynamic clustering for symbolic learning.
+1032,Intelligent control architecture for underwater vehicles.
+1033,Introductory Visualization Course for MSc Students at University.
+1034,Database schema change handling model.
+1035,Platform for networking everyday objects.
+1036,Word constraints in object-oriented models.
+1037,Distributed process calculus for local communication areas.
+1038,Effects of adding more IR systems for data fusion.
+1039,Hidden Web crawler for search form content.
+1040,Task allocation in multi-agent systems using contract nets.
+1041,TuCSoN impact on Intelligent Environment Engineering.
+1042,AR-based NUI planning tool for construction/design.
+1043,Defeasible logic representation results and normal forms.
+1044,Swarm computing for environment-aware distributed systems.
+1045,Human behavior models in game theory integration.
+1046,Database analysis and information extraction overview.
+1047,Customized materialized views for mobile database services.
+1048,Relevance feedback in image search.
+1049,JACK Intelligent Agents for Java applications.
+1050,Enhances collaborative search in the community.
+1051,Validation and verification in software systems.
+1052,Expressive footwear with dense wireless sensing capabilities.
+1053,Enriching WWW with ontologies for intelligent search.
+1054,Virtual pets with biological-inspired behavior.
+1055,Time consistency management in active data warehouses.
+1056,Scalable continuous query system for Internet databases.
+1057,Improve schedule through knowledge acquisition and revision.
+1058,Active storage hierarchy for efficient database systems.
+1059,Efficient metasearch for large text databases.
+1060,Text analysis rules with negation.
+1061,Optimizing regular path queries with algebraic rewritings.
+1062,Mobile agents improve information integration infrastructure.
+1063,Protein structure prediction with evolutionary algorithms.
+1064,Visual exploration of temporal object databases.
+1065,Agent infrastructure development through layered approach.
+1066,Boosting for WSD: Enhanced accuracy in disambiguation.
+1067,Study on OS impact on Java performance.
+1068,Spatial database system with abstract data model.
+1069,Measures structural-context similarity in objects.
+1070,Speech recognition and evaluation in news retrieval system.
+1071,Syntactic autonomy in self-organizing systems.
+1072,String-based model for infinite granularities.
+1073,Maximizing coverage of mediated web queries.
+1074,Efficient protocol for cooperative Web caching.
+1075,UFO protocol ensures consistency for mobile transactions.
+1076,MAS prototyping for vehicle monitoring on motorway.
+1077,Dialogue systems framework in virtual environments.
+1078,Probabilistic deduction with conditional constraints.
+1079,Mobile agent-based active network architecture customization.
+1080,Hand gesture recognition through visual motion patterns.
+1081,Temporal objects in spatio-temporal data models.
+1082,"Facilitates awareness, communication, and privacy."
+1083,Vision-based virtual environment interaction interface.
+1084,Prototype WWW-browser with special needs adaptations.
+1085,Text mining system with integrated IE and DM.
+1086,Efficient containment queries in relational databases.
+1087,Sparse regressors model selection using GSIC.
+1088,ARQuake: AR First Person App - Outdoor/Indoor Augmented Reality.
+1089,Real-time transaction challenges in mobile databases.
+1090,Shopping agent creates wrappers for online vendors.
+1091,Geographical location in web search engine optimization.
+1092,Multimedia querying and benchmarking standard.
+1093,Mobile robot localization in dynamic environments.
+1094,Evaluation of alerting services in digital libraries.
+1095,Enhancing search results with quality metrics.
+1096,Efficient algorithms for publish/subscribe systems.
+1097,Adaptive wearable device learns user activities autonomously.
+1098,Approximating probability distributions with Bayesian networks.
+1099,Model management for data warehouse loading.
+1100,Database approach for video data modeling.
+1101,Optimizing OODB queries with object updates.
+1102,Compressed inverted index with block addressing.
+1103,Semistructured data represented in WG-Log language.
+1104,Facilitates interoperation among heterogeneous MASs.
+1105,Enhancing search result display in information retrieval.
+1106,EM algorithm for spatial transformations in images.
+1107,Coordination mechanisms in distributed environments.
+1108,Improve web search results through contextualization.
+1109,Data preparation framework with multidatabase language integration.
+1110,Wearable face recognition for social engagement interfaces.
+1111,Intonation rules for speech synthesis.
+1112,First-order queries on finite structures over reals.
+1113,Mobile BDI agents using TOMAS algorithm architecture.
+1114,P2P storage system for information sharing.
+1115,Quantitative knowledge for multiagent coordination.
+1116,Deductive Object-Oriented Database Integration System.
+1117,Research on web data extraction and retrieval.
+1118,Simplified approach to intelligent software agents.
+1119,Improved texture image retrieval with novel metric.
+1120,Stanford's innovative meta-searching protocol.
+1121,Efficient VTOIDX for temporal OODB systems.
+1122,Cost functions for efficient Support Vector Regression.
+1123,Evolutionary shape optimization using voxel-based representation.
+1124,Neural network ensemble design algorithm.
+1125,Global integration for efficient visual database access.
+1126,Unsupervised learning from dyadic data using mixtures.
+1127,OLAP query evaluation for statistical data integration.
+1128,Efficient algorithm for diverse multi-feature queries.
+1129,Logical language architecture for spatial and temporal agents.
+1130,Cooperative task learning using hierarchical multi-agent RL.
+1131,ANSI SQL isolation levels redefined.
+1132,Biologically-inspired model for human arm movements.
+1133,Dynamic pricing for parallel queues optimization.
+1134,Detecting heterogeneities in multiple text databases.
+1135,Automatic speaker tracking in broadcast news segments.
+1136,Enhancing search engines for natural language.
+1137,Human action recognition using moment-based features.
+1138,Supports healthcare improvement through continuous IPQM project.
+1139,Coordination algorithm with joint planning and learning.
+1140,Discover bilingual text on the web automatically.
+1141,Virtual interface design in immersive virtual reality.
+1142,Enhancing genetic algorithm optimization efficiency.
+1143,Distributed AI agents with lightweight logic programming.
+1144,Temporal matching for medical diagnosis under uncertainty.
+1145,Agent-based driving control in traffic simulation.
+1146,Customized query interface for knowledge retrieval.
+1147,Critique of stable model semantics in logic programming.
+1148,Interactive haptic painting system with virtual brushes.
+1149,Formal model of BDI-based AgentSpeak(L) language.
+1150,Monadic query languages for tree data analysis.
+1151,Complex multi-agent systems modeling and design.
+1152,Human eggs retrieved from mice ovarian tissue.
+1153,Cost estimation for spatial selections using histogram.
+1154,Programming by Demonstration for Gendered User-Agent Roles.
+1155,Optimizing A-Team for 3D layouts.
+1156,Selective connections between smart artefacts.
+1157,Rapid prototyping for agent-based software development.
+1158,Agent-Oriented Software Engineering for Complex System Design.
+1159,Transductive learning for image retrieval with Discriminant-EM.
+1160,Salient object detection using visual attention in scenes.
+1161,Improved recommendations through IF and CF.
+1162,Enriched discourse generator with gaze analysis.
+1163,Enhanced performance through multi-threaded approach.
+1164,Software agents for evolving distributed workflow models.
+1165,Supporting meta-cognitive skills coaching through computer-based system.
+1166,Secure meeting scheduling protocols with mobile agents.
+1167,Metasearch engines enhance search efficiency and effectiveness.
+1168,"Experimental CLP platform for integrity constraints, abduction."
+1169,Knowledge discovery in client-server databases.
+1170,Repository of web pages with unique architecture.
+1171,AI methods for ubiquitous web information system.
+1172,Defining concurrent tasks for practical agent systems.
+1173,Agent-based approach enhances Distance Vector Routing efficiency.
+1174,Sensor fault detection in mobile robots.
+1175,Extracts collocations for NLP tasks.
+1176,Adaptive virtual documents for personalized web applications.
+1177,Estimating change frequency for online data sources.
+1178,Machine learning for autonomous robotics control.
+1179,Efficient P-HTTP support in cluster-based servers.
+1180,Human study on web page clustering difficulty.
+1181,Workflow management integration in business environments.
+1182,Optimizing complex multi queries efficiently.
+1183,Query optimization in ontology-based KBMS.
+1184,Optimizing query plans for diverse data sources.
+1185,Computational mechanism for extended abduction.
+1186,Realtime location recognition for wearable computers.
+1187,Efficient use of signatures in OODB systems.
+1188,Proxy caching for database-backed websites.
+1189,Item-based recommendation algorithms for personalized filtering.
+1190,Hybrid model for sequential decision making.
+1191,Evolutionary algorithms' impact in diverse fields.
+1192,Challenges and directions in computational logic.
+1193,Enhancing organizational memory access through BPOKM and DECOR.
+1194,Reinforcement learning for personalized information filtering.
+1195,Evaluation of adaptable spoken dialogue system for train schedules.
+1196,QoS Management for Real-Time Web Data Services.
+1197,2D pattern recognition simulation on CAM-Brain.
+1198,Test platform for hardware evolution.
+1199,Genetic algorithms for conceptual engineering with designer interaction.
+1200,Extending ODMG with Temporal Functionalities.
+1201,Web search using URL input.
+1202,3D model search engine with shape-based queries.
+1203,Detecting redundancy and inconsistency in case bases.
+1204,Model checking for verifying sequential consistency on multiprocessors.
+1205,Enhancing security in e-commerce communications.
+1206,GP optimizes rule-based trading system.
+1207,Network file system for roaming users.
+1208,Memory-Based Reasoning probabilistic framework.
+1209,Gongeroos'99 Robocup simulator league approach.
+1210,Agent control with organizational context for applications.
+1211,Web change management tool for digital libraries.
+1212,Knowledge base for multiagent systems design.
+1213,Hybrid tumor detection method in colonoscopic images.
+1214,External memory algorithms enhance large data processing.
+1215,Text classifiers for numerical classification enhancement.
+1216,Enhanced user interaction efficiency through hierarchical agent interface.
+1217,Query answering with arithmetic comparisons using views.
+1218,Partial replication in immutable Vesta software repository.
+1219,Time-series data exploration with interactive timeboxes.
+1220,Instrumented dance shoes for interactive music performance.
+1221,Hierarchical optimization of policy-coupled SMDPs.
+1222,Temporal database modeling with DLRUS logic.
+1223,Automated agent adaptation to environment changes.
+1224,Optimizes object database system performance.
+1225,XML-based mobile agent coordination architecture.
+1226,Ontology-based knowledge management for organizational success.
+1227,Enhancing applications with context recognition using sensors.
+1228,Path constraints in structured and semi-structured databases.
+1229,Discovering typical substructures in semistructured data.
+1230,Indexing techniques for evolving spatial-temporal data.
+1231,Agent technology in communications systems overview.
+1232,Software engineering methodology selection using agent-oriented approach.
+1233,Identifying distinctive subsequences in multivariate time series.
+1234,Document categorization and query generation on WWW.
+1235,Managing federated digital libraries with semantic framework.
+1236,Efficient knowledge reformation for hypothetical reasoning.
+1237,Lineage tracing algorithm for data warehouses.
+1238,GIS Interoperability: Semantic Translation for Heterogeneity.
+1239,ASL recognition using 3D computer vision and HMMs.
+1240,Anomaly detection and analysis experience.
+1241,Text span selection for document summaries analysis.
+1242,Assessment methods for information quality criteria.
+1243,Limited success in speech processing in 1998.
+1244,Efficient cluster optimization with extended genetic algorithm.
+1245,Constraints as objectives in evolutionary optimization.
+1246,System for developing RoboCup agents.
+1247,Automatic text detection and tracking in videos.
+1248,Digital photo management for diverse audiences.
+1249,Optimal aggregation algorithms for database objects.
+1250,Active Disks improve processing near storage.
+1251,Design principles for tangible user interfaces.
+1252,Data cleaning framework with essential services.
+1253,Kalman filter for robot localization.
+1254,Enhancing temporal query optimization in databases.
+1255,Temporal extension of ODMG's Object Query Language.
+1256,New indexing methods for moving object trajectories.
+1257,XML-based multimedia middleware for mobile auctions.
+1258,Software error categorization for security breaches.
+1259,Video feedback improves virtual reality navigation efficiency.
+1260,Negotiation framework for multi-agent systems.
+1261,Mobile AR system for collaborative interaction and communication.
+1262,Developmental psychology and robotics synergy.
+1263,Efficient object recognition through simple image relations.
+1264,Parameter learning for logic programs with distributions.
+1265,Database selection impact on distributed searching efficiency.
+1266,Enhancing outdoor situational awareness with AR technology.
+1267,Fuzzy classifier structure identification with genetic algorithm.
+1268,Facial expression recognition and analysis system.
+1269,Automatic personalized tracking of scientific literature.
+1270,Interpreter for information reuse in virtual documents.
+1271,Reclustering algorithm for high data throughput.
+1272,UML-based analysis and design for multi-agent systems.
+1273,Communication simulation for expressive disorders.
+1274,Optimizing lazy functional languages theory.
+1275,AI with human-like personality traits.
+1276,Maintaining 3D virtual space interaction illusion.
+1277,Proactive DDoS detection with MIB Traffic Variables.
+1278,ULTRA update language for complex database updates.
+1279,Comparison of WSD methods: Naive Bayes vs. Exemplar-Based.
+1280,Graph mincuts for semi-supervised learning.
+1281,Groundness analysis for logic programs.
+1282,Formalisms for Multi-Agent Systems: Role and Implementation.
+1283,Intelligent web caching with data mining techniques.
+1284,Case-based learning algorithms and concept space.
+1285,Bibliography on Intrusion Detection with 600+ references.
+1286,Locating objects in 3D space using cameras.
+1287,AI methods for ubiquitous web information systems.
+1288,Task coordination in multi-agent systems.
+1289,MaSE and agentTool for multiagent system engineering.
+1290,Boosting learning algorithm performance through co-training.
+1291,Enhanced negotiation outcomes through leveled commitment contracts.
+1292,Embodied Cassie: Impact on cognitive agents.
+1293,Evolutionary agent behaviors model in ATNoSFERES.
+1294,Web information extraction using finite-state approaches.
+1295,Developing Language Processing Components with GATE: User Guide.
+1296,Ranking Web resources based on link structure.
+1297,Agent-oriented methodologies for application development.
+1298,Extending XML Data Key Specification with XPath.
+1299,AdaBoost analysis in binary classification with asymptotic.
+1300,Hierarchical models for accurate medical diagnosis.
+1301,Automated event model generation from video input.
+1302,Evaluation of topographic maps using SOM.
+1303,Mobile database framework for planned disconnections.
+1304,Future human-computer interaction through integrated design.
+1305,Secure reconfiguration of scalable CORBA systems.
+1306,HYMES: Hybrid expert system with dual representation.
+1307,Web community extraction using bipartite graphs.
+1308,Similarity computations in search engines.
+1309,End-user tool for actor development.
+1310,Emotion-based decision-making using computational approach.
+1311,Analysis of index organizations for object-oriented databases.
+1312,Incremental clustering for web page classification.
+1313,Reliable multicast protocol for distributed mobile systems.
+1314,Loglinear models for probabilistic reasoning.
+1315,Discovering popular online topics.
+1316,Cost-based object buffer replacement algorithm for databases.
+1317,Agent-based manufacturing integration with KQML semantics.
+1318,Challenges and opportunities with XML in web databases.
+1319,Constrained nearest neighbor queries with range constraints.
+1320,Enhancing computing systems with neural characteristics.
+1321,Enhancing web search efficiency and precision.
+1322,Personalized user interaction in adaptive Web stores.
+1323,Manage emergent business processes with multi-agent system.
+1324,MAXSON architecture enhances adaptive behavior in networks.
+1325,Logic programming extension with suspension and constraints.
+1326,Generative and discriminative combination in classifiers.
+1327,Enhancing memory with spatial cues.
+1328,Co-evolutionary system for fuzzy classification rules.
+1329,Agent programming language architecture comparison and evaluation.
+1330,Subpixel localization and uncertainty estimation in robotics.
+1331,Slow technology reflection design philosophy.
+1332,Agent-based systems in software engineering methodologies.
+1333,Fuzzy beam-search rule induction for classification.
+1334,Cooperative planning algorithm for multi-agent systems.
+1335,Automated intrusion response using intelligent agents.
+1336,Design tool for object manipulation in world.
+1337,Efficient auction winner determination algorithm.
+1338,Graph query language and processing techniques.
+1339,Trust model for virtual community stability.
+1340,Web agents taxonomy for research and applications.
+1341,Natural language interface for database queries.
+1342,AI techniques for enterprise modeling support.
+1343,Coordination agents for system correctness.
+1344,Synthetic actors with flexible personalities.
+1345,Variational methods introduction in graphical models.
+1346,Efficiency in E-commerce through Algorithms.
+1347,Optimizing projective bundle adjustment algorithms.
+1348,Mobile agent security protocol flaws identified.
+1349,Active camera system extracts low-res text.
+1350,Hierarchical machine learning for complex tasks.
+1351,Star clustering for efficient information organization.
+1352,Enhancing category-specific web search with query modifications.
+1353,"PeerWare: Middleware for Decentralized, Mobile Systems."
+1354,Genetic algorithms for binary quadratic programming optimization.
+1355,Knowledge representation system with ontology integration.
+1356,New data structure for string search.
+1357,Real-time adaptive feature and document learning.
+1358,Sociality's impact on autonomous agents' mental states.
+1359,PAES: Effective multiobjective optimization algorithm.
+1360,Text categorization with Weight Adjusted k-NN.
+1361,Automated creation of minority language corpora.
+1362,Visual tool for analyzing group interactions.
+1363,GATE architecture for NLP.
+1364,Simulating 3D painting challenges and solutions overview.
+1365,Learning multi-agent systems with incremental reinforcement.
+1366,Enhancing supervised learning with unlabeled data.
+1367,Spatial and temporal agent architecture with logic.
+1368,Learnability of semi-structured data from queries.
+1369,Middleware for mobile agents in Mansion system.
+1370,Telemedicine system development with multi-agent paradigm.
+1371,Parametric approach enhances occupancy-based world modeling efficiency.
+1372,Assessment and evaluation of spoken document retrieval.
+1373,Incremental view maintenance for nested relational models.
+1374,Intelligent system for organizing and retrieving documents.
+1375,Text detection and tracking in videos.
+1376,Query locality and caching for search engine.
+1377,Addressing internet overload with personal agents.
+1378,Improving cooperative control in multi-agent systems.
+1379,Supporting partial and complete tuples in databases.
+1380,Communication strategies in air defense simulations.
+1381,Generate character groundtruth for scanned documents.
+1382,Interactive decision-theoretic tool for systems.
+1383,ASL recognition with phoneme-based approach for scalability.
+1384,Parameter interdependencies handled in algorithms.
+1385,Robust decision rules in pediatric cardiology.
+1386,Enhancing text classification accuracy with data.
+1387,Italian language learning app with adaptive navigation support.
+1388,Operations in multi-valued Boolean logics.
+1389,Case-Based Reasoning in Science and Application.
+1390,Organizational approach for mobile agent applications.
+1391,AI in Medicine: Data-Intensive Systems Transition.
+1392,Managing distributed cooperative work in CAGIS environment.
+1393,Enhanced web search agent with intelligent features.
+1394,Web page classification with spatial information extraction.
+1395,Parallel View Maintenance for Distributed Data Warehouses.
+1396,Performance and memory-access of data mining applications.
+1397,Wireless news access with adaptive learning agent.
+1398,Testing mediator-based information source access quality.
+1399,Optimal rule order in logic program revision.
+1400,Regularization operators correspond to Support Vector Kernels.
+1401,Efficient decision tree mining for data streams.
+1402,Hybrid architecture for sequential decision making.
+1403,Latent variable modeling using Generative Topographic Mapping.
+1404,Vision-based robot localization with learned landmarks.
+1405,Fast concept indexing for document retrieval.
+1406,"Parallel computing for data visualization, indexing, and mining."
+1407,Gateway system for remote resource access.
+1408,Semantics for disjunctive databases with negative information.
+1409,Enhancing Agent UML Protocol for Supply Chain Management.
+1410,Query processing for moving objects with new algorithms.
+1411,Automated rule discovery for intrusion detection.
+1412,Reinforcement learning for mobile robot vision behaviors.
+1413,User model correction with requirements and metrics.
+1414,MaSE methodology and Agent Modeling Language overview.
+1415,Database selection testbed and evaluation.
+1416,Document caching and prefetching for storage hierarchies.
+1417,Optimizing projective motion with minimal parameters.
+1418,Antisocial behavior disrupts Vickrey auction dynamics.
+1419,Visual context aids infant word learning.
+1420,Focused crawling for user interest with adaptive strategies.
+1421,Software agents' mixed initiative in human interactions.
+1422,Semistructured data modeling and querying framework.
+1423,Intelligent insurance website with multi-agent architecture.
+1424,Symbolic vs. case-based classification algorithms comparison.
+1425,"Agent interactions, correlation, and coordination analysis."
+1426,OLAP-integrated approach for association rule mining.
+1427,Factors affecting perception of monocular head-mounted displays.
+1428,Automatic landmark selection for navigation using panoramic vision.
+1429,Learning control knowledge for nonlinear problem solving.
+1430,Model generation for semantic analysis.
+1431,AutoDoc: Search and Navigation Tool
+1432,Server selection methods in Web environment evaluation.
+1433,Model for co-present collaboration using Single Display Groupware.
+1434,"Tracking challenges in AR environments, hybrid approaches."
+1435,Software model for non-WIMP user interfaces.
+1436,Automated crossword puzzle solver with high accuracy.
+1437,Framework for sensor data storage and retrieval.
+1438,Flexible robotic control using case-based reasoning.
+1439,Organize web intelligence data with personalized system.
+1440,Study on n-grams in text categorization.
+1441,Database optimization through object identifier indexing.
+1442,Semistructured data extraction for Yellow Pages Assistant.
+1443,Paraconsistent logics for structured text reasoning.
+1444,Parsing as information compression through alignment and search.
+1445,Unsupervised neural networks for document classification with hierarchy.
+1446,Text filtering algorithms efficiency and effectiveness compared.
+1447,Blind deconvolution using FFT-based MCBD algorithm.
+1448,Model-based RL with targeted exploration.
+1449,Automating school timetabling with logic programming.
+1450,Translate Petri nets to Blueprint for agents.
+1451,Mobile robot navigation with learning controller.
+1452,Enhancing information retrieval with probabilistic model.
+1453,Efficient indexing and querying of XML data.
+1454,Visual hand gestures for human-computer interaction review.
+1455,Relational algebra extension for web query processing.
+1456,"KDT: Definition, Example, Novel Results."
+1457,Mobile agent coordination with reactive tuple spaces.
+1458,Dynamic logic programming for knowledge base updates.
+1459,Conflict resolution for intelligent agents in BOID architecture.
+1460,Data mining for structured XML DTDs.
+1461,Gradient boosting for robust function approximation.
+1462,Private information retrieval with efficient communication complexity.
+1463,Dynamic Data Warehouse Maintenance in Concurrent Environment.
+1464,Collaborative AR game with WARPING system.
+1465,User modelling for effective human web assistants.
+1466,Anchor text analysis for web document description.
+1467,RRL with incremental decision tree for learning.
+1468,Functional joins in complex databases with nested references.
+1469,Visual gesture recognition with appearance-based models.
+1470,Web assistant systems optimization expert.
+1471,Text database structures and word occurrences analysis.
+1472,Advancing HCI through Perceptual User Interfaces.
+1473,Comparison of ATNoSFERES and XCSM in controller design.
+1474,CBR in agent-oriented soccer player action selection.
+1475,Agent-based systems for team-oriented programming.
+1476,Dynamic multiagent systems with mobile capabilities.
+1477,Efficient color representation using Independent Component Analysis.
+1478,Improve text classification with limited labeled data.
+1479,Stylistic motion synthesis with diverse motion capture data.
+1480,Java framework for agent-based systems.
+1481,MOMIS Project: Common Data Model Integration.
+1482,Relationlog System Installation Guide for nested relational models.
+1483,Dialogue systems and virtual environments modeling techniques.
+1484,Enhancing Description Logics expressiveness and efficiency.
+1485,COHSE project: Open Hypermedia Service.
+1486,Semantic schema evolution in databases.
+1487,Automated design of learning-based multi-agent systems.
+1488,Face-to-face conversation elements for embodied agents.
+1489,Temporal interpolation with zonal-based algorithms for videos.
+1490,Types of Incremental Learning: Informational and Operational Approaches.
+1491,Reduce visual overload using haptic devices.
+1492,Embodied conversational agents mimic human conversation behaviors.
+1493,Router architectures for advanced differentiated services.
+1494,Neurocontrollers for group construction agents.
+1495,Web mining for bilingual text translation.
+1496,Middleware for content adaptation across diverse clients.
+1497,Semiotics in HCI: Benefits and Limitations.
+1498,Resource management design principles for intelligent spaces.
+1499,Summarization and visualization in video library.
+1500,Wearable eSleeve for situational information discovery.
+1501,Formal specification of dMARS agent architecture.
+1502,Agent-oriented requirements engineering with ConGolog and i*.
+1503,Model for building mediators over Web catalogs.
+1504,Programmable intelligent agent avatars using DLP.
+1505,Global-scale secure storage with adaptive features.
+1506,Firewall rules analysis using CLP.
+1507,Data-centric architecture using XML for collaboration.
+1508,Multi-agent system programming language with belief revision.
+1509,Enhancing genetic programming with logical grammars.
+1510,Intelligent multi-agent architecture for precise web search.
+1511,Interactive storytelling spaces for children using StoryRooms.
+1512,Topic-driven crawlers enhance search engine scalability.
+1513,Epidemic update protocol for database replication.
+1514,Context-aware wearable computing with CIS integration.
+1515,"Efficient, scalable routing using agent-based approach."
+1516,BMDA enhances algorithms with gene dependencies.
+1517,Enhanced data visualization with 3D and motion cues.
+1518,Learning coordination knowledge in multi-agent systems.
+1519,Reactive services pushed to XML repositories using rules.
+1520,Lossless regular views in semistructured databases.
+1521,Modeling physical devices using abstract data types.
+1522,Cooperative coevolution benefits in neural network formation.
+1523,Survey of distributed mobile robot research.
+1524,Correct bias in speech and text retrieval.
+1525,AdaBoost for text query refinement analysis.
+1526,Automated robot behavior recognition with Hidden Markov Models.
+1527,Adaptive algorithm for web text extraction.
+1528,Vision-based navigation using SHOSLIF for indoors.
+1529,Query transformations for improved question answering.
+1530,Gesture learning for visually mediated interaction.
+1531,Symbolic vision system with cellular automata and neural network.
+1532,Innovative domain-specific web search engine method.
+1533,Facility location algorithms with greedy heuristic.
+1534,Impact of e-commerce on database transactions.
+1535,Video indexing using HMMs for TV news.
+1536,Query scrambling for adaptive query processing.
+1537,Query answers in inconsistent databases.
+1538,Modeling characters' internal states and interactions.
+1539,Integrating mobile agents into web infrastructure.
+1540,Design techniques enhance air traffic control interfaces.
+1541,Multimedia pre-fetching prediction system for Internet.
+1542,Change management in dimensional data warehousing with temporal techniques.
+1543,Classifying web content for digital libraries.
+1544,Activity emergence in intelligent agents through learned models.
+1545,Interactive querying in semistructured databases for Web users.
+1546,Adaptive IE and Sublanguage Analysis: Overview and Progress
+1547,Enhancing web search efficiency with Adaptive InfoSpiders.
+1548,Modeling interactive objects for virtual human simulations.
+1549,Charm: I/O-Driven Strategy for Transaction Processing.
+1550,Distributed query processing for device networks.
+1551,Adaptive agents for robotic soccer teams.
+1552,Semantics of KQML for agent communication.
+1553,Self-organization in multiagent systems.
+1554,Efficient face detection with SNoW learning approach.
+1555,User profile learning for personalized news agent.
+1556,Wearable face detector for social engagement recognition.
+1557,Facial feature detection and tracking in videos.
+1558,Genomic annotation and analysis using multi-agent system.
+1559,TREC-8 Experiment: Hyperlinks and Distributed Retrieval.
+1560,Reasoning with examples in databases and formulae.
+1561,Automated task assignment with auction protocols.
+1562,Flexible interface for group collaboration with DISCIPLE.
+1563,Optimal auction winner determination algorithm.
+1564,Automated text categorization using machine learning.
+1565,Optimal camera parameters for object recognition.
+1566,Formalism for dynamic and static systems.
+1567,User-friendly interface for digital library collections.
+1568,Logic programming complexity and expressiveness overview.
+1569,Machine learning for natural language extraction.
+1570,PCA analysis of face space dimensionality.
+1571,Hierarchical memory-based RL for large domains.
+1572,Extending domain ontologies with information extraction rules.
+1573,Research summary of CMUnited-98 small robot team.
+1574,Effective network designs for asynchronous teams.
+1575,Relational transducers for e-commerce applications.
+1576,Maintaining materialized views of graph data.
+1577,RankBoost algorithm for document routing with experiments.
+1578,View system architecture and description summary.
+1579,Optimizing future error through active learning.
+1580,Manage configuration for distributed multi-agent systems.
+1581,Semantics and transformations of disjunctive logic programs.
+1582,Improved data integration through enhanced grouping.
+1583,Translate PARADIGM models into PLTL-based systems.
+1584,3-D user interface design techniques overview.
+1585,Guidelines for user navigation in virtual environments.
+1586,Computing functions with uncertainty using online algorithms.
+1587,Intonation model for spoken language generation.
+1588,Future workspace for dynamic team collaboration.
+1589,Reinforcement neurocontroller training with polytope algorithm.
+1590,Cost-sensitive method for improving classifiers.
+1591,Revolutionizing research with Autonomous Citation Indexing.
+1592,Optimizing global-local search hybrids for efficiency.
+1593,IBM AI research for technical problem-solving.
+1594,Interactive query expansion for better retrieval.
+1595,Distance measures for top k lists.
+1596,Neural network rule extraction for diagnosis.
+1597,Statistical language modeling advancements for language technologies.
+1598,Adaptive variable tracking accuracy in mobile AR.
+1599,Administering permissions in distributed databases.
+1600,Path constraints on data with implications and types.
+1601,Reduce labeled data needs for text classification.
+1602,Efficient querying of temporal constraint networks.
+1603,Clarion model for autonomous sequential task learning.
+1604,Coalition formation in non-super-additive environments.
+1605,Issues with BDI model in multi-agent systems.
+1606,Classification scheme for e-commerce negotiation.
+1607,Wearable computing and remembrance agent technology overview.
+1608,Automatic keyphrase extraction algorithm for documents.
+1609,Personalized content delivery with semantic metadata and agents.
+1610,Collaborative storytelling technologies for young children.
+1611,Living Lab research on ubiquitous computing.
+1612,Query answering using views: theoretical issues overview.
+1613,Sensor data classification with SOM and K-means.
+1614,Enhancing teamwork through proactive information exchange.
+1615,Approximate nearest neighbor searching with cluster-based approach.
+1616,Model checking for multiagent systems.
+1617,Logic-based agents with communication skills.
+1618,Distributed software system using autonomous agents.
+1619,Digital photography framework for affective awareness in home.
+1620,Mobile agents for PVC configuration in ATM networks.
+1621,Efficient sensor networks with innovative communication naming.
+1622,Mobile robot learning in dynamic conditions.
+1623,User-friendly environment for Information Extraction applications.
+1624,Improve OID indexing in temporal OODBs.
+1625,Abduction for databases and intelligent agents.
+1626,Improving classification reliability in data analysis.
+1627,Automated subject identification for digital library documents.
+1628,Collective robotics through emergence and self-organization.
+1629,Effective human-computer communication through explicit representation.
+1630,CMUnited-97 Small Robot Team excels in RoboCup-97.
+1631,Efficient planning through multi-strategy learning.
+1632,Ramification analysis using causal mapping for intelligent agents.
+1633,Interactive haptic painting with virtual brushes.
+1634,Context-awareness benefits mobile phone users.
+1635,Maintenance of materialized views in object databases.
+1636,Unary and binary logic operations: general results.
+1637,Development environment for intelligent user interface agents.
+1638,Transactional record store for modern applications.
+1639,E-commerce interface design based on search costs.
+1640,Generate extraction-based summaries from hand-written summaries.
+1641,Online recruitment with personalized automated recommendations.
+1642,Estimating search engine usefulness for query optimization.
+1643,Ontology integration framework with query-based mapping.
+1644,Linkage learning enhances genetic algorithm efficiency.
+1645,Innovative user interface software development environment.
+1646,Typechecking problem for XML queries with data values.
+1647,Automatic keyphrase extraction with supervised learning.
+1648,Image association rules data mining algorithm.
+1649,Privacy-preserving communication in ubiquitous computing environments.
+1650,Active storage hierarchy database system with applications.
+1651,Computer vision challenges and solutions in HCI devices.
+1652,Neural networks in mobile robot research.
+1653,Spatially aware local communication paradigm in RAUM system.
+1654,Calibration-free AR system with affine object representations.
+1655,Comparison of temporal data models.
+1656,Genetic algorithm for circuit design discovery.
+1657,Challenges in adaptable visualization interface design.
+1658,Deontic logic guidelines in multi-agent systems.
+1659,Wearable computers for aircraft inspection guidance.
+1660,Temporal aspects of semistructured data in databases.
+1661,Efficient algorithms for large temporal aggregation.
+1662,Balancing deliberation and action in agent design.
+1663,Knowledge representation for semi-structured data with constraints.
+1664,Moral sentiments influence multi-agent system society.
+1665,Mobile agent data integrity specification.
+1666,Enhancing digital video library access with maps.
+1667,Incremental maintenance for materialized views.
+1668,Interplanetary planning with AI scheduler.
+1669,Enhancing temporal reasoning with non-binary relations.
+1670,Semantic caches optimize query evaluation in databases.
+1671,Phidgets simplify physical interface development for programmers.
+1672,LDAP query caching algorithm with practical evaluation.
+1673,Probabilistic principal component analysis with mixture model.
+1674,User-friendly geographic database design system prototype.
+1675,Visual discrimination strategies learned through evolving tasks.
+1676,Efficient web query processing using learning approach.
+1677,Mediator infrastructure for digital library services.
+1678,Evolution of Rough-Fuzzy MLP for Rule Extraction.
+1679,Perceptual fusion for robust tracking in computer vision.
+1680,Agent-based financial transactions framework.
+1681,Agent-oriented software development methodology with requirements analysis focus.
+1682,Query routing service discovery scalability issues analysis.
+1683,XML for corporate knowledge management and memory.
+1684,DiscoTEX: IE and KDD for text mining.
+1685,Enhancing multi-agent system coordination.
+1686,CORBA caching for improved distributed system performance.
+1687,Battery-aware static scheduling for distributed real-time systems.
+1688,Protocol for multimedia retrieval system interoperability.
+1689,Logical belief analysis in rational inquiry.
+1690,Redundancy for accurate question answering.
+1691,Active database systems with event handling.
+1692,Design environments for complex artifacts.
+1693,Design challenges in multiagent systems.
+1694,Characterizing and parallelizing C4.5 decision tree induction.
+1695,Cooperative coordination in multiagent systems.
+1696,Collaborative filtering using ART2 Networks and SOM.
+1697,Winner determination complexity in combinatorial markets.
+1698,Neural network text categorization with feature reduction.
+1699,Anthropomorphic interfaces for home appliances.
+1700,Multiway spatial joins with constraint-based algorithms.
+1701,Efficient materialized view maintenance with optimization techniques.
+1702,Visual methods for analyzing complex information.
+1703,Enhancing workflow modeling for better understanding.
+1704,Realistic logic and 7卤2 law explanation.
+1705,Data quality management in cooperative information systems.
+1706,Multivariate time series classification and description.
+1707,Dimensionality reduction for efficient similarity computation.
+1708,Visual looming for mobile robot range estimation.
+1709,Vision-based speaker detection in Bayesian network.
+1710,Trust and typing in mobile agent systems.
+1711,Incremental document clustering for web page classification.
+1712,Study on presence awareness in instant messaging.
+1713,AR tracking in natural environments.
+1714,Object-oriented multidimensional data model for OLAP.
+1715,Improving image search on the Web.
+1716,Evaluate multiagent system methodologies for standardization.
+1717,Plan recognition in complex spatial domains.
+1718,Statistical technique for analyzing co-occurrence data.
+1719,Outdoor city models with AR techniques.
+1720,Component-based system specification and verification using CafeOBJ.
+1721,Interactive Cross-Language Information Retrieval evaluation.
+1722,Autonomous anomaly detection in reflective architectures.
+1723,Emotional reasoning model for educational applications.
+1724,Cooperation model using joint intentions in DAI.
+1725,Standardizing multi-agent systems architectures overview and background.
+1726,Text classification with high accuracy using clustering.
+1727,Hybrid approach for user profile and intrusion detection.
+1728,3D object recognition with Support Vector Machines.
+1729,Output modification techniques in 2D UI toolkit.
+1730,Enhances knowledge base interoperability through programmatic foundation.
+1731,Wearable computing with multi-sensor clothing.
+1732,ECGA code download and execution in C++.
+1733,Transitioning to natural PUIs in HCI.
+1734,Multimodal dialogue system for apartment search.
+1735,Array-Based ADT enhances multi-dimensional query performance.
+1736,Ontologies in AI: Description and Applications.
+1737,Improve minority class prediction in skewed data.
+1738,Grid resource management for scalability.
+1739,Dynamic configuration for scalable multimedia distribution systems.
+1740,Component-based AR framework for efficient system development.
+1741,Complex document categorization learning algorithm.
+1742,Designing synchronous UI for collaborative applications.
+1743,XML-based UI language for mobile and embedded systems.
+1744,Efficient transaction time indexing with B+-trees.
+1745,Ant Colony Control for Shop Floor Routing.
+1746,Automated keyphrase extraction for domain-specific documents.
+1747,Learning histories for collaborative educational simulations.
+1748,Central node: Middle space for computer media learning.
+1749,Formalization of transiently shared dataspaces for agents.
+1750,High-performance distributed web crawler design.
+1751,Network management with mobile agents in dynamic environments.
+1752,Group communication for mobile participants with proximity groups.
+1753,Multi-document summarization with domain-independent techniques.
+1754,Privacy interface guidelines for information management.
+1755,Code availability and design structures analysis online.
+1756,Challenges and bounds in high-dimensional search.
+1757,Indoor navigation with omnidirectional video on wearables.
+1758,Policy learning in stochastic games with rational convergence.
+1759,Methodology for complex multiagent systems design.
+1760,Learning conjunctions of horn clauses in machine learning.
+1761,User interface design with social and semiotic analyses.
+1762,Mobile robot learning categories through environment interaction.
+1763,FFAs encoded into recurrent neural networks.
+1764,Methodology overview of embodied evolution in robotics.
+1765,Neural-Q Learning for Reactive Robot Behaviors.
+1766,Hierarchical network routing with aggregation strategies.
+1767,Web search engines overview and functionality.
+1768,Agent-based patient-scheduling system for hospitals.
+1769,Search history displays for user support.
+1770,Extending UML for interactive UI design.
+1771,ECA language for XML repositories with rule analysis.
+1772,Footstep-based user identification system for Smart Floor.
+1773,Scalable text classification with improved Naive Bayes.
+1774,Emergent intelligence from fine-grained agents.
+1775,Distributed RL algorithm for networked systems.
+1776,WebWho: Student Awareness Support Service.
+1777,Efficient support for nonmonotonic reasoning in LDL++.
+1778,Improving human-computer interaction for multimedia access.
+1779,Optimizing spatio-temporal queries with linear quadtrees.
+1780,Enhancing appliance interfaces with handheld remote controls.
+1781,Distributed cooperative software development overview.
+1782,HTML formatting for web-based natural language tasks.
+1783,"Neuromata theory: finite automaton, neural network, recognition."
+1784,Optimizing web directory search with hybrid structure.
+1785,Computational models in theories of agency.
+1786,Probabilistic extension for uncertain object bases.
+1787,Data model and query languages for directories.
+1788,Robotic behavior learning with Neural-Q approach.
+1789,Autonomy levels in Plan Management Agent development.
+1790,DBMS for network traffic analysis.
+1791,Improve image retrieval system response time.
+1792,Improving retrieval with query expansion on transcriptions.
+1793,User-centered design for battlefield visualization.
+1794,Digital library search engine with flexible scalability.
+1795,Code mobility maintenance with knowledge repositories.
+1796,Text classification using WHIRL for web data.
+1797,Efficient record deletions and updates using index scans.
+1798,Text classification model with syntactic information.
+1799,Modeling interaction dynamics for coordinating mobile robots.
+1800,Computational model for analogy solving in IQ tests.
+1801,Information extraction and integration using intelligent techniques.
+1802,Predict unistroke writing time model.
+1803,Optimizing OIDX indexing cost in temporal OODB.
+1804,Scalable metasearch engine for efficient web searching.
+1805,Real-time interaction with virtual characters.
+1806,AI poker program with probabilistic knowledge.
+1807,Scalability challenges addressed in genetic algorithms.
+1808,Project overview of Distributed Knowledge Networks.
+1809,Bare-hand human-computer interaction with hand gestures.
+1810,User modeling with utility theory for agents.
+1811,Probabilistic inference engine for hypermedia retrieval.
+1812,Modeling rational inquiry with belief logics and analysis.
+1813,Meta-Knowledge Issues: Constructors vs. Maintainers.
+1814,Comparative study on personal email filtering.
+1815,Challenges and tools for large-scale web research.
+1816,Arbitration in packet switches with queue-learning.
+1817,Scalable infrastructure for human-system interaction.
+1818,Active information gathering in distributed agent-based system.
+1819,MOMIS approach for data integration.
+1820,Mobile data mining for stock market monitoring.
+1821,Technological assessment for cultural communities.
+1822,Efficient computation of well-founded model.
+1823,End-user transaction recognition using machine learning.
+1824,Image Meta-Search Engine with Relevance Feedback.
+1825,"Distributed, disappearing user interfaces in ubiquitous computing."
+1826,Evaluation of indexing schemes in Information Retrieval.
+1827,Web retrieval test collection for experiments.
+1828,Semantic Query Optimization with Abduction and Constraints.
+1829,Agent-based social simulation on decision-making.
+1830,Linkage identification through nonlinearity detection.
+1831,Efficiently learning robot operators from examples.
+1832,Linking real and virtual worlds through AR.
+1833,Aggregate integration in ID-logic for problem-solving.
+1834,Historical emergence of Agents in Human Learning Technologies.
+1835,Inference process based on common sense principles.
+1836,ML and NLP overview for WSD collaboration.
+1837,Decomposition of Object-Oriented Database Schemas with F-logic.
+1838,Algorithm enhances web topic distillation.
+1839,Agent architecture for deliberate normative behavior.
+1840,Agent-based team training system design.
+1841,Visual media and positional information for 3D reconstruction.
+1842,AI-based kicking skill for artificial soccer.
+1843,Web system reasons with structured text collections.
+1844,Instance-based learning enhances supervised algorithms with instances.
+1845,Secure dynamic programming with homomorphic encryption.
+1846,Incremental learning algorithm with discriminating features.
+1847,Inductive logic programming for user modeling.
+1848,Bayesian Optimization Algorithm outperforms genetic algorithm.
+1849,Search engine quality evaluation using TREC methods.
+1850,Optimizing performance in parallel disk systems.
+1851,Stability and performance in haptic interaction.
+1852,Query processing with global information and ontologies.
+1853,Extending VRML with constraints for expressivity.
+1854,Wearable pendant for home automation and medical monitoring.
+1855,Adaptive robot design through evolutionary robotics.
+1856,Java mobile object mobility implementation and evaluation.
+1857,Personal agent enhances web browsing and searching.
+1858,"Survey of Image Retrieval: Past, Present, Future, Challenges."
+1859,Event notification in coordination languages JavaSpaces and TSpaces.
+1860,Innovative software configuration management system.
+1861,Text extraction from oriented surfaces using edge analysis.
+1862,Business process agent architecture for corporate applications.
+1863,Robust recognition using affine invariants.
+1864,Parameter control in Evolutionary Algorithms.
+1865,Coordination model using Communicators for agent dialogue.
+1866,Web-based KM system for document collection challenges.
+1867,Architectural design patterns for multiagent coordination.
+1868,Attribute grammars improve genetic neural network representations.
+1869,Expanding context-aware computing in HCI research areas.
+1870,Evaluate desktop VR system effectiveness and interaction guidelines.
+1871,Stochastic attribute selection improves decision tree accuracy.
+1872,Virtual Reality System for Tourist Information.
+1873,Evolutionary neural control for lamprey swimming.
+1874,Detecting concept drift with support vector machines.
+1875,"Combining planning, reacting, and learning in multiagent framework."
+1876,User modeling for personalized HCI experiences.
+1877,Progressive KNN search with B+-trees.
+1878,Fast and effective algorithm for combinatorial auctions.
+1879,Optimizing large queries using semantic information.
+1880,Coordinated reinforcement learning for multiagent systems.
+1881,Comparison of Markov and scan matching localization.
+1882,Infrastructure for service discovery in ubiquitous computing.
+1883,Web search efficiency and precision improvement.
+1884,Interactive data cleaning with transformation integration.
+1885,Safe Ambients with passwords: operational semantics and bisimulation.
+1886,AI optimizes complex engineering designs.
+1887,Bayes Net Toolbox for MATLAB overview and comparison.
+1888,Estimating search engine usefulness for text databases.
+1889,Vision sensor for optical flow computation.
+1890,Rotation-invariant face detection with neural networks.
+1891,Speech synthesis with variable-length units.
+1892,Adapting web content for disabled and elderly users.
+1893,Event composition in distributed systems over time.
+1894,Efficient maintenance of temporal aggregate views.
+1895,Query expansion techniques for Spoken Document Retrieval.
+1896,Boosting and SASC enhance classifier performance.
+1897,Implicit HCI using context and perception technology.
+1898,Symbol grounding in agent-world interaction and philosophy.
+1899,MABLE for verifying multi-agent systems with SPIN.
+1900,Wearable UI goals and integration technology.
+1901,Category-Based Collaborative Filtering for User-Adapting Web Museum.
+1902,"Secure Mobile Code: JavaSeal experiment, agent security architecture."
+1903,Protein sequence assignment using data-driven decision trees.
+1904,Automated facial expression recognition using FACS and HMMs.
+1905,Extreme Programming improves software development knowledge transfer.
+1906,Monotonic and Residuated Logic Programs: General Framework
+1907,Probabilistic logic programming complexity analysis and optimization.
+1908,Learning fuzzy systems with genetic algorithm.
+1909,Text summarization methods for efficient web browsing.
+1910,Cross-Entropy Method for Mobile Agent Path Finding.
+1911,Qualitative ball interception velocity in robotics.
+1912,Enables low-connectivity communities to access web.
+1913,Decidability of boundedness for regular path queries.
+1914,Cooperative software development with proof assistant.
+1915,Theory refinement in knowledge-based neural networks.
+1916,Epochal evolution dynamics in fitness landscapes.
+1917,Consumer eye movement on yellow pages ads.
+1918,Adding animations easily using constraints in interfaces.
+1919,Progress report on advanced deductive database system.
+1920,Optimizing CFQs with 2-var constraints in databases.
+1921,Unifying ICA theories with information theory.
+1922,Enhancing cooperation among artificial agents through overhearing.
+1923,Teamwork training with proactive multi-agent system.
+1924,Matching temporal trajectories in gestures probabilistically.
+1925,Automating communicative behaviors in conversational avatars.
+1926,Preference criterion for extended logic program semantics.
+1927,Modeling and querying moving objects in databases.
+1928,Active learning benefits transcription and annotation tasks.
+1929,Quadtrees for spatiotemporal image database queries.
+1930,Probabilistic navigation approach for Hypertext databases.
+1931,Software vulnerability testing with fault injection technique.
+1932,Storytelling technology with intergenerational design team.
+1933,ICT for Education and Training.
+1934,Bitmap indices for scientific data with range queries.
+1935,Integrating declarative and procedural goals in agent systems.
+1936,Enhancing collaboration between human and motion planner.
+1937,TCBR framework with domain ontology for KM systems.
+1938,Gesture-based NUI for construction and design planning.
+1939,Efficient modular evaluation for deductive databases.
+1940,Deductive databases use logic and deduction for knowledge.
+1941,E-books with multimedia instructional resources.
+1942,Justification for Inclusion Dependency Normal Form.
+1943,Software agents research reappraisal in 5 years.
+1944,Neural networks in business applications for operations research.
+1945,Integrating multidatabase and knowledge-base systems support.
+1946,Flexible negotiation protocols using dialogue games.
+1947,Activity-based web user information access.
+1948,Efficient CPU scheduling for Real-Time Database systems.
+1949,Optimizing rough set model with uncertainty functions.
+1950,Optimizing user-defined functions in distributed databases.
+1951,Means-End Plan Recognition in Reactive Planning Theory.
+1952,Automating comparison of software libraries for reuse.
+1953,Measuring knowledge with workflow management systems.
+1954,Collaborative filtering using probabilistic relational models.
+1955,Enhancing Internet search with WordNet and operators.
+1956,Efficient mining of partial periodic patterns.
+1957,Temporal view self-maintenance in data warehousing.
+1958,Generative models enhance cold-start recommendations.
+1959,Web data for research and innovation.
+1960,Ontology Editor for Semantic Web with Reasoning.
+1961,Interpreter for high-level programs with sensing.
+1962,Social semantics for agent communication languages.
+1963,Real-time optical flow for gesture recognition.
+1964,Hierarchical RL with MAXQ decomposition.
+1965,Model for affective communication with animated agents.
+1966,Enhanced topic distillation with DOM and hyperlinks.
+1967,Online reconfiguration in replicated databases using group communication.
+1968,Software tools evolution for efficient development.
+1969,3D hand pose recovery with specialized mappings.
+1970,"Fast, accurate proximity queries for polyhedral objects."
+1971,Hierarchical Discriminant Regression for high dimensional data.
+1972,Bayesian method for multimedia database query adaptation.
+1973,Fuzzy logic similarity measure for multimedia data.
+1974,Tactile sensor for dextrous grasping robots.
+1975,Prosody-based language identification with recurrent neural networks.
+1976,Web search engine utilizing hyperlink structure analysis.
+1977,Open-source digital library software system.
+1978,Extended BDI architecture for diverse web agents.
+1979,Avoid overfitting with process-oriented model selection.
+1980,New L-fuzzy measures for fuzzy set relations.
+1981,Modeling rational inquiry in belief systems.
+1982,Efficient multi-level frequent pattern mining.
+1983,Study on emergent collaboration among web authors.
+1984,Evolutionary optimization for compact fuzzy models.
+1985,Rules for effective collaboration among autonomous cyber agents.
+1986,Integrates speech and vision using mutual information.
+1987,Efficient reinforcement learning for web crawling.
+1988,Genetic algorithm optimization with case-based learning.
+1989,Enhancing student interaction in online education.
+1990,Enhancing digital libraries through interdisciplinary approach.
+1991,Uncertainty handling in Antitonic Logic Programs extension.
+1992,Predict user movements using GPS data.
+1993,Cost-effective public digital library with full-text retrieval.
+1994,IPAD systems enhance collaboration and awareness.
+1995,Observation strategy impact on alerting service accuracy.
+1996,Control architecture for agents with changing motives.
+1997,ICA algorithm maximizing data likelihood.
+1998,Addressing cognitive burden in user interfaces.
+1999,Comparison of TREC and commercial web search engines.
+2000,Hybrid approach for small disjuncts in data mining.
+2001,3D gesture recognition system for AAC users.
+2002,Cooperation in fuzzy models using metaheuristics.
+2003,Framework for semi-automatic metadata creation.
+2004,Automated schema matching using machine learning.
+2005,Groupware usability evaluation for teamwork.
+2006,Genetic algorithm for classification rules.
+2007,Collaborative information service for adaptive researchers.
+2008,Enhancing human interactions with wearable technology.
+2009,Usability framework for virtual environment development.
+2010,Evolutionary case adaptation with genetic algorithms.
+2011,Symbolic vs. case-based learning methods comparison.
+2012,Survey and taxonomy of location systems.
+2013,Genetic algorithm for learning fuzzy rule bases.
+2014,Augmented reality interface with two-handed interaction.
+2015,Improved human tracking with trajectory prediction.
+2016,Agent cooperation in distributed systems using game theory.
+2017,Enhancing collaborative filtering with multimedia indexing.
+2018,Text localization and segmentation in visual media.
+2019,Graph-based clustering for image retrieval precision.
+2020,3D software visualization surpasses previous limitations.
+2021,Enhancing social role awareness of animated agents.
+2022,Adaptive query processing for dynamic databases.
+2023,Negation in logic and deductive databases analysis.
+2024,"Integration of XGobi, XploRe, and ViRGIS in RPC."
+2025,Methodology for Multiagent Systems Analysis and Design.
+2026,Interactive VR toolkit for scientific data visualization.
+2027,Secure Object Space model for agent coordination.
+2028,Ubiquitous computing research trends and future challenges.
+2029,Data mining evaluation framework with optimization.
+2030,AI and VR for intelligent environments.
+2031,Multimedia database querying with user-friendly interface.
+2032,"Semantic Web, DAML, ITTALKS: Intelligent information technology."
+2033,Content-based book recommender with text categorization.
+2034,Memetic algorithm with self-adaptive local search.
+2035,Warehouse mediators generated automatically using ontology engine.
+2036,SIKS course on interactive and multi-agent systems.
+2037,LDAP cache optimization using query templates.
+2038,Link analysis for improved web search.
+2039,Intelligent integration with semantic and clustering techniques.
+2040,Hand motion recognition using 3-D data.
+2041,Augmented reality with location-based agent assistance.
+2042,Automatic human face detection using skin color model.
+2043,Support tools for human-computer coordination.
+2044,Grounded speech communication for machine understanding.
+2045,Temporal trace language for intentional dynamics analysis.
+2046,Data-driven theory refinement with KBDistAl algorithm.
+2047,Evolution of robot navigation neural controllers.
+2048,Explore tasks and representations for learning.
+2049,Enhancing appliance data interoperability for web integration.
+2050,Addressing delays in temporal active databases.
+2051,Efficient natural language retrieval using ternary expressions.
+2052,Mobile agents improve intrusion detection and response.
+2053,Knowledge requirements for robotic task performance.
+2054,Ontology for intelligent metasearch of WWW.
+2055,ICA for signal detection in chat rooms.
+2056,Methodology for logic-based executable agents.
+2057,Learning interest profiles from user behavior.
+2058,Intelligent multi-agent system for virtual environments.
+2059,Modal and temporal logics combined using normal forms.
+2060,Main-memory database for critical applications.
+2061,PAES excels in multiobjective optimization.
+2062,Two-level grammar concept for design properties.
+2063,Agent intention reconsideration in diverse environments.
+2064,Research report summary for Play.
+2065,ACO for virtual-wavelength-path routing and allocation.
+2066,Embodied Evolution for Robotic Controller Design.
+2067,PCA and LDA classifiers performance analysis.
+2068,Automatic rule learning for text extraction.
+2069,Whole-hand and speech input in virtual environments.
+2070,Efficient and scalable online learning with random representations.
+2071,Reinforcement learning with Eugenic Neuro-Evolution.
+2072,Fuzzy meta-learning for distributed data.
+2073,Framework for interactive spatial augmented reality applications.
+2074,Validating access to external information in mediators.
+2075,Efficient human navigation through space discretization.
+2076,Comparison of groupware usability evaluation methods.
+2077,DLs with concrete domains and role-forming predicate.
+2078,"Difference computation, tractability analysis in Horn theories."
+2079,Improving local learners with error-correcting codes.
+2080,Efficient query answering algorithm with views.
+2081,Efficient nonmonotonic reasoning implementations.
+2082,Gesture recognition using TDRBF for interaction.
+2083,Logic programming for nested relational models.
+2084,Compile SML to Java Bytecodes for integration.
+2085,Safety controllers for web services with improved efficiency.
+2086,Social impact of wearable AR systems.
+2087,Reinforcement learning with event-based policy heuristics.
+2088,Automatic video composition techniques and quality assessment.
+2089,Evolution of Soar Cognitive Architecture through six releases.
+2090,Comparing distance browsing techniques in spatial databases.
+2091,Text and image relation in databases.
+2092,Agent-based project schedule coordination.
+2093,Multimodal dialogue manager for user registration.
+2094,Collaborative learning with virtual agents in virtual worlds.
+2095,Optimizing MIN/MAX queries for spatial objects.
+2096,Content-based book recommender with machine learning.
+2097,Visualization techniques for digital video libraries.
+2098,Hybrid classifier for visual object detection.
+2099,Mobile agent security architecture for framework integration.
+2100,Improving text classification with labeled and unlabeled data.
+2101,Structural matching with Hopfield-style neural network.
+2102,Biological network design for adaptive knowledge management.
+2103,Improved feature selection accuracy with non-standard crossover.
+2104,HMMs for sentence structure in information extraction.
+2105,Unified 3W Model and Algebra for Data Mining.
+2106,Web navigation problem addressed with statistical models.
+2107,Bayesian system for human interaction recognition.
+2108,User modeling enhances information access with feedback.
+2109,Financial news recommendation using language models.
+2110,Interaction between FDs and tree-like INDs.
+2111,First-Order Bayesian Classifier for structured terms.
+2112,Improving cross-language retrieval with triangulated translation.
+2113,Mobile AR Systems Introduction.
+2114,Gesture and speech interface for molecular visualization.
+2115,Secure mobile agent with strong proxy signature.
+2116,Efficient handoff technique for server clusters.
+2117,Feature weighting for lazy learning algorithms importance.
+2118,Enhancing group collaboration and awareness with IPAD.
+2119,Contextual computing with wearable technology.
+2120,Enhancing e-commerce with database technology.
+2121,Temporal patterns improve ASR robustness to noise.
+2122,AI-driven Remote Agent for space exploration.
+2123,Information Extraction Technology Overview and Applications.
+2124,Enhancing case-based reasoning with graph classification.
+2125,Multilevel simulation and optimization for engineering designs.
+2126,Constructive learning algorithms for multi-category pattern classification.
+2127,Workflow systems in CSCW community for planning.
+2128,Mobile agent technology in telecommunications and network management.
+2129,Language for Exchanging Agent UML Protocol Diagrams.
+2130,ASR robustness with temporal spectral patterns.
+2131,Temporal FDs on Complex Objects in Databases.
+2132,Fourier-Wavelet Descriptor for Pattern Recognition.
+2133,Automated news monitoring and analysis with ML.
+2134,Advantages of multiagent robotic systems over single robots.
+2135,Digital music library with sung query search.
+2136,Java/CORBA VPCE for PSEs.
+2137,Event-based infrastructure for smart things deployment.
+2138,"Normative reasoning, violation contexts, deontic independence in logic."
+2139,Query optimization with limited access patterns.
+2140,Typed language for inductive concept learning.
+2141,Non-classical semantics for rational agent behavior.
+2142,Stereo calibration using projective translations.
+2143,Virtual Table interaction with transparent props.
+2144,Architecture for intelligent agents using A-Prolog.
+2145,Automated creation of advanced diagram environments.
+2146,Conflict resolution in multi-agent systems.
+2147,Augmented reality prototype for air traffic control.
+2148,Human motion detection without segmentation using probabilistic model.
+2149,Efficient data and program integration with binding patterns.
+2150,Agent-based software design framework using UML.
+2151,Internet search engine for Indian languages prototype.
+2152,Vision-based human-robot interaction system with safety features.
+2153,Comparison of active databases and agent systems.
+2154,Flexible interoperability in federated digital library system.
+2155,Remote interaction for handheld devices using semantic snarfing.
+2156,MOST model for uncertain moving objects with FTL.
+2157,Analog VLSI motion sensors for real-time computation.
+2158,Enhancing online knowledge-building discourse with guidance.
+2159,Scalable data mining with parallel processing techniques.
+2160,Language for Heterogeneous Agent Architectures in Java.
+2161,Democratic fusion technique for retrieval mediators.
+2162,Humanoid robot development with human-like processes.
+2163,Assessment methods for information quality with confidence measures.
+2164,Prometheus methodology for intelligent agent development.
+2165,Extending classical logic with inductive definitions.
+2166,Wearable AR system for outdoor multimedia presentations.
+2167,Flexible software architectures for reconfigurable control systems.
+2168,Analysis of media-enhanced classroom server workload.
+2169,Augmented 3D virtual desktop integration.
+2170,Automated task assignment with auction-based protocol.
+2171,User guidance essential for case-based knowledge acquisition.
+2172,Efficient version management for structured XML documents.
+2173,Agent learning models with influence diagrams.
+2174,Feature extraction using Discriminant Component Analysis.
+2175,Process-oriented evaluation for generalization error estimation.
+2176,Co-Training method enhances statistical parsing accuracy.
+2177,Introduction to large margin classifiers for beginners.
+2178,Improved page classification using web structure.
+2179,Co-clustering documents and words using spectral algorithm.
+2180,Salticus: User-guided web crawler for digital libraries.
+2181,Biochemical information extraction from research papers.
+2182,Formal analysis of multiagent systems using statecharts.
+2183,Distributed database for mobile environments.
+2184,Database replication with epidemic communication for consistency.
+2185,Interaction techniques in immersive virtual environments.
+2186,TREC-7 Twenty-One group achievements in information retrieval.
+2187,Customized access method for Blobworld image retrieval.
+2188,Efficient Meta-Search Engine for Web Queries.
+2189,Translingual visual speech synthesis with language-independent system.
+2190,Efficient mobile robot localization with Monte Carlo method.
+2191,Convert paper documents to XML with WISDOM++.
+2192,Agent prioritizes goals reactively and proactively.
+2193,Efficient maintenance of horizontally partitioned warehouse views.
+2194,Dynamic mediation for COTS in ubiquitous computing.
+2195,Secure service discovery with enhanced trust.
+2196,Integrating ML and KA for practical applications.
+2197,Robot social cognition in developmental psychology framework.
+2198,Data mining integration in OLTP system.
+2199,Genre classification for web information filtering.
+2200,Support for OS in memory hierarchies evaluation.
+2201,User interface plasticity framework for adaptation.
+2202,Risk management in concurrent engineering with agents.
+2203,Efficient methods for designing wearable visual robots.
+2204,Framework for visual database interface.
+2205,Query planning for efficient information retrieval.
+2206,Equivalence of Static and Disjunctive Semantics in DLProgramming.
+2207,Phylogenetic tree optimization in computational biology.
+2208,Comparing and automating CBR implementation models.
+2209,Leveled commitment and trust in negotiation dynamics.
+2210,Robust committee learning with missing values.
+2211,Wearable app for conference assistance.
+2212,DOQL implementation and semantics for ODMG databases.
+2213,Virtual Soccer Team Architecture & Goals.
+2214,Trust-based plan selection in multi-agent systems.
+2215,Conjunctive-query containment and constraint satisfaction equivalence.
+2216,Neural networks interpreted with fuzzy logic.
+2217,"Max Clique Problem: Formulations, Complexity, Algorithms, Heuristics."
+2218,SDG for collaborative co-located interaction with users.
+2219,Adaptive query processing for dynamic Internet data volumes.
+2220,Transactional data warehouse maintenance approach.
+2221,Multiagent learning dynamics with variable rate.
+2222,CBR for software effort prediction analysis.
+2223,Framework for multi-agent systems and attitudes.
+2224,Simplified integration of mobile agent technology.
+2225,Real-time sensor data analysis with neural networks.
+2226,Agent-based system for constraint and data exchange.
+2227,Amplifying reality with wearable technology.
+2228,Maintenance of case-based reasoning systems.
+2229,Extending active objects to autonomous agent framework.
+2230,Information filtering and user profiling techniques survey.
+2231,Vickrey auction strategies and implications discussed.
+2232,Efficient version management with object referencing.
+2233,Network monitoring system for AT&T's 4ESS switches.
+2234,Optimizing supersonic inlets for Mach 3 efficiency.
+2235,Data integration systems with conceptual schemas for queries.
+2236,Knowledge Management in Evolving Data Warehouse Environments.
+2237,Feasibility of generic metadata management panel.
+2238,AdaBoost overfits in high noise.
+2239,Integrity constraints in databases using CLP.
+2240,Belief logic with agent modeling.
+2241,Agent framework enhances Internet database services.
+2242,Scalable fraud detection using machine learning.
+2243,Methodology for logic-based agents using multi-context systems.
+2244,Approach for solving clique problems in large graphs.
+2245,Spatio-temporal databases for moving objects.
+2246,Formalism for diagrammatic interface construction.
+2247,Personality traits in synthetic agents for performances.
+2248,FLARE group communication service requirements for Quazoom game.
+2249,Seamless agent interactions infrastructure.
+2250,Collaborative filtering recommendations explained in detail.
+2251,Knowledge-based approach for lifelike gesture animation.
+2252,Model generation method without normal forms.
+2253,Probabilistic self-localization for mobile robots.
+2254,Micro-workflow architecture for software development.
+2255,Triage for document prioritization based on criteria.
+2256,Proposal for new features in MPEG-7.
+2257,Semantic web VR interface with high-performance search engine.
+2258,Interactive case-based planning tool for hierarchical tasks.
+2259,Efficient text classification with Error-Correcting Output Codes.
+2260,Mobile code security with cryptographic traces.
+2261,Partial evaluation for mixed-initiative interaction.
+2262,Database updates in logic programming review.
+2263,Learning adaptation framework in CBR systems.
+2264,Studying physical bodies in AI.
+2265,Manufacturing control through stigmergy in synthetic ecosystems.
+2266,Intelligent data analysis tools in medicine.
+2267,Visual tool for database access method development.
+2268,Challenges in evaluating NASA's Earth Science Partnership.
+2269,Face recognition challenges and algorithm considerations.
+2270,Bimodal system for pathology image analysis.
+2271,Efficient animation of spatiotemporal constraint databases.
+2272,Dynamic management of materialized views in data warehouse.
+2273,Classifying semi-structured objects in extended data model.
+2274,Algebra for event notification services semantics.
+2275,Meta-search engine selection and evaluation study.
+2276,Analyzing Virtual Environments through Distributed Cognition.
+2277,Rule-based query language for web documents.
+2278,Statistical context modeling in resource-limited systems.
+2279,TuCSoN impact on engineering intelligent environments.
+2280,Adaptable hypertension management system with legacy integration.
+2281,Inductive bias in case-based learning algorithms.
+2282,Automated capture in educational environment.
+2283,Web link structure for information discovery.
+2284,Advocating intuitive knowledge representation for web documents.
+2285,Stabilizing case-based knowledge acquisition challenges and solutions.
+2286,Affective computing for emotional theater environments.
+2287,Optimizing parSOM for distributed data mining.
+2288,Combine search engine outputs score distributions modeling.
+2289,Enhancing data warehouse quality with advanced techniques.
+2290,Graspable groupware for co-located planning tasks.
+2291,Query scheduling service for efficient processing.
+2292,Algebraic framework for XML query evaluation.
+2293,Data warehouse refreshment process modeling and execution.
+2294,Requirements interaction management in development projects.
+2295,OMS Java Object Management Framework.
+2296,Workflow modelling principles for business processing.
+2297,Temporal logic for modeling and querying.
+2298,Learning power comparison between symbolic and case-based methods.
+2299,Warehousing workflow data challenges and opportunities.
+2300,Cold-start recommendation methods and metrics analysis.
+2301,Enhancing paper-based system with visual input.
+2302,Semantic theory for Fudgets in Haskell.
+2303,Visualisation effectiveness and usability criteria evaluation.
+2304,Internet resource organization for personal information.
+2305,Statistics and prosody for chunky parser development.
+2306,Visual interface for browsing and querying XML.
+2307,ILP and machine learning in computational logic.
+2308,Replicated database protocols classified with Atomic Broadcast.
+2309,Agent-oriented analysis and design methodology: Gaia.
+2310,Agent-based framework for efficient distributed simulations.
+2311,Acoustic rangefinder for localization applications.
+2312,Survey of total order broadcast and multicast algorithms.
+2313,AgentScape: Internet-Scale Multi-Agent System Management.
+2314,Shared exception handling service for agent systems.
+2315,Mobile web search with multi-modal input.
+2316,Face recognition system for image retrieval.
+2317,Sparse grid classification with simplicial basis functions.
+2318,Semantics-based information retrieval using description logics.
+2319,Supporting users with digital appliances infrastructure.
+2320,Data cleansing for merge/purge in KDD applications.
+2321,Diagnosis in Multi-Agent Systems for Adaptability.
+2322,Children's involvement in technology design for learning.
+2323,Detect text in scenes; extract text from surfaces.
+2324,Clustering algorithm for sparse text data.
+2325,Autoepistemic belief theories and static semantics.
+2326,Belief reasoning framework for MLS deductive databases.
+2327,Call centre scheduling multi-agent system.
+2328,Face recognition with Evolutionary Pursuit and genetic algorithms.
+2329,Structured file data benefits from database technology.
+2330,Two-level grammar concepts for design.
+2331,Content language for text and graphics generation.
+2332,Coordinating diverse medical work efficiently.
+2333,Molecular geometry optimization pattern search.
+2334,Parameterized views for relational unification in SQL.
+2335,Rank aggregation in social choice theory.
+2336,User profiles evolving to combat internet overload.
+2337,Autonomy in agent metaphor in OOP.
+2338,Formal models and decision procedures for MAS.
+2339,Gesture-controlled robot for object perception and manipulation.
+2340,Heuristics for Autonomous Discovery Systems.
+2341,Reflections on C+C language requirements.
+2342,Active learning for hidden Markov model extraction.
+2343,Methodology for BDI agent systems modeling.
+2344,Semantic framework for diverse service description.
+2345,Interactive machine learning for adaptive user interfaces.
+2346,Semantics of BDI agents in complex environments.
+2347,Temporal databases and deontic logic in information systems.
+2348,Estimating R茅nyi Information Divergence with Pruned MST.
+2349,Supporting user actions in high-volume data.
+2350,GA-based relational learner DOGMA for concept learning.
+2351,Java package for multiple input devices.
+2352,Probabilistic retrieval with unified representation.
+2353,Agent-enabled system architectures for software.
+2354,Hybrid GA for multimodal problems.
+2355,Overview of concurrency models in computing.
+2356,Declarative semantics of belief queries in MLS databases.
+2357,Agent modeling environment for simulation in Java.
+2358,Organizational structure adaptation through self-diagnosis in MAS.
+2359,Fault-tolerance in multi-agent systems.
+2360,Study on path constraints in deterministic graph model.
+2361,Spatial reasoning with qualitative and quantitative data.
+2362,Enhancing cooperation among fuzzy rules in FRBS.
+2363,Augmented reality for outdoor architecture visualization.
+2364,Integrating theory and practice of BDI agents.
+2365,AR system bridges user interface dimensions.
+2366,Enhances personal photo collection management.
+2367,DAG Matching Techniques for Structured Document Retrieval.
+2368,Temporal extension with rich data support.
+2369,Dependable internet routing algorithm with redundancy reduction.
+2370,Efficient security flaw detection in OODB.
+2371,Automating domain-specific search engines using ML.
+2372,Efficiently finds high-quality web pages.
+2373,Computer vision for AR natural user interface.
+2374,Agent-Oriented Programming with Linear Logic: Implementation and Analysis.
+2375,Generate code for Agent UML sequence diagrams.
+2376,Real-time hand tracking and gesture recognition.
+2377,Handling uncertainty in temporal data.
+2378,Bayesian problem-solving techniques in AI.
+2379,Statistical segmentation of Japanese Kanji sequences.
+2380,Autonomous bidding agents in online auctions.
+2381,IQ-reasoning driving shift to integrated information systems.
+2382,Designing Deductive Query Language for ODMG Databases.
+2383,Index for Subsequence Matching of Spatial Objects.
+2384,MAXSON neural network enhances adaptive behavior.
+2385,Optimize complex views disassembly for efficiency.
+2386,PCA vs SVD for clustering analysis.
+2387,Discovery-driven exploration of OLAP data cubes.
+2388,Layered learning enhances genetic programming for robotics.
+2389,SVM parameter generation program for ML tasks.
+2390,Survey on object locating in mobile computing.
+2391,Data model for filtering semi-structured texts.
+2392,Web search evaluation with frozen web snapshot.
+2393,User modeling enhances web search precision.
+2394,Fuzzy logic operations based on CNF and DNF.
+2395,User guidance necessity in case-based learning experiments.
+2396,Industry analysis and data visualization using SOM.
+2397,Framework for migrating mobile agents.
+2398,Support tools for coordinating human and computer agents.
+2399,Tertiary storage for large multidimensional datasets.
+2400,Efficient intention reconsideration in uncertain domains.
+2401,Mobile-agent framework for networked mobile applications testing.
+2402,Algorithm not based on directional search.
+2403,Adaptive navigation support in educational hypermedia.
+2404,Interactive music with instrumented dancing shoes.
+2405,Signer-independent CSL recognition using SRN/HMM approach.
+2406,Efficient incremental recompilation for knowledge approximation.
+2407,Summarization for enhanced information retrieval with structure.
+2408,Supports conflict management in design teams.
+2409,Dialogue agency model for effective communication.
+2410,Multi-modal identity verification using SVM.
+2411,Neural network diagnosis without disorder independence assumption.
+2412,Soft computing for fault management in telecommunications systems.
+2413,Efficient logic program evaluation strategy.
+2414,Logic programming for distributed knowledge management.
+2415,Automating maintenance of domain-specific taxonomies through text understanding.
+2416,Spatial data mining with autocorrelation focus.
+2417,Efficient agents with defined properties.
+2418,Wrapper induction for efficient web data extraction.
+2419,MetaSearch Engine for WebNaut with adaptability.
+2420,Efficient real-time human interaction modeling system.
+2421,Algebraic static analysis of active database.
+2422,Learning control knowledge through explanations and refinement.
+2423,Statistical text segmentation using features.
+2424,Hierarchical email classification with association rules.
+2425,Outdoor wearable computers with augmented reality architecture.
+2426,Framework for ubiquitous computing services.
+2427,Term selection method based on time distributions.
+2428,Hybrid evolutionary approach for neural network training.
+2429,Evaluation of retrieval quality using clickthrough data.
+2430,Unsupervised method for object category learning.
+2431,Scalable image retrieval with statistical clustering.
+2432,Logic-based prototyping for complex distributed applications.
+2433,Strategies for similarity search on the Web.
+2434,Future ID systems for cyberspace situational awareness.
+2435,Enhancing query selectivity estimation in ORDBMS.
+2436,Dynamic distributed query processing with HyperQueries in B2B.
+2437,Web shape impacts search quality and performance.
+2438,Handling concurrent data and schema changes.
+2439,EquiX: XML search language with advanced querying.
+2440,French temporal expressions extraction system.
+2441,Discovery framework with agenda-based task selection.
+2442,Dynamic Logic Programming for Knowledge Base Updates.
+2443,HMMs with Shrinkage for Information Extraction.
+2444,Heuristic-based genetic algorithm for maximum clique.
+2445,Interactive tutorial instruction for agents.
+2446,Combining classifiers for coherent sequential inference.
+2447,Middleware for mobile internet applications.
+2448,Generic schema matching algorithm Cupid with innovations.
+2449,Similarity measures framework for CBR.
+2450,Hybrid algorithms for optimal neural network design.
+2451,Hippocampal place cell activity during navigation model.
+2452,Phidgets simplify physical user interface development.
+2453,Efficient processing of top-k web queries.
+2454,Categorization by context in document classification.
+2455,Document representation with context-sensitive concept network.
+2456,Virtual reality interactions with animated agents.
+2457,Logic for BDI agents with procedural knowledge.
+2458,Handling unavailable data sources for enhanced querying.
+2459,Automatic system for compiling authoritative web resource lists.
+2460,Temporal data model with SQL-92 support.
+2461,News topic hierarchy with semi-labelled documents.
+2462,Virtual reality project with animated agent.
+2463,EM algorithm for nonlinear dynamical systems estimation.
+2464,Meta-search engine selection and evaluation.
+2465,Decommitment protocol for time-sensitive automated negotiation.
+2466,Selective sampling enhances classification accuracy.
+2467,Unsupervised learning of logic rules.
+2468,Web page analysis using web mining techniques.
+2469,Domain-specific knowledge for sentence analysis.
+2470,PuppetMaster assists instructor in team training analysis.
+2471,Background readings for collection synthesis.
+2472,Context-aware architecture for mobile devices with sensors.
+2473,Location-aware information delivery using comMotion.
+2474,Image retrieval with selective features and boosting.
+2475,Efficient boosting algorithm for preference combination.
+2476,Modeling moving objects and spatiotemporal reasoning.
+2477,Context filters for document-based information filtering.
+2478,Middleware tool for data model integration.
+2479,Pruning enhances efficiency of distributed meta-learning classifiers.
+2480,Behavior coordination mechanisms in behavior-based robotics.
+2481,Backtracking algorithms for temporal constraints.
+2482,Intrusion detection through system-call data analysis.
+2483,Multiobjective system synthesis for single-chip architectures.
+2484,Stylistic variation in information retrieval experiments.
+2485,Temporal dependencies in multi-dimensional databases and OLAP.
+2486,Advantages of ship shock tests over simulations.
+2487,Temporal conceptual modeling with DLRUS logic and queries.
+2488,Indexing scheme for moving points in plane.
+2489,Machine learning methods for software effort prediction.
+2490,Machine learning for document processing.
+2491,Genetic algorithm enhances materialized view selection.
+2492,Decision Tree Confidence Factors for Multiagent Control.
+2493,Multimodal interface for human-computer interaction.
+2494,Self-learning techniques for grapheme-to-phoneme conversion.
+2495,Active database applications machine interface evaluation.
+2496,Hybrid architecture for function estimation with optimization.
+2497,Explore closures and control levels in semiotic systems.
+2498,Agent-based negotiation in Electronic Commerce.
+2499,Probabilistic complex value data model and algebra.
+2500,Probabilistic complex value model with algebra operations.
+2501,Decentralised firewall with virtual redirectors.
+2502,Medical database analysis with intelligent tools.
+2503,"Google search engine: large-scale, efficient, innovative, hypertext utilization."
+2504,Quantum treemaps and bubblemaps for image browsing.
+2505,Dynamic pipeline scheduling for faster query results.
+2506,Automatic reclustering for high energy physics databases.
+2507,Incremental maintenance for nested relational model.
+2508,Framework for GIS interface design.
+2509,Interface for spatio-temporal database queries.
+2510,Ontology navigation interface with zoomable features.
+2511,Integrated design of physical and digital spaces.
+2512,Data warehouse architecture and quality analysis.
+2513,Statistical tests for classification learning algorithms.
+2514,Agent communication through middle agents.
+2515,Agent-Based Language for Multi-Agent Teams in Robotics.
+2516,Efficient bulk operations on dynamic R-trees.
+2517,Comparing media-enhanced classroom server and web server workloads.
+2518,Proxy cache evaluation techniques survey.
+2519,Efficient integration of sounds and motions in VR.
+2520,Digital Libraries Evaluation Scheme with Four Dimensions.
+2521,Factory control algorithms in multi-agent heterarchy.
+2522,MaxEnt Markov Models for Information Extraction.
+2523,Shape matching with shock graphs and grammar.
+2524,Comparison of XML version management strategies.
+2525,Optimizing interactive similarity query processing.
+2526,Importance and applications of explicit context in communication.
+2527,Artificial agents improve logic programming in software engineering.
+2528,Combining information retrieval systems for fusion.
+2529,Proximity group communication for wireless networking applications.
+2530,Incremental reinforcement learning for multi-agent systems.
+2531,Robotic soccer research project advancement.
+2532,Internet growth and search engine challenges.
+2533,Interconnection of logics in computer science.
+2534,Community building through dual augmentation in Domisilica project.
+2535,Dynamic clustering interface for web search results.
+2536,Socially intelligent agents for language conversation training.
+2537,Animated agents aid task-oriented dialogs in VR.
+2538,Improving TD() with LSTD algorithm extensions.
+2539,Static integrity management in object-oriented databases.
+2540,Video indexing and browsing techniques.
+2541,Multistrategy learning for knowledge organization and retrieval.
+2542,Agent population impact on dynamic network routing.
+2543,Addressing data inconsistency in mobile data broadcasting.
+2544,Agent-based technology for virtual enterprises.
+2545,Entropy-based web navigation computation and applications.
+2546,Flexible agent architecture for modern computing environments.
+2547,Robot navigation with integrated grid and topological maps.
+2548,Detecting redundancy and inconsistency in unstructured case bases.
+2549,Outdoor AR navigation using wearables.
+2550,Efficiently maintaining transitive closure of graphs.
+2551,Visual query language for object databases.
+2552,Description Logic with Transitive and Inverse Roles.
+2553,Enhancing efficiency in distributed information retrieval.
+2554,Optimizing information agents through data materialization.
+2555,Automated taxonomy maintenance with quality-based learning.
+2556,Automating hidden-web database classification using query probes.
+2557,Octopod robot locomotion control through evolved neural networks.
+2558,Various web search technologies overview.
+2559,Visualizing document similarities and differences effectively.
+2560,Topic-based mixture language modeling approach.
+2561,Modeling BDI-Agent in Game Theory Framework.
+2562,Adaptive fuzzy expert system for sign recognition.
+2563,Soft computing for long-term rainfall forecasting.
+2564,Pairwise proximity data classification with innovative methods.
+2565,Web community detection using bipartite graphs.
+2566,Multimedia program documentation system with interactive features.
+2567,Virtual object rotation with real handles.
+2568,Automated task assignment with auction-based contracting.
+2569,User information needs in metasearch engine architecture.
+2570,Indoor and outdoor AR interfaces enabled by MARS.
+2571,Local patterns combined with cross-entropy for prediction.
+2572,Cognitive biases influence feature selection in learning.
+2573,CBR and LM for robotic parameter selection.
+2574,Interactive electronic labels for physical containers.
+2575,Query unnesting algorithm for OODB optimization.
+2576,Mobile agent organizations with context-dependent coordination.
+2577,Range data fusion for 3D world models.
+2578,Visual language for ODMG OQL queries.
+2579,Parameter-less GA for problem solving.
+2580,WebACE: Categorization and query generation on WWW.
+2581,Enhancing classification accuracy with context-based relevance.
+2582,Query formulation using semantic graph model.
+2583,Managing multiversion XML documents with Durable Node Numbers.
+2584,Hybrid model for sharing information in MAS.
+2585,Evolutionary algorithm enhances materialized view selection.
+2586,Scalable star algorithm extensions for information organization.
+2587,Efficient robot base placement algorithm.
+2588,Deductive database system for advanced applications.
+2589,Adaptive collaboration of intelligent agents for information management.
+2590,Mobile UI software architectures for collaboration.
+2591,Efficient linear program solving algorithm.
+2592,Automated framework for building CBR systems.
+2593,Agent migration using generative approach across environments.
+2594,Query processing for regular-path queries.
+2595,Customized authority lists based on internal model.
+2596,Adaptable workflow management system framework.
+2597,Chinese text categorization machine learning methods comparison.
+2598,Logic for multi-agent systems with procedural knowledge.
+2599,Web robots and search engines overview with ethics.
+2600,IR and database integration using object-orientation.
+2601,Mobile agent vs client-server for info retrieval.
+2602,Secure second-price auctions using cryptographic protocols.
+2603,Version Space Algebra for Programming by Demonstration.
+2604,Distributed corporate memory architecture with multi-agents.
+2605,Concurrency mechanism using shared database in Prolog.
+2606,Temporal queries and grouping in object model.
+2607,Controller-environment boundary in evolutionary robotics simulation.
+2608,Clustering categorical data with dynamical systems.
+2609,Enhancing search engine functionality through resource discovery.
+2610,Predicting relevance in focused crawling through tag tree.
+2611,Programming mobile code for network-aware applications.
+2612,SVMs for face authentication with performance analysis.
+2613,Adaptable multi-device web interfaces for information systems.
+2614,GP for multi-agent learning with layers.
+2615,Stochastic modeling for data management.
+2616,Integration of technologies for knowledge services on Web.
+2617,Event-driven sensor architecture for low power wearables.
+2618,Datalog extensions for complex data structures.
+2619,Mobile code for service composition in networking.
+2620,Multi-robot learning for cooperative observation task.
+2621,Efficient XML integration with algebraic query processing.
+2622,Modeling DTDs with UML for XML structures.
+2623,Deductive Object-Oriented Database System Overview.
+2624,Flexible info filtering in dynamic environments.
+2625,Improved initialization enhances clustering algorithm convergence.
+2626,Reliable communication for mobile agents.
+2627,Personalized web document recommendations with dynamic interface.
+2628,Agent framework DECAF for complex software systems.
+2629,"Agent communication languages for autonomous, cooperative systems."
+2630,Corpus-based stemming enhances retrieval accuracy.
+2631,Probabilistic framework for recommendation systems.
+2632,Efficient management of irregular semistructured data.
+2633,Data integration for linked data sources.
+2634,"Mobile robots coevolve behaviors, specialize in tasks."
+2635,Hospital patient scheduling using multi-agent GPGP solution.
+2636,Biologically inspired robotic model for motor skills imitation.
+2637,Database decomposition with functional dependencies and constraints.
+2638,Model for human-computer-environment interaction.
+2639,Agent reasoning for teamwork experimentation.
+2640,Robotic storytelling kit for kids.
+2641,Decision trees improve case-based learning.
+2642,Enhanced collaboration through gaze-aware interface.
+2643,Trust dynamics analysis based on experiences.
+2644,Answer validation techniques using statistical and content-based approaches.
+2645,Personalized web-document filtering with reinforcement learning.
+2646,Market mechanisms complexity and algorithm design analysis.
+2647,AI for medical image interpretation in healthcare.
+2648,Survey on hybrid client-server shipping architectures.
+2649,Reducing user disorientation in virtual environments.
+2650,Text classification enhancement with Naive Bayes and SVM.
+2651,NMRA architecture for autonomous spacecraft control systems.
+2652,Automating mediation process with intelligent middleware services.
+2653,Flexible mixed-initiative for effective collaboration.
+2654,HTML document structure extraction using stack machine.
+2655,Classification algorithms compared for accuracy and efficiency.
+2656,Recognizing user context from sensors.
+2657,Scalable federation of heterogeneous components through events.
+2658,Sequence data segmentation using Conditional Random Fields.
+2659,UML advantages and requirements for multi-agent simulations.
+2660,Node similarity in networked information spaces.
+2661,Visual web information extraction using Lixto.
+2662,Four-valued fuzzy description logics for multimedia content.
+2663,Text categorization methods evaluation on Reuters corpus.
+2664,Simulated Annealing for Global Optimization.
+2665,Enhancing web query access with Ontobroker technology.
+2666,Semantic Web: Markup for Interpretable Web Services.
+2667,Secure meeting scheduling with mobile software agents.
+2668,Control architecture for intelligent agents with changing motives.
+2669,Agent technology for distributed simulation and data assimilation.
+2670,Digital library server for scholarly discourse.
+2671,Motivated agency for autonomous agents.
+2672,Enhancing spreadsheet paradigm with new features.
+2673,Paper flight strips crucial for air traffic control.
+2674,Probabilistic image matching approach using Hausdorff.
+2675,Texture image retrieval with learned pattern similarities.
+2676,ML and NLP collaboration for WSD algorithms.
+2677,Temporal logic for conceptual modeling with complexity analysis.
+2678,Abductive logic programming for active databases and agents.
+2679,Analysis of ubiquitous computing game using smart cards.
+2680,Word clustering for accurate text classification.
+2681,Photo annotation with drag-and-drop labeling.
+2682,Text classification without labeled data using keywords.
+2683,Image retrieval system using TS-SOMs and feedback.
+2684,Adapting Locales Framework for Groupware Heuristic Evaluation.
+2685,Location-based integration for mobile search.
+2686,Efficient SQL/TP temporal extensions for query evaluation.
+2687,Spatial join algorithms with optimization for multiple inputs.
+2688,Facial feature tracking with Gabor wavelets.
+2689,Max software agent induces serendipitous insights online.
+2690,Personalization with language models for context-based techniques.
+2691,Fragmentation for efficient query processing in data warehousing.
+2692,Digital city architecture with cooperative information agents.
+2693,Middleware for XML-centric distributed applications.
+2694,Learning object recognition outperforms others.
+2695,Learning lateral interactions for feature binding.
+2696,Automated system for agent architecture generation.
+2697,Coordinating adaptations in open service architectures.
+2698,Integrating modern system with legacy VA database.
+2699,Web crawling for high-performance systems and research.
+2700,Compression enhances index query efficiency.
+2701,Rank aggregation methods combat spam in web searches.
+2702,Enhancing multi-agent system development through logic programming.
+2703,Distributed simulation of complex multi-agent systems.
+2704,Web-based negotiation server for e-commerce.
+2705,Web pages linked by related content.
+2706,Interoperability challenges between mobile agents and ACLs.
+2707,Market complexity with side constraints and attributes.
+2708,Efficient single-server PIR protocols with minimal assumptions.
+2709,Mobile agents shaping future Internet landscape.
+2710,Code mobility study in abstract mobile computing.
+2711,Social-psychological model for synthetic actors in theater.
+2712,Combining SDLIP and STARTS for metasearching protocol.
+2713,Data mining models as internet services overview.
+2714,Concurrency control for replicated real-time databases.
+2715,Global tracking service for secure mobile agents.
+2716,Geographical scope analysis using text analysis.
+2717,Virtual off-screen space design guidelines.
+2718,Temporal R-tree extensions for spatiotemporal data indexing.
+2719,Performance benchmarks and storage analysis for ODBMS.
+2720,Framework for relational metadata with ontology-driven annotation.
+2721,Data integration transformation from local to global view.
+2722,Evolutionary algorithm for decision rule induction.
+2723,Temporal reasoning language with meta-level operators.
+2724,Probabilistic face recognition with Bayesian analysis.
+2725,Semantic theory for logic programs.
+2726,Impact of shopbots and pricebots in markets.
+2727,Web-based ITS with hybrid neurules for knowledge representation.
+2728,Rough set method for analyzing large databases.
+2729,VDS algorithm for Generalized Assignment Problem.
+2730,Optimizing search with contextual category interfaces.
+2731,Hybrid interface specification for virtual environments.
+2732,Non-monotonic knowledge representation with belief operator.
+2733,Calibrating energy parameters for image analysis.
+2734,Bayesian approach for compliant motion sensor processing.
+2735,Video search and summarization technology.
+2736,Feasible formations in multi-agent systems.
+2737,Enhancing teamwork in multi-agent environments.
+2738,Adaptive medical information retrieval system.
+2739,Efficient parallel web crawler design.
+2740,Enhancing ATC UI design with new techniques.
+2741,Agent-based planning in global manufacturing scheduling.
+2742,Querying in software reengineering with diverse technologies.
+2743,Market timing system using Grammatical Evolution.
+2744,Clustering algorithm for MRI segmentation.
+2745,GIS and VR enhance historical material visualization.
+2746,Logic-Based User-Defined Aggregates for Advanced Databases.
+2747,Extending Agent UML for representing agents.
+2748,Median computation with uncertainty using optimal algorithms.
+2749,Active learning improves SVM classification efficiency.
+2750,Text mining rule induction system TEXTRISE.
+2751,Face recognition with shape and texture using EFM.
+2752,Direct policy search with statistical tests.
+2753,Custom scheduling for agents in dynamic environments.
+2754,Improving access to medical expertise through wearables.
+2755,Simulated heating enhances local search in GSAs.
+2756,Rapid prototyping for ATC interface.
+2757,Maintaining feature weights in evolving CBR systems.
+2758,Hybrid tracking for augmented reality technology.
+2759,Automatic text identification in digital video key frames.
+2760,Web caching with data mining techniques.
+2761,Spoken Document Retrieval at TREC-7 by Cambridge University.
+2762,Enhanced robot control with multiple sensors integration.
+2763,Wearable and ubiquitous computing for context-aware applications.
+2764,Machines learning to see and interact.
+2765,Active learning for partially labeled HMMs.
+2766,Continuous-based heuristics for graph isomorphisms.
+2767,Artificial brain development using FPGA-based CAM-Brain machine.
+2768,Markovian models for sequential data in ML.
+2769,Scalability enhancement in Knowledge Discovery in Databases.
+2770,AI system for collaborative problem-solving.
+2771,Retrieve text documents from multiple databases.
+2772,Study on Monadic Datalog and Web Information Extraction.
+2773,Mobile agents for distributed application development.
+2774,Optimizing search engines with clickthrough data.
+2775,Automatic database selection algorithms outperform gGlOSS efficiently.
+2776,Learning strategies in three-valued setting using logic programs.
+2777,Enhancing web search results with user annotations.
+2778,Agent groups evolve for collective problem solving.
+2779,Collaborative Internet document access system.
+2780,Weight adjustment for centroid-based text classification.
+2781,Automatic web-page classification using Yahoo hierarchy.
+2782,Fuzzy and logic programming for AI problems.
+2783,Real-Time FRP: Cost-Aware Implementation and Semantics.
+2784,OMS Rapid Prototyping for Object-Oriented Databases.
+2785,Formal support for multi-perspective requirements engineering.
+2786,Temporal SPC algebra for query optimization.
+2787,Automated knowledge fusion with Formal Concept Analysis.
+2788,Tutorial dialogue system for student explanations analysis.
+2789,Unifying class-based representation formalisms in computer science.
+2790,Adaptive web interface for personalized information retrieval.
+2791,Infrared technology for building navigation system.
+2792,Discovering rules in time series data.
+2793,Prediction system using n-gram models.
+2794,Category representation challenges in text categorization.
+2795,Companion systems for first order data mining.
+2796,Logic programs for intelligent web search.
+2797,Optimizing top N MM query processing techniques.
+2798,Extension of logic programming paradigm: super logic programs.
+2799,Wearable visual robot with decoupled camera movement.
+2800,Optimization approach for proximity-based clustering.
+2801,Distortion filtration in video collaboration spaces.
+2802,Temporal database reasoning with DLRUS logic.
+2803,"Software evolution towards decentralized, autonomous components."
+2804,WebSifter: Ontological Web-Mining Agent for E-Business.
+2805,Software tools for space telescope efficiency.
+2806,Indexing for spatio-temporal data warehouses with OLAP support.
+2807,Distributed system monitoring and management technology.
+2808,TSVMs enhance text classification with limited data.
+2809,Generate variable range tables in optimized programs.
+2810,Probabilistic classification and visualization for data understanding.
+2811,Dependency analysis for variable sharing.
+2812,Cubist-inspired object recognition system with impressive performance.
+2813,Integrating navigation and deliberation for autonomous agents.
+2814,Enhancing U-Datalog with negation.
+2815,Dynamic team training support for instructors.
+2816,Web Personae for personalized information retrieval.
+2817,User modeling with logic programming.
+2818,Query processing in device database system using ADTs.
+2819,Formalizes BDI agents for practical use.
+2820,Eye gaze faster than mouse; multimedia interaction enhanced.
+2821,Database views dynamics using situation calculus and SSAs.
+2822,Challenges and techniques for specialized search engines.
+2823,Locally varying weights enhance k-NN accuracy.
+2824,Evolutionary design with multi-objective optimization.
+2825,Automating language evolution in artificial agents.
+2826,Integration of distributed visual databases.
+2827,Bootstrapping ontology-based information extraction system.
+2828,Autonomous robots recharge using motives and emotions.
+2829,Source code repository system without model restrictions.
+2830,OLAC Metadata Set for Language Resource Discovery.
+2831,Multi-swarm agents solve network problems.
+2832,Deductive language with object-oriented features.
+2833,Data mining for intrusion detection with agents.
+2834,Rule induction for network event triggers.
+2835,Improving group behavior through individual adaptability.
+2836,Comparison of inverted files and signature files.
+2837,Temporal databases for analyzing human behavior.
+2838,Adaptive distributed framework for advanced information retrieval.
+2839,Fast supervised dimensionality reduction for document categorization.
+2840,Program understanding tools impact programmers' comprehension.
+2841,A-Teams formalism for solving complex problems.
+2842,Data quality management in e-Business applications.
+2843,Ajanta Mobile Agent System Security Architecture Summary.
+2844,Efficient management infrastructure for virtual enterprises.
+2845,Fuzzy spatial queries with configuration similarity approach.
+2846,Secure web architecture for mobile code distribution.
+2847,"Learning to order using preference judgments, experimental results."
+2848,Querying XML documents using Xyleme's extended OQL.
+2849,Niche search engine for people's interests online.
+2850,Appearance-based place recognition for mobile robot localization.
+2851,Generate UI code in model-based environment.
+2852,Enhanced genetic rule induction algorithm for performance improvement.
+2853,Automated genomic annotation with multi-agent system.
+2854,Robots learn concepts through unsupervised interaction.
+2855,Enhancing wearable computer performance with context sensors.
+2856,Historical development of HCI technology by universities.
+2857,Content integration challenges in E-Business with XML.
+2858,Protein structure prediction using genetic algorithms and neural networks.
+2859,"Open, agile information systems with Contractual Agent Societies."
+2860,Efficient learning through relational representation.
+2861,Enhancing web search with reflective architecture and agents.
+2862,Web annotation tool for personalized browsing.
+2863,Imitation learning for robotics using sensory-motor primitives.
+2864,Database integration using textual similarity logic.
+2865,Enhancing ranked query model applications.
+2866,Fusion of CI and Web Tech for e-Business.
+2867,Efficient phrase querying with low disk overheads.
+2868,Randomized planning for biped locomotion with motion clips.
+2869,Terrain visualization with restricted quadtree triangulation.
+2870,LuCe technology for MAS design and development.
+2871,Face recognition with probabilistic approach for occlusions.
+2872,Web querying with graph-oriented languages.
+2873,Tabling implementation in XSB system.
+2874,IDS development using SFT and CPNs approach.
+2875,Implementing Multi-Agent Architecture for Cooperative Software Engineering.
+2876,Proposing schemas for LDAP directories.
+2877,Learning system for multi-agent cooperation.
+2878,Case-based classification with similarity-based retrieval algorithm.
+2879,Constructive biology in robotics with temporal grounding.
+2880,Handling imprecision in multidimensional databases for OLAP.
+2881,ICA for color image representation in scenes.
+2882,Learning containment decision with specific approaches.
+2883,Agent learning through influence diagrams in MAS.
+2884,Decidable first-order modal logics.
+2885,Data Warehouses with OO Conceptual Models.
+2886,Global minimizers in image segmentation using level lines.
+2887,Facial feature detection using Gabor decomposition.
+2888,Temporal Description Logic for Actions and Plans.
+2889,Text classification improved with labeled and unlabeled data.
+2890,User guidance importance in case-based knowledge acquisition.
+2891,Image retrieval system based on region segmentation.
+2892,Integrating scripted and reactive behaviors in agents.
+2893,Efficient hand motion capturing algorithm.
+2894,Agent virtual organization in network computing.
+2895,Software reuse through personalized information delivery.
+2896,Robotic autonomy for planetary exploration.
+2897,User behavior learning in image retrieval algorithm.
+2898,Learning approach for natural language disambiguation.
+2899,Virtual roughness perception through force-feedback.
+2900,Efficient querying of moving objects with paths.
+2901,FLORID tutorial on F-Logic programming.
+2902,Broker agent architecture with automated maintenance support.
+2903,Hybrid filtering for personalized online newspaper recommendations.
+2904,DBMS-based e-commerce system for B2B markets.
+2905,Random probability functions for expert system testing.
+2906,Assisted cognition technology for Alzheimer's patients.
+2907,Document expansion enhances speech retrieval accuracy.
+2908,Anesthesia information management with intelligent agents.
+2909,Enhancing collaboration in digital libraries.
+2910,Unified XML query language for diverse data sources.
+2911,Matching concepts with variables in Description Logics.
+2912,Personalized web document filtering with reinforcement learning.
+2913,Wearable platform using modified Nintendo GameBoy.
+2914,Machine learning for intelligent agent development.
+2915,Enhancing textual CBR case representation through extraction.
+2916,Handheld devices for collaborative groupware platform.
+2917,Database replication for performance and consistency.
+2918,Knowledge base creation from the Web.
+2919,Scalable replication for fault tolerance and performance.
+2920,Metasearch using document linkages.
+2921,Social mental shaping in multi-agent environments.
+2922,Extending IS technology with agent concepts.
+2923,Assessing novelty of text-mined rules.
+2924,Supporting creativity through user interface design.
+2925,Dutch pronunciation variation machine learning.
+2926,Multi-agent decision making with argumentation theory.
+2927,Meta-learning for algorithm selection.
+2928,Personalized TV guide with collaborative recommendations.
+2929,Workshop on Intelligent Information Integration.
+2930,Active measurement database for industrial applications.
+2931,Prosody modeling in speech generation: methodological challenges.
+2932,Non-ground representations of stable and well-founded semantics.
+2933,Trajectory-based action recognition with 2D and 3D.
+2934,Incremental materialized view maintenance in databases.
+2935,Schema versioning model integrating design and temporal versions.
+2936,"Central node: Software understanding through task-oriented planning approach.
+One hop node: [Description not provided]
+
+Central node summary: Task-oriented software understanding approach."
+2937,Lock-free scheduling for parallel simulation with improved performance.
+2938,Text region detection using statistical measures.
+2939,TSBT modification for spatio-temporal image database indexing.
+2940,Logic-based AI architecture inspired by Brooks.
+2941,GQL enhances SQL for genomic databases.
+2942,Travel app development challenges for multiple devices.
+2943,Querying databases with multiple examples for users.
+2944,Agent UML in Supply Chain Management: Initial Findings.
+2945,BDI modeling for autonomous agents control.
+2946,Event-Driven FRP for real-time applications with guarantees.
+2947,Automated web page labeling with user actions.
+2948,Automated synthesis of complex agent architectures.
+2949,Hierarchical novelty detection in text.
+2950,ADEPT-based BPM system for BT quote process.
+2951,Hybrid method for user profile and intrusion detection.
+2952,Probabilistic planning for biped locomotion.
+2953,Persistent object store for distributed systems.
+2954,Ordinal regression with Support Vector Learning.
+2955,Multimodal system processing for robust mobile performance.
+2956,IMPACT platform for heterogeneous agents in multi-agent systems.
+2957,Ranking documents based on mutual references.
+2958,Cost model for distributed Petabyte data store.
+2959,Smart appliances with context-aware applications.
+2960,Location-Aware Information Integration for Mobile Search.
+2961,Information extraction in diverse domains using multistrategy learning.
+2962,Evolution of web and databases with XML.
+2963,Vision-based robot control without 3D model.
+2964,Mobile agent framework for compound documents.
+2965,Efficient data mining for path traversal patterns.
+2966,Efficient support for complex multiversion XML queries.
+2967,Automatic subgoal discovery in reinforcement learning.
+2968,User preference capture in recommender systems using ontologies.
+2969,Enhancing mobile agent security with proxy signatures.
+2970,VR system for multi-agent interaction in RoboCup.
+2971,Internet growth and search engine challenges addressed.
+2972,Task allocation in multi-agent systems using coalition formation.
+2973,Optimizing server selection for improved response time.
+2974,Classification system for rectangular shapes using FPGA/DSP.
+2975,Enhancing exception handling in spreadsheet systems.
+2976,Neural network models survey with computational taxonomy.
+2977,Distributed data warehouse with relaxed consistency.
+2978,Dynamic virtual document publishing language for Web.
+2979,Enhancing XML semantics with Declarative Description theory.
+2980,Robotic learning through imitation and feedback.
+2981,Query rewriting algorithm for semistructured data integration.
+2982,Intelligent RoboCup agent ABC architecture and implementation.
+2983,Agent-based telemedicine system for telepathology applications.
+2984,Objective web page ranking method for PageRank.
+2985,Agent-Based Approach for Distributed Software Integration.
+2986,Predicting rare events in event sequences.
+2987,Java framework for speech technology applications.
+2988,Facilitates profile-based cooperation for mobile users.
+2989,Clustering algorithm for hypertext document organization.
+2990,Integration of heterogeneous information sources using ontology.
+2991,Mathematical framework for meaning in interaction games.
+2992,Animated agent aids procedural training in VR.
+2993,Cost optimization for complex decision support queries.
+2994,Formal BDI model with belief degrees.
+2995,Improved graph-based search algorithm with personalized features.
+2996,Wearable computing for consumer shopping with location sensing.
+2997,"Skill learning model CLARION: bottom-up, dual representation."
+2998,Robotic vehicles for surveillance and reconnaissance.
+2999,Map learning and navigation for mobile robots.
+3000,Agent-based Petri Net model for e-commerce.
+3001,Essex Wizards'99 RoboCup Team soccer agent.
+3002,Dynamic BBNs for fault management in telecommunications.
+3003,Item-based collaborative filtering for personalized recommendations.
+3004,Enhancing retrieval systems with context information.
+3005,Program comprehension in multi-language systems.
+3006,XML query processing with keyword search extension.
+3007,Hierarchical Bayesian approach for multi-task learning.
+3008,Modeling multi-agent behaviors using PrT nets.
+3009,Agents ensure process coherence in virtual enterprises.
+3010,Enhancing BDI framework for adaptive human operators.
+3011,Cooperative multiagent system for travel planning.
+3012,Adaptive behavior combination with basic motivations.
+3013,Adaptive penalty for genetic algorithm optimization with constraints.
+3014,Coordinates planning and execution in simulations.
+3015,Optimal parameterization for autonomous navigation.
+3016,Web graph structure analysis with core components.
+3017,Robotic soccer competition with Sony legged robots.
+3018,Extreme Programming for Multi-Agent Systems Development.
+3019,Risk prediction feature selection using EAD.
+3020,Collaborative network agents using state machine model.
+3021,Mobile robot interacts with crowds in public places.
+3022,Dialogue interpretation in plan-based agent architecture.
+3023,Evolution of 2D pattern detectors on CAM-Brain.
+3024,Directory querying with formal data model.
+3025,User modeling with machine learning and knowledge representation.
+3026,Fuzzy rule-based classification system with GA.
+3027,Enhancing index structures for structured document retrieval.
+3028,Fast collaborative filtering algorithm for recommendations.
+3029,Autonomous page ranking method for unbiased metasearch.
+3030,Desires integration and planning for agent architectures.
+3031,Visual Information Retrieval in Distributed Repositories.
+3032,Cooperative problem solving in multi-agent systems.
+3033,ILP and logistic regression for data analysis.
+3034,Enhancing data processing efficiency with Active Disks.
+3035,ML user modeling for precise search engine.
+3036,Reasoning complexity in description logics with TBoxes.
+3037,Enhancing search results with user preferences.
+3038,Predicting mental states in communication.
+3039,User support system for software usability.
+3040,Scalable maintenance strategy for distributed data warehouses.
+3041,Modify C4.5 for loss minimization in multi-class.
+3042,Adaptable user interfaces for component-based systems.
+3043,Discover cyclic association rules with new algorithms.
+3044,Spoken document retrieval experiments.
+3045,Expressiveness of Distributed Leasing in Coordination Languages.
+3046,Optimizing learning for interactive image retrieval techniques.
+3047,Phrase matching for text classification in DORO system.
+3048,Hidden value of the Deep Web.
+3049,Enhancing mobile communication with context sharing.
+3050,Image segmentation for improved image querying.
+3051,Implicit ratings for personalized recommendations in recommender systems.
+3052,Collision perception model for real-time animation.
+3053,Efficient data extraction algorithm using hierarchical wrapper.
+3054,Evolution of neural controllers for animal locomotion.
+3055,Reasoning about updates in Transaction Logic.
+3056,Expert system technology in observing tools evolution.
+3057,BDI Design Principles in RoboCup Agents: Summary.
+3058,Face-recognition algorithm evaluation using FERET methodology.
+3059,Optimizing I/O throughput for multiple disks.
+3060,Predicting web documents using association rule classifiers.
+3061,Web robots disrupt caching with referencing patterns.
+3062,Optimizing query plans for data integration efficiently.
+3063,Self-bounding learning algorithms for error estimation.
+3064,Dynamic role-based multifaceted object modeling.
+3065,Community services integration for knowledge transfer.
+3066,Multi-Agent Systems Specification and Simulation
+3067,Approximating t-norms and t-conorms for knowledge representation.
+3068,Enhancing storage system performance with Active Disks.
+3069,Efficient spatial OLAP operations in data warehouses.
+3070,Analog neural nets struggle with noise.
+3071,Dynamic updating of coordination rules through diagnosis.
+3072,Identifying web community through self-organization.
+3073,Central node: Versus: Web Repository Model for Data Management.
+3074,Constrained Genetic Algorithms for Nonlinear Optimization.
+3075,Declarative semantics of belief queries in MultiLog.
+3076,Agent architectures rely on limited analysis.
+3077,Efficient web community identification using flow algorithms.
+3078,Partially labeled classification with Markov random walks.
+3079,Efficient sequence mining algorithm with constraints.
+3080,Robots control and coordination in human environments.
+3081,Efficient architecture for querying streaming sensor data.
+3082,Decentralized maintenance of multi-view data warehouses.
+3083,Automatic document classification based on context.
+3084,Barrier trees for transition frequencies in landscapes.
+3085,Abductive and Consistency-Based Diagnostic Reasoning
+3086,Heuristic compression for large case bases.
+3087,Ubiquitous computing with computer-augmented everyday artefacts.
+3088,Toolkit for reducing recognition errors.
+3089,Mobile-agent system for efficient information retrieval.
+3090,Community hierarchy extraction using bipartite graphs.
+3091,Observation and control of multi-robot behavior.
+3092,Database-independent conceptualizations and structure translation.
+3093,Enhancing neural network evolution efficiency.
+3094,Importance of communication in multiagent robotic systems.
+3095,Trust management in wearable communities through reputation system.
+3096,Wearable videoconference system with telepointer.
+3097,Automated mediator generation for data warehouse changes.
+3098,Adaptive information extraction for information agents.
+3099,Wrapper induction for efficient content extraction.
+3100,Flexible spatio-temporal schema selection model.
+3101,Enhancing WWW query access with Ontobroker.
+3102,Automatic web page categorization for information retrieval.
+3103,Knowledge representation in intelligent environments using semantic networks.
+3104,Meta-Agent Programs for Multi-Agent Reasoning.
+3105,Temporal dependencies extended to spatial and more.
+3106,Adaptive scholarly information access on the Web.
+3107,Predicting document importance based on prospective indications.
+3108,Agent-Oriented Software Engineering: Recent Research and Applications.
+3109,Digital City Kyoto: Urban Social Information Infrastructure.
+3110,Off-policy TD learning with linear function approximation.
+3111,Data mining systems for logic.
+3112,Human-robot communication with imitative doll robot.
+3113,Argumentation-based framework for disjunctive logic programming.
+3114,Shopping assistant for home e-commerce electronics.
+3115,Active learning enhances SVM generalization on documents.
+3116,Math programming challenges and formulations for data mining.
+3117,Collaborative ontology development tool for Semantic Web.
+3118,Efficient XML storage model for query processing.
+3119,Co-Training for Text Learning Tasks: Effective and Applicable
+3120,Resource allocation through multi-item auctions with agents.
+3121,Geometric context enhances user experience in computing.
+3122,Collaborative ontology technology for construction and use.
+3123,Data warehouse design with temporal and object modeling.
+3124,Reclustering algorithm enhances high-energy physics data performance.
+3125,AI-ED research: Ontological engineering for advancements.
+3126,Enhancing OLAP with Extended Data Model.
+3127,Artificial agent concept acquisition through constructivist principles.
+3128,Optimizing agent performance through dynamic intention reconsideration.
+3129,Flexible production control with cooperative agent systems.
+3130,Criteria impact on model selection in meta-level approaches.
+3131,Comparing algorithms for identifying mirrored hosts.
+3132,Architecture-centric OO design for MAS using extended UML.
+3133,Agent specification language for complex behavior patterns.
+3134,Human head detection using constellation models.
+3135,Bottom-up partial deduction for logic programs.
+3136,Conflict resolution in collaborative planning dialogues.
+3137,Portable mixed reality interface for outdoors.
+3138,Web usage mining for user behavior analysis.
+3139,Scalable metasearch engine with optimized database selection.
+3140,Theoretical framework for dynamic data learning.
+3141,Efficient search algorithms for tree and graph structures.
+3142,Video database model with object-oriented approach.
+3143,Research on emotions using architecture-based concepts.
+3144,Irrelevant features addressed in case-based learning.
+3145,"Fast, robust surface registration using Multi-scale EM-ICP."
+3146,Partial-order planning for concurrent interacting actions.
+3147,Hierarchical RL for complex multiagent scheduling.
+3148,Instrumental Interaction model for post-WIMP UI design.
+3149,Personalized assistants for efficient data retrieval.
+3150,Enhancing symbolic rules performance for better results.
+3151,Efficient web caching with novel refresh strategy.
+3152,"Instructable, adaptive Web agents for information retrieval."
+3153,Business process coordination trends and challenges overview.
+3154,Efficient temporal plan execution with dispatchable networks.
+3155,Human-Computer Interaction: Coupling in this Article.
+3156,Agent-based market infrastructure for consumer goods.
+3157,Information quality measurement for integration.
+3158,Robust finger tracking with multiple cameras.
+3159,Location Systems Taxonomy for Ubiquitous Computing Applications.
+3160,Case-based learning of pattern languages with semantics.
+3161,Evolutionary algorithms enhance oblique decision tree accuracy.
+3162,City navigation using social cues for information gathering.
+3163,Logical decision-making using efficient techniques.
+3164,Privacy-preserving distributed mining of association rules.
+3165,Improving neurules with multi-inference approach.
+3166,Efficient oblique decision tree induction.
+3167,Adaptive multiagent communication protocols for emergent behavior.
+3168,BDI Model of Agency: Successes and Challenges.
+3169,Scalability challenges addressed in multi-agent systems.
+3170,Evolutionary algorithm for intelligent web crawlers.
+3171,Evolving efficient digital circuits with multi-objective fitness.
+3172,Uniform model for distributed web applications.
+3173,AI research in RoboCup Synthetic Agent Challenge.
+3174,Eye communication in 3D synthetic agent conversations.
+3175,Statistical shape knowledge for image segmentation.
+3176,Case-based learning for formal language classes.
+3177,Social reasoning integration in BDI agent architectures.
+3178,Improve Web search efficiency with Threaded InfoSpiders.
+3179,Evaluate agents using animal behavior techniques.
+3180,Visualizing web structure in 3D hyperbolic space.
+3181,Graphical model for querying video data.
+3182,Manage XML documents in digital library.
+3183,Enabling safe schema changes in OODBs.
+3184,Decentralized architecture with coordination for digital libraries.
+3185,Structuring patterns for UI design.

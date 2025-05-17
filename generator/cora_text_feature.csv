@@ -1,0 +1,2709 @@
+ID,Description
+31336,Heuristic method filters incorrect pattern combinations.
+1061127,Machine learning for medical follow-up study.
+1106406,Reinforcement learning for dynamic channel allocation.
+13195,Optimal actions in uncertain environments using MDP.
+37879,Efficient variational methods for graphical models.
+1126012,Real-time decision algorithms for influence diagrams.
+1107140,Efficient problem solving through speedup learning.
+1102850,Automaton-derived cost functions for optimal alignments.
+31349,Protein family modeling with motif-based HMMs.
+1106418,Comparison of mistake bounds in learning.
+1123188,Fitting SS ANOVA models for exponential families.
+1128990,Evolutionary approach for supervised learning problems.
+109323,Estimating marginal likelihoods for Bayesian hypothesis testing.
+217139,Optimizing learning methods to prevent degradation.
+31353,Protein modeling using Hidden Markov Models.
+32083,Initial weight impact on back-propagation convergence.
+1126029,Active learning exploration.
+1118017,Memory consolidation in brain explored through neural network.
+49482,Explore correlation between topography and vision.
+753265,Estimating error rates over classifiers with validation.
+249858,Learning in hybrid noise environments using statistical queries.
+1113739,Decision tree outperforms neural network.
+48766,Advanced Othello strategies using evolutionary neural networks.
+646195,MCMC applications in IRT with complexities.
+1126050,Transfer impact on learning.
+59626,Learning complexity bounds in statistical models.
+340299,Neural network analysis for diverse applications.
+354004,Bayesian priors selection techniques with bibliography.
+242637,Algorithm enhances NARX neural network performance.
+1106492,Incremental concept learning for accurate concept identification.
+74975,Enhancing creativity in case-based design systems.
+1152272,Probabilistic automata using Gibbs distributions and EM.
+100701,Interactive design aided by memory-based techniques.
+66982,Generative models learned using Up-Propagation Algorithm.
+13960,Vision techniques to accelerate reinforcement learning.
+13966,Algorithm-based teaching strategy for memory enhancement.
+66990,Hierarchical generative model with sparse representations.
+182093,Neuro-evolution enhances efficiency in complex tasks.
+182094,Evolutionary robotics approaches for autonomous robots.
+13972,Reinforcement learning structure discovery through SKILLS algorithm.
+13982,On-line learning with linear loss constraints.
+16819,MCMC convergence diagnostics and practical recommendations.
+273152,Acquiring modules through evolutionary processes for development.
+237521,Learning invariants for pattern recognition.
+1153703,Advantages and improvements of instance-based learning.
+32872,Optimal control for mobile-robot navigation.
+284025,Reflective agents in Pandemonium neural networks.
+218666,Implementation of Nested Generalized Exemplars Algorithm.
+16843,Sampling method for multimodal distributions.
+1153724,Adaptive training system for personalized chemistry tutoring.
+1153728,Metacognitive regulation through introspection planning.
+158098,Alternative Markov property for chain graphs.
+8699,Theory revision method for fault hierarchies.
+1134865,Distributed genetic algorithms for grid partitioning.
+28456,Competitive game learning algorithms with analysis.
+248425,Comparison of selection schemes in Genetic Algorithms.
+1112319,Generalization error estimation using self-bounding algorithm.
+28471,Study new framework for Markov decision processes.
+175548,Neural networks with quadratic VC dimension.
+696345,Self-adaptive neural networks for blind signal separation.
+28485,Efficient learning algorithm for multiple task sequences.
+1139195,Deductive synthesis for simulation and optimization.
+35778,Context-specific independence in Bayesian networks.
+28491,Comparison of conventional and replacing traces.
+310530,Integrating creativity into reading process.
+1153784,Font substitution error during document printing.
+1481,Overview of case-based reasoning and systems.
+1153786,Updates and counterfactuals in propositional knowledgebases.
+13212,Discovering simple neural nets for generalization.
+1111614,Tenor saxophone performance generation using cases.
+5055,Boosting methods effectiveness through margin analysis.
+4329,Supervised learning with incomplete data using EM.
+330148,Hierarchical feature map system for script recognition.
+1105062,Learning adaptive target detection through fovea trajectories.
+4330,Hierarchical mixture model with EM algorithm.
+5062,Memory model for case retrieval system.
+4335,Justifying incremental and sparse EM algorithm variants.
+158812,Explore synchronization properties of Wilson-Cowan oscillators.
+40124,Probabilistic regression model implementation in BUGS.
+1103610,Hierarchical decision tree ensemble for psychology.
+688361,Neural network implementation in SAS for efficiency.
+302545,Kyburg's Evidential Probability modification for statistics.
+20534,Reinforcement learning enhances job-shop scheduling.
+1031453,Neural network pole balancer for robots.
+5086,Accounting for model uncertainty in GLMs.
+193742,Efficient Q-Learning with Hidden-Unit Restarting.
+58268,Fine-grain parallelism processing paradigm for efficiency.
+424,Hybrid algorithm combining nearest-neighbor methods.
+40151,Accelerating model selection with Hoeffding Races.
+636098,NP-Completeness of FOCUS algorithm for feature set.
+260121,Efficient unsupervised neural network algorithm.
+950052,Learning semantic similarity of software components.
+434,Learning mechanisms for intelligent systems.
+1131270,Efficient Gibbs sampling for complex pedigrees.
+1131274,Perfect simulation in stochastic geometry.
+1131277,Detecting disease clusters using Bayesian approach.
+1110947,Efficient rule induction for context-specific problem-solving.
+662279,Improved weather forecasting through adaptive tuning.
+1139928,Adversarial robotic environment planning and learning strategies.
+153063,Bayesian forecasting of multinomial time series.
+134199,Analyze GAFOs using Markov chain theory.
+641956,Adaptive noise injection for input relevance.
+20584,Comparison of decision tree algorithms for accuracy.
+1130567,Neurocontrol with reinforcement learning for adaptation.
+171225,Neural network with modifiable lateral connections.
+714879,Transition to causation in knowledge-rich applications.
+37998,Integrating logic programming techniques effectively.
+50336,Bounding marginal probabilities in complex networks.
+50337,Approximating probabilities in graphical models using recursion.
+15429,Lower bound on examples for learning.
+23448,Data exploration with Self-Organizing Maps efficiently.
+1122574,Modeling temporal variability in dynamic signals.
+1110998,Interpretable neural networks using BP-SOM.
+853150,MLP and LVQ networks for pattern discrimination.
+15431,Generalization of Sauer's Lemma in combinatorics.
+646286,Approximating Gibbs sampler convergence using Gaussian approximation.
+1152307,Advantages and improvements in instance-based learning.
+1115291,Model-based cluster analysis for optimal determination.
+1106547,Enhancing race car control system efficiency.
+68463,Cost-sensitive feature reduction enhances hybrid learning.
+59715,Enhancing evolution through diversity and causality.
+69198,Efficient learning of extended sequences using compression.
+7272,Visual cortex and tilt aftereffects study.
+163235,Fast numerical integration for relaxation oscillator networks.
+7276,Visual cortex model with self-organization and segmentation.
+34315,Bayesian classification with Hybrid Monte Carlo.
+644843,Perfect simulation of point processes for users.
+7297,Visual cortex self-organization and dynamic modeling.
+628815,Satellite attitude control with neural networks.
+35061,Genetic algorithm with connectionist learning for networks.
+68495,Learning Prolog clauses with errors efficiently.
+1136310,EM algorithm for MAP estimation with examples.
+18313,Adaptive robot control for planning.
+34355,Incorporating prior knowledge in supervised learning.
+45212,Gain-adaptation algorithms outperform classical methods.
+1153091,Efficient windowing algorithm for rule learning.
+8703,Automatic theory revision for classification systems.
+126920,Efficient MCMC methods with auxiliary variables.
+126927,Convergence analysis of perturbed Markov chains.
+595157,Simulated annealing in genetic programming exploration.
+140005,Improving learning algorithms through data omission.
+1117476,Discovering functions in Genetic Programming through self-organization.
+59798,Linear programming for breast cancer diagnosis.
+219446,Musical meter perception through connectionist models.
+44514,Physical systems' computational complexity.
+287787,User-friendly workbench for genetic algorithm research.
+157401,Neural network model for episodic memory.
+1154500,Empirical learning in theory space search.
+682666,Multiagent Q-learning for Nash equilibrium.
+399173,Corporate memories for knowledge management benefits.
+198866,Utilizing cognitive behavior knowledge for learning.
+51834,Constructive induction for theory revision.
+200630,Replicability challenges and proposed solutions in neural computing.
+782486,Robot learning in structured environment using unsupervised neural network.
+1136393,Data-driven synthesis of acoustical instruments.
+137849,Model-based cluster analysis inference methods.
+1153811,Algorithm integrating regression trees for predictions.
+24966,Bayesian framework for learning in networks.
+11148,Improving performance through choice and exploitation.
+51866,Approach for revising domain theories with probabilities.
+24974,Comparison of Gaussian processes for regression.
+137868,Bayesian analysis of mixtures with MCMC.
+28542,Policy Iteration in Actor-Critic learning systems.
+35,Application-specific routines in genetic algorithms optimization.
+116021,Active learning for improved generalization.
+348305,Impact of predicated execution on branch prediction.
+10430,Complementarity of rules and precedents.
+39403,Auto-exploratory H-learning outperforms original H-learning.
+40,Genetic algorithms controlled dynamically with fuzzy logic.
+282700,Learning linear sparse codes for natural images.
+1105116,Approximate probabilistic inference in networks.
+35854,Characterizing learnability for classes of functions.
+63477,Efficient feature selection in unsupervised clustering.
+124064,Upper bound on loss in RL.
+1120431,Learning paradigms for robust vision systems.
+949318,Neural network for sequence classification.
+649944,Knowledge integration for enhanced system performance.
+63486,Evaluate biases in machine learning systems.
+1153866,Learning decision trees from decision rules.
+1140040,Smoothing regularizers improve neural network generalization errors.
+1112426,Memory reduction in music variations and efficiency.
+239800,Ensemble learning and statistical inference optimization.
+1131314,Adaptive MCMC with theoretical self-regeneration.
+1153891,Integrating conceptualization and analogical reasoning for design.
+1129835,Improving performance with dynamic confidence prediction.
+310653,Robustness analysis of Bayesian networks algorithms.
+1130600,Self-learning control system for mobile robot.
+1111733,Evaluation and ordering of rules for decision-making.
+210871,Coevolving high-level representations in complex tasks.
+210872,Evolutionary program acquires recurrent network structure.
+1132083,Spline smoothing for bivariate hormone analysis.
+132806,Genetic encoding of neural networks for behavior.
+12631,Multivariate smoothing spline ANOVA with Bayesian.
+12638,Soft classification and smoothing spline analysis.
+38771,DNA sequence assembly quality improvement with classifications.
+232605,Enhancing ILP on MIMD architectures through design.
+232606,MISC architecture for instruction parallelism extraction.
+1107312,Optimal navigation strategies in uncertain environments.
+1114605,EEG signal classification with neural networks.
+68505,Learning monomials with malicious noise.
+133553,Sample complexity bounds for recurrent perceptrons.
+144408,Neural net architectures for time-varying patterns.
+23502,Simulating impairments in lexical system.
+1108050,Visual cortex synaptic plasticity theory summary.
+23507,NLP with Subsymbolic Neural Networks.
+83826,Rodent navigation theory beyond cognitive map.
+133563,Neural nets as dynamical system models/controllers.
+85299,Effective learning technique for high-dimensional mappings.
+49660,Feature selection using probabilistic estimates for algorithms.
+593060,Parallel Genetic Programming on SIMD architecture.
+341188,Unified analysis of reinforcement-learning algorithms for optimal behavior.
+714975,Path diagrams for structural equation modeling analysis.
+1115375,Hyperspectral data analysis using Independent Component Analysis.
+95435,Incremental methods for POMDP bounds.
+145176,Bayesian non-linear modeling for energy prediction.
+1113934,Hybrid model for classification using neural networks.
+1132809,Enhancing parallelism in MIMD architectures through scheduling.
+22835,Predicts performance range for parallel neural network.
+1153148,Bayesian statistics for better tree predictions.
+41714,Challenges in evolutionary robotics at SAB92.
+1118245,Sorting and decision trees using POMDPs.
+1152436,Introspective reasoning framework for AI strategy selection.
+1153166,Adaptive chemistry tutoring system development.
+1153169,Automated model selection for machine learning.
+38000,Learning logic programs without explicit negatives.
+1152448,Instance-based learning for autonomous systems.
+1137140,Neuro-fuzzy clustering algorithm with fuzzy hyperboxes.
+30895,Randomized technique for creating accurate decision trees.
+5966,Hybrid genetic algorithm excels in classification.
+1136422,Analyzing musical sound with forward models.
+27174,Linear programming in machine learning applications.
+1128407,Enhancing creativity in case-based reasoning.
+1124844,Hidden Markov models for DNA sequence analysis.
+1153195,Weight matrix modification in neural networks.
+1113995,Implementing multi-associative mappings in cognitive modeling.
+1136442,Visual image stabilization during eye movements.
+8821,Predicting mediation outcomes in international conflicts.
+46079,Efficient technique for multimodal function optimization.
+119761,AI research on learning from examples.
+1111052,Efficient value function approximation with backward computation.
+315789,Interactive system for design optimization strategies.
+1108841,Neural network classification of optical and radar.
+1135746,Learning Markov chains with variable memory.
+100935,PGAPack parallel genetic algorithm library guide.
+353541,Intelligent agents for web tasks.
+60682,Concept learning with dynamic context adjustment.
+253762,Bayesian mixture modeling with Monte Carlo simulation.
+8872,Efficient reinforcement learning through symbiotic evolution.
+714260,Probabilistic evaluation of plans with hidden variables.
+137956,Enhancing ILP processors with control flow prediction.
+35922,Mean field theory for sigmoid belief networks.
+2354,Optimizing learning systems through statistical methods.
+168410,Modular Q-Learning for manipulator task decomposition.
+346292,Back-propagation learning and network plasticity dynamics.
+1153933,Enhanced RAAMs for complex data storage.
+1119751,RankBoost algorithm combines preferences for various applications.
+17798,Enhancing case-based learning performance with decision trees.
+400356,Factor analysis model learned with wake-sleep method.
+10531,Bayesian method enhances HMMs for proteins.
+1110390,Cost model for machine learning applications.
+714289,Causal inference and statistical analysis techniques.
+733167,Soft clustering with EM algorithm for data.
+81714,Design adaptation through evolving design representations.
+428610,Non-linear time series model with mixture-based structure.
+552469,Maximizing coverage in learning algorithms.
+164885,Analyzing GAs with reordered Markov models.
+81722,Emergent behavior in co-evolutionary design.
+111866,Learning with noisy and incomplete data.
+194617,Accurate DNA segmentation using new HMM system.
+93318,Algorithm clusters learning tasks for lifelong learning.
+134307,Belief change model combining revision and update.
+203646,Bayesian regression with Kalman filter for online learning.
+367312,Efficient mapping of sparse neural networks.
+650814,Comparison of haploid and diploid networks.
+93320,Hybrid model for sequential decision making.
+134315,Critique of belief revision approaches in literature.
+134316,Qualitative Markov assumption for belief change.
+976334,Improving control solutions in continuous state spaces.
+1095507,Queries on probabilistic grammars for pattern analysis.
+134320,Logic and probabilities for qualitative reasoning.
+662416,Risk factors' relation to incidence analysis.
+194645,Motor schemas and reinforcement learning integration.
+1131421,Cortical synchronization and perceptual framing study.
+161221,Local learning algorithm for dynamic neural networks.
+38839,Ontology's role in enhancing creative understanding.
+38846,Modeling serendipitous recognition in creative design.
+133615,Impact of probability estimation on attribute selection.
+1112574,Learning in dynamic and adversarial environments.
+521207,Toolbox for similarity measure construction in retrieval.
+3828,Theory on questions and asking.
+593105,Automating abstract data structure implementation for efficiency.
+390693,Analog computational complexity in networks.
+642847,MCMC convergence diagnostic using total variation.
+1122704,EEG source separation and artifact removal.
+4584,Exploring references for challenging learning control.
+7419,Neuro-dynamic programming for retailer inventory management.
+30901,Comparison of greedy and lookahead approaches.
+1115456,Automatic feature extraction using competitive classifier.
+7432,Dynamic merging of Markov Decision Processes.
+573553,Approximation algorithm for fitting tree metrics.
+1022969,Improving case-based planning through retrieval analysis.
+143801,Adaptive data analysis using neural networks.
+612306,Confidence estimation for speculation control in processors.
+417017,Survey of relational learning algorithms for supervised tasks.
+396412,Approximate learning algorithm for Boltzmann Machines.
+1107455,Reinforcement learning for combinatorial optimization problems.
+91975,Learning curve analysis for Markov Decision Processes.
+180187,Comparison of predicated execution support for ILP.
+27203,Exploring power and efficiency of self-learning.
+1152508,Lower-bound result on genetic algorithm power.
+69392,Electricity demand forecasting using nonlinear mixture model.
+1118332,Cost function representation in Markov chain.
+189577,Learning with chain graphs for data analysis.
+1114777,Advantages of graph-structured representations in CBR.
+75969,Analyzing benefits of linear regression.
+1132922,Cortical functionality emergence through self-organization.
+1153254,Evaluate theory revision systems using distance metric.
+1117618,Data mining approach with dataset decomposition.
+6767,Generalizing machine learning algorithm performance from case studies.
+27241,Error reduction through learning multiple descriptions.
+27246,Neural networks for accurate volcano recognition.
+95589,Planning with closed-loop macro actions.
+6771,Statistical tests compare classification learning algorithms.
+86840,Active classifiers with cost and penalty considerations.
+108962,Probabilistic inference algorithms in bucket elimination framework.
+6786,Bayesian model selection in social research.
+108963,Algorithms for time-space tradeoff.
+108974,Efficient probabilistic inference in belief networks.
+1117653,Study on associative memory using action potential.
+1152569,Maintaining diversity in evolutionary algorithms through subpopulations.
+1132968,Statistical theory for object representation with features.
+370366,Regularization for invariant learning in pattern recognition.
+108983,Efficient Bayesian network inference using causal independence.
+399339,Learning methods for cognitive skill acquisition.
+64319,Improved noise-tolerant learning algorithms with statistical queries.
+1110426,Efficient relational learning algorithm with pruning.
+1102407,Utilize PREENS tools and NN simulations.
+1127812,Neural network learns variable metrical patterns.
+1128542,Knowledge integration and rule extraction in neural networks.
+65057,Abduction model with belief revision for explanations.
+159084,Comparing Sparse Distributed Memory designs for performance.
+159085,Estimating stored data accurately in SDM.
+65074,Belief revision and reasoning framework with semantics.
+33895,Genetic algorithms for various scheduling problems.
+2440,Learning logical definitions from relations.
+1717,Convergence analysis of EM algorithm for Gaussian mixtures.
+249421,Rhythmic pattern processing based on time perception.
+3187,Bayesian test for nested hypotheses and Schwarz Criterion.
+591016,Regression algorithm for real-world domains.
+1110494,Contral node: Memory and organization in neocortex.
+29492,Learning temporal structure with multiscale hidden units.
+400473,Sequence learning with incremental higher-order networks.
+644334,Convergence controls for MCMC in HMM.
+949511,Diffuse liver disease classification using echography.
+205192,Review of nonlinear PCA neural networks.
+763009,Unsupervised category learning with credit allocation.
+169280,Modeling circadian rhythms using periodic spline function.
+1120643,Genetic algorithms enhance large-scale graph optimization.
+645088,Hierarchical spatio-temporal disease mapping in Ohio.
+5348,Feature extraction and dimensionality reduction neural network.
+124296,Input representation impact on learning algorithms.
+1121398,Overview of selection schemes in evolutionary algorithms.
+950305,Learning self-supervised backpropagation for topology-preserving maps.
+567018,Modeling rhythmic patterns perception and production.
+52000,Uniform approximation orders with radial basis functions.
+52003,Improved scattered centers with radial basis functions.
+52007,Approximation power of shift-invariant spaces.
+58540,Unified view on learning algorithms.
+436796,Extensions of K-Means for Image Segmentation.
+948846,Limitations of self-organizing maps for clustering.
+8213,Enhancing RL exploration safety with domain knowledge.
+671293,Input variable selection based on mutual information.
+1131550,Diploidy's role in genetic algorithms.
+899119,Task selection for improved performance through speculation.
+1105394,Introspection Approach enhances learning speed strategically.
+85452,Feature selection method excels in classification accuracy.
+1112686,Bayesian finite mixtures for educational data.
+69418,Algorithms improve hierarchical mixture of experts.
+8224,Comparison of pruning methods for decision trees.
+145315,Error handling framework for AI research.
+575077,Analyzing fitness landscapes and problem difficulty.
+20850,MDL principle outperforms cross-validation in feature selection.
+44017,Learning rules to improve classification accuracy.
+1135125,Efficient fuzzy graph construction algorithm from data.
+286562,Motif analysis in steroid dehydrogenases.
+1123553,Intelligent teaching system using reinforcement learning.
+1135137,Neural model for temporal pattern processing.
+325314,Estimating alertness levels using EEG analysis.
+662572,Spatial-temporal temperature analysis with smoothing spline ANOVA.
+159897,Bayesian inference in networks with convex distributions.
+1130856,"Chaos, fractals, genetic algorithms in research."
+96335,Geometry in learning for two-class problem-solving.
+755082,Time series prediction using cluster-weighted modeling.
+1123576,Neural network model for protein data.
+1103979,Research on prior information and generalized questions.
+593260,Edge encoding for evolving graphs and networks.
+601567,Geometric comparison technique for evaluating classifications.
+1119140,Learning model enhances strategic abilities in mobot.
+189655,Developing axioms and semantics for causal relevance.
+31769,Learning visual schemas in neural networks.
+1107567,Learning algorithms for various applications.
+88356,Bayesian classification methods with varying dependence levels.
+1033,Evolutionary costs of learning over time.
+1034,Evolutionary trade-off between learning costs.
+1106849,Classification option trees with confidence measure.
+16470,Analyze finite state machines and neural networks.
+35343,Backpropagation convergence analysis for neural networks.
+16471,Constructing stable neural networks for DFA.
+1154074,Lyapunov-theoretic techniques for nonlinear stability.
+16476,Grammar inference from recurrent neural networks.
+23774,High-performance job-shop scheduling using TDNN-TD() network
+16485,Turing machine simulation using neural networks.
+136665,Domain properties impact real-time search performance.
+94953,Approximation rates in low-dimensional function spaces.
+9708,Acquiring concepts through explanation-based learning.
+38205,Evolution of solutions in competitive environments.
+645897,Gibbs sampling convergence rates in mixtures.
+216877,Intermediate concepts for real-valued functions.
+18619,Improving supervised learning efficiency through uncertainty sampling.
+559804,Testability of causal models with latent variables.
+6898,Sample size calculations for smoothing splines.
+166420,Boosting algorithms for multiclass classification with confidence.
+787016,Learning in Genetic Algorithms and Evolution Strategies.
+73146,Learning Bayesian networks with improved representation.
+1136634,Validate test errors using trained classifiers.
+1111230,Comparison of control methods for heating coil.
+3218,Improving CN2 algorithm for rule induction.
+3229,Neural computation theory and network analysis.
+193347,SEE on PolyPath architecture enhances performance by 48%.
+84020,Competitive tree learning algorithm outperforms.
+3231,"Subset selection for accurate, relevant concepts."
+52847,Rule-based ML for functional prediction.
+193352,Hybrid predictor scheme enhances execution times.
+193354,SMT hardware for speculative multi-path execution.
+1110531,Comparing machine learning and human learning.
+686532,Homology detection methods for biological sequences.
+711598,Pattern finding in KDD using robust approach.
+1063773,Guide to alignment challenges and heuristics.
+3243,Improved accuracy through oblique decision trees.
+78994,Adaptive tuning of weather models with GCV.
+181782,Hierarchical EBRL for optimal policy learning.
+284414,Effective discretization of continuously valued data.
+114189,Detecting attribute dependencies in Bayesian classifiers.
+686559,Parameterization studies for HMM in viral proteins.
+253971,Finite state machines from recurrent networks.
+1106103,Bias impact on learning algorithm generalization.
+1114125,Optimizes average reward in scheduling AGVs.
+75318,Robust stability in nonlinear systems.
+45599,Robotic control with genetic neural networks.
+97892,Correcting imperfect domain theories through analysis.
+446271,Efficient optimization through Bayesian-Boltzmann mapping.
+1106112,Heuristic routing for adaptive network routing.
+280876,Statistical analysis in clustering methods.
+12182,Algorithm analysis combining expert predictions for binary.
+175909,Structural similarity assessment and adaptation in CBR.
+64484,Automated training agent enhances learning efficiency.
+6125,Improving learning algorithms through hypothesis combination.
+1120713,Legal reasoning computational model.
+1114153,Preservation of neighborhood relationships in mappings.
+12197,PAC learning model for noisy concept learning.
+248823,Behavioral specialization in learning robot teams.
+919885,Product units enhance neural network performance.
+94229,Neural network representation for IJCAI'95 presentation.
+1120731,Cognitive model development for skill acquisition.
+23069,Enhancing belief revision process for rationality.
+6151,Learning search strategies with multilayer connections.
+6155,Comparison of reinforcement learning methods.
+23070,Belief change framework with time extension.
+644448,Efficient Adaptive MCMC with Regeneration.
+1112723,Spatially varying smoothness for improved generalization.
+31097,Lessons learned from StatLog Machine Learning Project.
+6169,Optimizing elevator dispatching using reinforcement learning.
+1106172,Efficient exploration technique in partially observable domains.
+6170,Improve policies in dynamic programming effectively.
+211875,Selecting salient features for protein prediction.
+1109017,Extension package for Distributed Genetic Algorithms.
+5454,Self-organizing network for 3D object representation.
+6184,Internal models for supervised learning in adaptive systems.
+10796,Incremental decision tree induction with numeric variables.
+10798,Learning physical descriptions from functional definitions.
+1120777,Modeling image manifolds of handwritten digits.
+86258,Study on Weighted Majority Algorithm with grants.
+154134,Efficient control rule selection for learning.
+6196,Efficient algorithm for learning feasible trajectories.
+20920,Predictive inference methods for discrete domains.
+20923,Efficient Bayesian case-based reasoning with neural networks.
+22386,Case-based reasoning for creative design processes.
+1131639,Language dynamics and evolution study in complex system.
+77515,Learning functions with scale-sensitive Vapnik dimension.
+93555,Neural network modules for adaptable intelligent systems.
+17201,Learning policies in partially observable environments.
+644494,Efficient Markov chain construction method.
+17208,Approximation method for optimal policies in POMDPs.
+1125082,Efficient parallel search for neural network optimization.
+1131647,Connectionist model of word learning in children.
+74698,Event-based belief update using abduction.
+13652,Brain-like networks for perception and learning.
+20942,Efficient tree restructuring for decision tree.
+390894,Variational approach for Bayesian logistic regression.
+390896,Improving mean field approximation with mixtures.
+1125092,2-D pole balancing challenge solved efficiently.
+13656,Learning biases for patterns in networks.
+1116347,Accelerated Q-learning with reduced update complexity.
+13658,Generative learning algorithms for intelligent systems.
+114966,Neural network for autonomous road following.
+120013,Incremental learning system with locally linear experts.
+1117089,Dynamic decision making in repeated games.
+57948,Efficient learning of rectangles with distributions.
+334153,Function decomposition for concept hierarchy in ML.
+160732,Bayesian regression trees with m-distribution estimate.
+1154103,Technical report number 967 from August 1996.
+12946,Learning algorithms for incomplete data.
+1104787,Fault-tolerant neural DFA implementation in RNNs.
+17242,Detecting features in spatial point processes.
+321861,Adversarial bandit problem with no assumptions.
+189721,Bayesian belief networks with sensitivities.
+1119211,Custom supercomputer for fast neural network training.
+12960,Active learning reduces training examples for categorization.
+95718,Ensemble learning with neural networks example.
+6910,Smoothing spline ANOVA in diabetes study.
+180373,Cancer diagnosis and prognosis using linear programming.
+6917,Comparison of covering and divide-and-conquer.
+358884,Algorithmic probability discovery.
+887,Checkers game machine learning research in 1959.
+180399,Predicting recurrence times with censored data.
+358894,MML technique for modeling various distributions.
+1154169,Random motion planning in computer science.
+120084,Efficient visual attention computational model.
+1120019,Neural network behavior with excitatory-inhibitory interactions.
+1152711,Efficient SDM memory reading with implicit information.
+1154176,Efficient machine operation duration analysis.
+424540,Nonlinear systems stabilization overview and developments.
+1118546,Hierarchical selection models for meta-analysis.
+643003,Estimating ratios of normalizing constants for densities.
+112099,Matching knowledge structures in large networks.
+1104007,Reducing training examples for PAC learning.
+1120049,Analysis of RNN dimensionality in 1996.
+175256,Adaptive global optimization with local search.
+45605,Learning and evolution in neural networks.
+15889,Guiding adaptation in design support systems.
+35490,Blame-assignment model in physical device design.
+221302,Task-driven knowledge acquisition in design support.
+562123,Comparison of Bayesian and Neural Net.
+1104031,Case-based reasoning with meta-cases in AI.
+1129442,Estimating amino acid frequencies in protein families.
+1129443,Explore innateness and cholinergic suppression in learning.
+1137466,Genetic algorithm for mathematical economics studies.
+328370,Visual attention for autonomous vehicles using NN.
+1103315,Value function approach enhances production scheduling.
+12210,Efficient learning of probabilistic concepts.
+1104055,Dynamic feature selection for effective learning.
+64519,Reduce harmfulness of deductively learned knowledge.
+114,Real-time dynamic programming with acknowledgments.
+1109873,Neural network for object selection and correlation.
+128,Reinforcement learning algorithms for average-payoff MDPs.
+12238,Learning algorithms for unknown environments.
+1112099,Explore directed graphs with limited assumptions.
+18774,Bayesian network learning with low sample complexity.
+18777,Bayesian network learning tutorial in report.
+130,Scaling ARL with model and value approximations.
+23116,Bayesian methods for adaptive models.
+948299,Visualizing high-dimensional structure with neural network.
+6209,Learning transfer in sequential decision tasks.
+197054,Evolving obstacle avoidance behavior in robotics.
+6210,Reinforcement learning with compact state representation.
+6213,Incremental learning for improved prediction accuracy.
+6214,"Integrated architectures for learning, planning, reacting."
+6216,Generalization in Reinforcement Learning with Sparse Coarse Coding.
+6217,Efficient supervised learning with random representations.
+2653,Decision-theoretic resource allocation in online learning.
+2658,Blind signal separation using statistical dependency.
+753047,Error bound for classifier chosen by early stopping.
+188318,Avoids overfitting in neural network training.
+74700,Iterated belief revision with minimal changes.
+67415,Learnability of discrete distributions in abstract.
+6220,Challenges of function approximation in RL.
+2665,Blind separation and deconvolution algorithm using maximization.
+28957,Learning with graphical models for data analysis.
+143323,Empirical approach to utility problem in learning.
+340075,Learning methods for OCR and speech classification.
+1949,Acquiring adaptation knowledge from experience in CBR.
+1953,Introspective reasoning for memory search modeling.
+1955,Multistrategy learning in complex engineering domains.
+1959,Introspective reasoning for effective multistrategy learning.
+390922,Mean field learning for unsupervised neural networks.
+22431,Investigating noise in relational concept learning.
+1113541,Identifying chaotic dynamics using error propagation.
+1132418,Nonparametric method for input variable selection.
+628500,Reinforcement learning for mobile robot navigation.
+648106,Study on visual perception and neural processing.
+1104809,Approximation of smooth L p -functions.
+4804,Efficient exploration of agnostic learning.
+648112,Visual cortex processing and object recognition studies.
+33301,Case-based planning framework with partial-order planner.
+33303,Replay framework enhances planning performance.
+267824,Fast weights for sequence learning.
+1138970,Disk-Covering Method enhances tree reconstruction accuracy.
+13717,Learning heuristics for semantic-grammar acquisition using logic.
+1131719,Dynamic predication for improved speculative architecture performance.
+1120866,Visual attention influences auditory spatial map plasticity.
+1106287,Study on hippocampal maps and spatial functions.
+755217,Active gesture recognition using reinforcement learning.
+647408,Comparison of fitness and implicit sharing.
+1116410,Method-specific knowledge compilation for design support.
+1132459,Advantages of mixture of experts model.
+1105574,Face representation learning using attractor network.
+1133196,Effects of relaxed synchronization on efficiency.
+307336,SVM method for simple decision trees.
+906,Exploring neural network architectures for approximation.
+1131745,Interactive segmentation of 3D medical images.
+1131748,Architecture of Kohonen network model.
+910,Face analysis and synthesis using networks.
+943,Incremental learning in case-based reasoning.
+31927,GHMM model for gene recognition in DNA.
+101261,Optimality and domination in repeated games.
+101263,Efficient algorithms for optimal gameplay learning.
+31932,Accurate gene identification using decision tree.
+779960,Neural networks for PDE simulations.
+1135358,Inductive learning for compact rule sets.
+1154230,Impact of mediating instrumental variables in research.
+1135368,Study on receptive field impact on learning.
+28227,Reinforcement learning for continuous-time Markov decision.
+32688,Hierarchical Mixture of Experts for classification.
+189856,State-space abstraction for efficient probabilistic evaluation.
+27510,Measuring learning problem difficulty with complexity classes.
+27514,Statistical biases in backpropagation learning.
+1154276,Scatter-partitioning RBF network for regression and segmentation.
+27530,Rule extraction from neural networks for understanding.
+1152821,Time complexity of neural network simulations.
+28265,Enhancing learning strategy selection through introspection.
+103430,Nonlinear stability and robust control analysis.
+27543,Rule extraction from neural networks analysis.
+39126,Optimal feature selection using Information Theory.
+28278,Reinforcement learning for planning and control.
+39131,Algorithm Oblivion for case-based learning.
+10169,Learning Boolean concepts with irrelevant features.
+28287,Developing robots through reinforcement learning.
+1129518,Reduce complexity in BN2O networks.
+1272,Learning primitive actions with decision trees.
+194223,Discovering higher order structure in architectures.
+10177,Efficient handling of malicious errors in learning.
+18811,Bayesian model selection criteria for mixtures.
+18812,Bayesian finite mixture models for decision support.
+73327,Introspective reasoning for planning process failures.
+1117942,Reinforcement learning for sequential decision making.
+15984,Markov equivalence in various graph structures.
+202522,Efficient Bayesian model construction with clustering.
+1152858,Evidential Probability concepts explored through examples.
+1152859,Stabilization and input-to-state stability analysis.
+10183,Concept learning and classification in weak-theory domains.
+81350,Reinforcement learning with attention and memory.
+259126,Optimal feature selection without exhaustive search.
+13024,Dynamic memory reference reordering hardware mechanism.
+1120170,Optimal dialogue strategies for spoken agent.
+46452,Efficient pruning for Inductive Logic Programming.
+26850,EEG signals for mental state classification.
+18832,Reinforcement learning survey in computer science.
+18833,Enhancing XCS with internal memory.
+82098,Hill climbing algorithm with learning features.
+103482,Limits of uninformed learning in computational representation.
+158614,Efficient feature identification algorithms in ML.
+46468,Statistical decision tree modeling with efficient algorithm.
+71904,Decoding binary vectors using free energy minimization.
+80656,Perceptual development and learning in computational models.
+29708,Diffusion and credit in Markovian models.
+1128839,Neural networks for industrial applications overview.
+1128846,Neural network system for pipeline inspection.
+12330,Handwritten digit recognition using linear models.
+240321,Nonlinear experts for time series analysis.
+1128853,Drug activity modeling using machine learning.
+219976,Rule-based database integration for engineering design.
+38480,Efficient algorithm for learning dynamic goals.
+12350,Cryptographic limitations on learning Boolean functions.
+1104191,Improving DNA consensus accuracy with fluorescence.
+7022,Transfer in morphology acquisition through phonological generalizations.
+63931,Algorithm combining EBL and logic programming.
+68224,Visual system achieves object recognition invariance.
+1110768,Handling missing or asynchronous data with RNNs.
+384428,Algebraic transformations optimize neural networks efficiently.
+1107041,Case-based reasoning for structural design.
+1114352,Hierarchical Kalman filter for visual recognition.
+1107062,Learning impact on evolution rate: guiding vs hiding.
+288,Memory-based stochastic optimization for hyper-parameter tuning.
+1107067,Greediness improves efficiency without sacrificing accuracy.
+91581,Detecting overlapping distributions with improved estimates.
+39904,Performance validation for neural network simulations.
+6334,Prototype and feature selection in classification algorithms.
+123825,Neural network for unsupervised and supervised learning.
+23258,Efficient autonomous mobile robot exploring unknown environments.
+66805,Genetic Algorithm Culling on Additive Search.
+6346,Instance pruning for better generalization and memory.
+55968,Reinforcement learning for multi-robot systems.
+368431,Greedy heuristic effectiveness in decision tree induction.
+179702,Input to state stabilization for non-linear systems.
+1140547,Localist attractor networks for pattern completion.
+1114388,"Generalization challenges, learner's bias, uninformed learning."
+90888,Incremental learning algorithm GAL adjusts network structure.
+510715,Estimating hidden dependency structure using trees.
+33412,Predicting reading frames in E. coli DNA.
+188471,Adaptive robot navigation using reinforcement learning.
+1152143,Knowledge transfer as part of induction.
+1120962,Neural network learning through knowledge transfer.
+1125258,Training methods for autonomous vehicle neural network.
+648232,Error-based learning for movement control.
+143476,Bayesian approach for finite mixture models.
+1152150,Technical report numbered 947 from 1995.
+1117249,Large margin classification algorithm with efficient implementation.
+25413,Convert thread parallelism to instruction parallelism via SMT.
+1152162,Probabilistic automata with Gibbs distributions and EM.
+241821,Convergence and new operations in SDM.
+350362,Boosting outperforms bagging in regression trees.
+1116530,Hybrid system for imprecise information handling.
+61069,Measuring adaptive progress in co-evolution simulations.
+1110000,Flexible parametric models for robust analysis.
+646809,Investigating multi-parent reproduction in genetic algorithms.
+1105698,Covariate selection in hierarchical hospital models.
+1152194,"Neural networks tutorial for regression, classification."
+198653,Study selection mechanisms in learning systems.
+1116569,Gaussian regression and optimal linear models.
+77758,Algorithm combining Parzen window and vector quantization.
+854434,Predicting object lifetimes for memory efficiency.
+1128151,Efficient codings for evolutionary computation in design.
+1123867,Maximizing coverage in learning algorithms study.
+191404,Optimal policies without state space enumeration.
+1116594,Multilayered network for learning with guaranteed results.
+126793,Inference with MCMC for missing data.
+43639,Efficient sparse representation learning of natural images.
+44368,Evolutionary algorithms study with problem generators.
+97390,Benefits of higher crossover points in genetic algorithms.
+87915,Complexity analysis of conditional logics in AI.
+131117,Efficient sequential task learning with higher-order networks.
+8581,Factorial codes learned through predictability minimization.
+27606,Learning with faulty PAC oracles using statistical queries.
+1115886,Optimizing Q-learning parameters for learning abilities.
+184157,Efficient dynamic-programming updates in POMDPs.
+8594,Instruction parallelism limits in SPEC95 applications.
+1152904,Probabilistic automata framework with Gibbs distributions.
+1120211,Hebbian learning dynamics and synaptic plasticity effects.
+28350,Stochastic iterative dynamic programming convergence proof.
+1152910,Comparison of optimization algorithms in ML.
+27627,Active data selection in Bayesian learning.
+649731,Encoding high-dimensional structure into 2D map.
+308920,Graphical characterization of LCI models.
+289780,Selective learning in genetic algorithm optimization.
+289781,Genetic algorithm for continuous design optimization.
+19621,Identifying jets using neural networks.
+1129608,Reevaluating tree models for sequence alignment.
+1365,Cholinergic suppression enhances memory and organization.
+103543,Efficient sampling from distributions using MCMC.
+28387,Complexity of solving Markov Decision Problems.
+28389,Integrating advice for improved reinforcement learning.
+43698,Improving protein homology detection with Dirichlet mixtures.
+54550,Improving problem solving with analogy techniques.
+1129621,Analysis of neural networks for language learning.
+46536,Multiclass decision trees using linear machines.
+1129629,Evolutionary simulator for adaptive structures.
+294126,Knowledge integration for enhanced performance.
+568857,Evolving self-supporting structures through visual control.
+447224,Compression algorithm for probability transition matrices.
+38537,Bayesian inference using Markov chains.
+1152975,Instance-based learning benefits and optimization.
+34979,Apple tasting model enhances online learning.
+1104261,Utilizes error distribution for effective partitions.
+139865,Neurosimulator for neural systems with distributed execution.
+56709,Innovative solutions for classifier system optimization.
+1128945,Machine learning basics through board game classifier.
+19697,Minimizing weights in simple neural networks.
+107177,Instance ordering based on preference judgments.
+1131165,Dynamic conditional independence models and MCMC methods.
+1128959,Search and evolutionary algorithms for optimization strategies.
+152219,Discovering structure in symbol strings using NN.
+184918,Self-organizing neural network with various applications.
+16008,Graphical models in multivariate statistics: applied approach.
+1122425,Reinforcement learning with imitation in multi-agent systems.
+928873,Hybrid neural network for accurate face recognition.
+206259,Markov decision problem algorithm with asynchronous updates.
+714748,"Causation, action, counterfactuals explored concisely."
+1131189,MCMC sampling for Bayesian computation applications.
+217115,Sample complexity of noise-tolerant learning in PAC.
+560936,Comparison of unsupervised classifiers using simulation.
+1131198,Mutation rate impact on parasite virulence evolution.
+1128985,Evolving visual routines in architecture and planning.
+466170,Deriving monotonic function envelopes from data.
+429805,Memory-Based Learning for PP Attachment Ambiguities.
+561674,Hierarchical Bayesian models for neural transmission.
+654177,Efficient NLP module development with memory-based learning.
+95225,Identifying read-once formulas over generalized bases.
+37884,Time series model with decision tree.
+37888,Stochastic simulation algorithms for dynamic networks.
+1128997,Simulated Annealing for energy minimization.
+545647,Error-prone small disjuncts and rare cases.
+42207,Minimize errors through query optimization efficiently.
+42209,Efficient learning of rectangle unions.
+82920,Evolution strategies survey.
+128202,Learning algorithm for rule-based concept representations.
+128203,Learning hierarchical rule sets with weighted set cover.
+1134056,Carbon dynamics in northern forest using SAR.
+1102873,Study orthography to semantics mapping using attractor network.
+42221,Geometric concepts and polynomial predictability research.
+1107171,Efficient learning in mixed reasoning architecture.
+1133338,Genetic algorithm enhances vector quantizer design.
+67633,Efficient case-based planning with parallel support.
+375825,Characterization and computation of nonparametric maximum likelihood.
+48781,Efficient load balancing for rectangular grid.
+75674,Balancing exploration and exploitation in control.
+289088,Analytic functions in least-squares problems with sigmoidal nets.
+1152244,Generic models in conceptual change in science.
+13917,Neural networks for adaptive control tasks.
+75695,Optimizing unsupervised clustering algorithm with binary.
+34257,ASOCS model for parallel processing and robotics.
+1117348,Mixed memory Markov models for analysis.
+574710,Robot learning with parallel genetic algorithms.
+34263,Efficient dynamic neural network implementation using LITs.
+1128204,Parallel genetic algorithm for flowshop scheduling.
+34266,VLSI implementation of PASOCS learning model.
+1128208,Genetic algorithm for dynamic manufacturing scheduling.
+1116629,Adaptive pruning enhances neural network generalization.
+110162,Improving adaptability in case-based problem-solving.
+110163,Integrating knowledge sources for improved reasoning.
+110164,Case-based CBR systems and their effectiveness.
+628751,Nested networks for robot control.
+708945,Efficiently discriminates between massive datasets.
+1123926,High-accuracy text-to-speech through machine learning.
+1152277,Minimize misclassified points using linear programming.
+77826,Merge strategies for improved planning performance.
+77829,Mixed-initiative planning with rationale reuse.
+8617,Neural network generalization through competitive learning.
+242663,Deriving causal structural models from data efficiently.
+8619,Refining neural network topologies using anytime approach.
+628764,Neural network approximation with local and global basis.
+628766,Incremental training for feedforward networks with orthogonal basis.
+1125393,Automated model selection in meta-learning.
+66986,Continuous attractors for object recognition in networks.
+646913,Adaptive EA excels in graph coloring.
+578309,Neural algorithms for Independent Component Analysis.
+18251,Place knowledge acquisition through case-based learning.
+1152290,Unsupervised constructive learning with theoretical motivation.
+954315,Assisting designers in database predicate transformation.
+212107,Framework for uncertain reasoning with multiple sources.
+578337,Signal separation using nonlinear Hebbian learning.
+907845,Sparse neural networks for large problems.
+1127530,Bayesian method for graphical model selection.
+1128267,Temporal Difference Learning: Metrics and Optimal Policies
+28412,Locally weighted learning in autonomous control systems.
+594387,Evolving compact solutions in Genetic Programming.
+1127541,Drug design using mixture models.
+44455,Study on visually guided robot evolution.
+45188,Cross validation error analysis with rates.
+45189,Model selection methods for supervised learning.
+62607,Generalization techniques using T-implication for ML.
+1127551,Recurrence relationships for order statistics distributions.
+1123991,Bayesian probability theory for machine learning.
+1127558,Bayesian models for non-linear autoregressions.
+105057,Improving multiclass classification with ECOCs.
+1128291,Comparison of random search and genetic programming.
+1127566,Hierarchical priors and mixture models.
+1154459,Tutorial on genetic algorithms by Darrell Whitley.
+218682,Relevance assessment through similarity evaluation.
+28447,Self-improving control system for robotic navigation.
+1153736,On-site learning model with query filtering.
+62634,Study on program response and introns.
+211432,Holte's study on decision tree learning.
+112378,Grapheme-to-phoneme conversion system evaluation.
+1113035,Entropy optimization using EMMA for MRI.
+1118848,Sparse representation with local correlation kernels.
+137790,Study on learning optimal search strategies.
+217984,Analyzing phase transitions in high-dimensional SOMs.
+949217,Comparison of neural and statistical classifiers.
+28473,Adaptive load balancing in multi-agent systems.
+1104300,Efficient stochastic source coding algorithm for Bayesian network.
+1105033,Learning program exploits opponent weaknesses strategically in games.
+11093,Learning causal structure using EM algorithm.
+696342,Blind separation with multi-layer neural networks.
+696343,Orthogonal source separation algorithms with noise analysis.
+696346,Blind separation algorithms for natural images.
+28487,Efficient learning methods for Markovian decision processes.
+5038,Online learning algorithms combining multiple expert predictions.
+195150,Naive Bayesian classifier improves ILP-R performance.
+62676,Enhancing dynamic simulation with linear programming.
+13213,Self-improvement and multi-agent learning method.
+576973,Social behavior enhances genetic algorithm optimization.
+35797,Neural network benchmark problems for evaluation.
+134128,NeuroChess program learns chess through neural networks.
+166825,Efficient integration of CBR and neural networks.
+175576,PAC learning 1D geometric patterns for recognition.
+509379,Model selection using measure functions.
+1113084,Emergence of articulated attractors in networks.
+53942,Survey on simplifying decision trees for classification.
+642621,Monitor Markov chain samplers using cusum.
+1131236,Bounds on Gibbs sampler convergence time.
+1112369,Model disrupts symmetry in orientation map.
+446610,Modeling interacting processes using Coupled HMMs.
+644093,Biases in MCMC convergence diagnostics summary.
+411092,Learn exceptions in chess strategies quickly.
+642641,Bayesian analysis simplifies agricultural experiment interpretation.
+408885,Belief network algorithms for medical care.
+1131258,Discretization method for MCMC convergence.
+1131267,Parallel MCMC sampling for high-dimensional densities.
+13269,Efficient probabilistic reasoning for diagnostic inference.
+1104379,Self-optimizing RBF network with evolutionary strategy.
+1114502,Hybrid methodology integrating genetic algorithms and decision trees.
+1107215,Human-computer system for crisis response analysis.
+83725,Deriving explanations for reactive plans.
+84459,Enhancing robot communication through concept learning.
+642681,Convergence diagnostic techniques for MCMC algorithms.
+445938,Efficient representation learning using compositional modeling.
+1103676,Time series recognition methodology with applications.
+1130568,Visual tracking with neural network controller.
+1153003,Diverse machine learning techniques approach.
+51045,Predictive causal modeling using regression efficiently.
+12576,Learning decision rules for sequential tasks.
+144330,Prior concepts enhance inductive learning algorithms.
+105865,Neural network architecture selection statistical framework.
+51052,Distinguishing causal influences from spurious covariations.
+746058,All-to-all broadcast performance analysis on CNS-1.
+1153014,Integrating categorical and uncertain knowledge in decision-making.
+641976,Error estimation methods for neural network models.
+561789,Neurological response amplitude fluctuations Bayesian inference.
+1130586,Predictive neural controllers for robot manipulation.
+368605,Adaptive discriminant network with generalization results.
+1133428,Maximum likelihood source separation using EM algorithm.
+1113828,Diagnosing anomalies with robust classifier and approximation.
+129042,Genetic algorithm enhances case adaptability in CBR.
+129045,Synergy between constraint satisfaction and reasoning.
+6539,Quantifying bias impact on learning.
+1153031,Learning parameter values with prior knowledge.
+1122580,Virtual scenes impact machine learning generalization.
+1132706,Music structure recognition using exemplar-based approach.
+1152308,Automated approach enhances conversational case libraries.
+105899,Mixture model system for medical diagnosis.
+50354,Spurious local minima in neural networks.
+1121867,Majority vote classifiers theory and applications.
+1113852,Learning accurate representational system with unknown query.
+1153056,Technical report on Multigrid Q-Learning.
+94641,Compression pressure leads to elegant solutions.
+1153065,Interpreting genetic algorithm results with case-based reasoning.
+1133469,XCS evolves optimal boolean function representations autonomously.
+35070,Improves accuracy by learning rules simultaneously.
+576257,Genetic programming optimizes neural nets efficiently.
+368657,Facial expression perception in neural networks.
+1129018,Automatic generation of structured models using genetic programming.
+263069,Hyperplane ranking in genetic algorithms during search.
+1129027,"Genetic programming methodology, parallelization, applications."
+1152358,Genetic algorithm operators comparison: crossover vs. mutation.
+1125467,Bayesian network classifier for mixed attributes.
+1125469,Complex stochastic systems represented using structured language.
+72101,Limitations of Recurrent Cascade Correlation network.
+40922,Weighting method for case indexing.
+1153097,Global stabilization of linear systems with constraints.
+1109439,Seismic signal classification using neural networks.
+423463,Model selection using GLIB in epidemiology.
+128383,Dynamic user scheduling preferences acquisition using CBR.
+683360,Qualitative probability varieties explored in concise paper.
+1129040,Behavior hierarchy in autonomous robots using fuzzy logic.
+52515,Unsupervised learning using two-layer networks.
+41666,Theoretical limits vs real-world performance in ML.
+1128319,Modeling distributed search using social insects.
+1152379,Annealed theories of learning boolean functions.
+1136342,Evolution of memory and mental models.
+1125492,Efficient sonar tracking with genetic algorithms.
+1108728,Constructive induction learning agent for adaptive systems.
+265203,Classifier systems package for user environments.
+628888,Reduce complexity of self-organising maps with neuron clusters.
+1127619,Data-driven and model-based relational learning.
+56112,Noise impact on tactical plan learning.
+56115,Optimizing tactical plans with genetic algorithms.
+56119,Genetic algorithm learns collision avoidance strategies.
+89547,Learning curves theory based on statistical mechanics.
+51831,Efficient learning of context-free languages with NNPDA.
+91038,Stochastic feedforward networks for classification tasks.
+96847,Genetic Programming analysis for Pac-Man.
+521855,Causal reasoning using directed acyclic graphs.
+594483,Genetic programming for intelligent control.
+1119623,Review of interval censored survival data estimation.
+96851,Balancing accuracy and simplicity in genetic programming.
+1136397,Predictability in nonlinear acoustical systems through reconstruction.
+158172,Efficient hindsight algorithm for dynamic networks.
+1127657,Balancing optimism and pessimism in learning.
+131315,Hierarchical recurrent neural networks for dependencies.
+131318,Algorithm for simple neural networks with generalization.
+289945,Neural network models for system control.
+62718,Enhancing reactive plans through rule generation.
+229635,Evolutionary neural networks enhance constraint problem solving.
+56167,Improving conversational CBR performance with refined cases.
+1119654,Model movement learning and speed-accuracy tradeoff.
+51879,Refining rule-bases with symbolic and connectionist learning.
+10435,Combining rule-based and case-based reasoning.
+137873,Density estimation with stacked neural networks.
+168332,Comparison of Q-learning and Classifier Systems.
+330208,Balances coding and sparse representations.
+689152,Shattering sets of points with parameters.
+1120444,Evaluation methodology for complex AI systems.
+1153877,Abstract knowledge for flexible case-based reasoning.
+111770,Efficient estimation for interval-censored Cox model.
+1153879,Analyzing advice-taking using stories in models.
+108047,Team dynamics and performance enhancement strategies.
+1131300,Reparameterisation impact on MCMC for mixtures.
+362926,Common LISP WWW server for hypermedia access.
+129896,Model uncertainty improves survival analysis predictions.
+129897,Bootstrap method for model averaging and selection.
+59045,Predictive games and algorithms for error reduction.
+1153889,Analogical problem solving and imitation.
+239810,Supporting dialogue inferencing in conversational CBR.
+20601,Learning conjunctions of Horn clauses efficiently.
+20602,Efficiently identifying read-once formulas using queries.
+416964,Hierarchical structures for effective network training.
+38722,Learning algorithm for variable memory length.
+72908,Explore data regularities and applications.
+116081,Estimating attribute quality using RELIEFF.
+1153897,Genetic Programming for chaotic time series.
+116084,Improving ILP algorithms using RELIEFF heuristic.
+116087,Discretization of continuous attributes using ReliefF.
+1113182,TD learning and game-tree search combination.
+1131330,Metropolis-Hastings algorithm with sequential density estimator.
+582139,Face recognition with pose invariance using ICA.
+561809,Bayesian regression and curve fitting approach.
+14062,Genetic algorithms analysis with population and crossover.
+1104449,MDN for discriminant analysis in education.
+39474,Comparison of simulated annealing and greedy.
+27895,Automated reasoning technology for customer service.
+167670,Comparison of discretization methods for features.
+1131345,System with consistent input/output behavior.
+1131348,Stability analysis of linear control systems.
+14083,Data reconciliation and error detection methods.
+1103737,Hierarchical classifications improve accuracy in classifiers.
+65650,Efficient prediction with unpruned decision trees.
+93273,Efficient parallel algorithms for learning geometric concepts.
+65653,New criteria for pessimistic decision tree pruning.
+5194,Neural network weights identification from measurements.
+14090,Adaptive integration method for dominant peaks.
+1131360,Evolutionary algorithms for solving combinatorial problems efficiently.
+1130634,Protein secondary structure prediction using networks.
+976284,Sanity-check bounds for cross-validation error.
+1130637,Observing behavior in simulated world.
+593022,Distributed GP system for problem-solving in C++.
+1131374,Study multi-parent recombination in evolution strategies.
+975567,Study on adaptive behavior in co-evolving species.
+133550,Observability in nonlinear systems for neural networks.
+145134,Algorithms for computing second derivatives in NN.
+1130653,Analogical processing in functional program synthesis.
+1130657,Reminding or heuristic switching in examples.
+1104495,Prototype styles for accurate generalization in learning.
+133566,Study on system-theoretic aspects in neural networks.
+133567,Controllability analysis in recurrent neural networks.
+1122642,Location-independent transformation for dynamic topologies.
+1114629,Spurious solutions in reinforcement learning Bellman.
+91852,Learning structural indices for case-based design.
+91853,Analogical reasoning and learning in design.
+376704,Movement representation using unsupervised learning system.
+1153101,Improved predictive accuracy and rule simplicity.
+32276,Support data extraction for SVM classification tasks.
+1130678,Brain function and spatial orientation representation.
+83847,Head-direction cell dynamics for spatial orientation.
+8079,Bias-variance decomposition in classification learning.
+593068,Evolving sorting networks using genetic programming.
+285675,Fast algorithm for parsimonious solutions in linear systems.
+1130680,Learning face representations from visual associations.
+1106630,Neural networks for interpretable data mining.
+278394,Statistical theory on overtraining and cross-validation.
+285687,Math programming for data mining tasks.
+69284,Genetic algorithms fundamentals and optimization techniques.
+6639,Stochastic search method for inductive learning.
+14807,Exponential growth of local minima in models.
+152483,Study on neighborhood impact on selection algorithms.
+683404,Resolving tradeoffs in probabilistic networks efficiently.
+593091,Survey of parallel genetic algorithms report.
+1117501,Study on rectified Gaussian distribution modeling.
+99023,Fast ICA algorithm in Neural Computation.
+99025,Efficient coding and coincidence detection in neurons.
+513189,Enhanced selection methods in genetic algorithms.
+1152421,Genetic algorithm tutorial by Darrell Whitley.
+1153150,Data-driven constructive induction enhances learning analysis.
+99030,Nonlinear PCA learning rule for signal separation.
+1105932,Adaptation of Relief for attribute estimation.
+1153160,Logic Programming and Machine Learning fusion.
+1106671,Bayesian approach for complex neural network tasks.
+531348,Efficient algorithm learns Bayesian belief networks.
+577086,Job Shop Scheduling Problem solution space analysis.
+531351,Efficient algorithm constructs Bayesian belief networks.
+25702,SVM excels in time series prediction.
+87482,Neural network implementation using multi-chip modules.
+135765,Specializing recursive predicates to exclude negatives effectively.
+135766,Specialization of logic programs with pruning.
+1132864,Enhancing inference in cognitive maps.
+22886,Continuous case-based reasoning for robotic navigation.
+1118286,GMU machine learning programs analysis.
+162664,Algorithm integrates CI tests for Bayesian network.
+1109542,Adaptive model selection using covariance inflation.
+1116835,Improved RBF positioning through supervised learning.
+1116839,Analogical problem solving in production system.
+1103016,Efficient parameter estimation in error-in-variable problems.
+1128425,Innovative 3D object recognition with temporal context.
+1116842,Pruning AdaBoost for performance and memory.
+1136446,Visual cortex plasticity and dynamic modeling studies.
+1136447,Study effects of drugs on brain plasticity.
+27199,Learning algorithms for identifying concepts using boxes.
+1125597,Pruning neural networks with optimization methods.
+1132887,Belief propagation for optimal convergence in networks.
+593813,Power network maintenance schedules optimized using Genetic Programming.
+594543,Constraining search space in genetic programming.
+917493,Observability conditions for systems with saturated outputs.
+1128430,Data analysis for logical conclusions efficiently.
+51909,Automated refinement of Horn-clause theories.
+1108834,Predicting Tokyo stock market with adaptive techniques.
+1128437,Improving sequence categorization accuracy with FGEN method.
+989397,PAC learning intersections of halfspaces.
+97645,Genetic algorithms for Assembly Line Balancing.
+8832,CBR methods for crisis prevention with AI.
+1103031,Handling higher order uncertainty with confidence.
+346243,Impact of inductive bias on CBR learning.
+1119708,Evolutionary computation landscape with new challenges.
+36620,Memory-based vs Bayesian classifier algorithms performance.
+25772,Customized metric for KNN classification with local relevance.
+640617,Seismic data imaging hybrid genetic algorithms.
+8865,Immune system model with genetic algorithms.
+950986,Accurate function representation with locally linear network.
+35905,Equivalence of linear Boltzmann chains.
+8875,Learning sequential decision rules in robotics.
+25791,Efficient bias adaptation algorithm in learning systems.
+100961,Adaptive pruning method enhances neural network generalization.
+738941,Efficient object-oriented simulator for structured nets.
+64271,Generic teleological mechanisms for case adaptation in design.
+3084,Comparing utility issues in different learning methods.
+3085,Similarity-based retrieval in psychological data analysis.
+28649,Online learning of linear functions with bounds.
+3095,Constructive similarity assessment for case-based reasoning.
+3097,Memory search strategy learning for adaptation.
+1153943,Impact of recombination operator on search performance.
+1121254,Approximating probability distributions using structured approximations.
+74427,ASOCS model for parallel rule processing.
+231249,Dynamic hill climbing algorithm outperforms genetic.
+1105221,Adaptive testing of autonomous vehicle controllers.
+28674,Improving search-based problem solvers through speedup.
+1129907,Efficient non-parametric density estimation with weights.
+650807,Evolutionary pre-adaptation across organizational levels.
+348437,Learning first-order Horn programs from entailment.
+1688,Heuristics for NP-Complete problems using NNs and GAs.
+33013,Learning coordinated strategies in multiagent domains.
+38829,Analogical reasoning mechanisms learned from experiences.
+307015,Optimal mutation rates in genetic search.
+127033,Learning robot behaviors using genetic algorithms.
+310742,Bayesian approach for uncertain student knowledge.
+1694,Comparison of NNSAT and GSAT for SAT.
+650834,Comparison of Artificial Life Neural Networks.
+1131420,Neural architectures for 3-D object recognition.
+193918,Training algorithms for FIR synapse MLP.
+85324,Optimal learning samples and hidden units estimation.
+642827,Bayesian model determination in graphical models.
+38845,Opportunistic reasoning in design with memory.
+193931,Optimal generalization of neural networks.
+193932,Neural network training challenges and optimization.
+4553,Classification rules learned using lattices.
+1116146,Efficient case retrieval using Fish and Shrink.
+85352,Evolutionary genetic algorithm for 2-D optimization.
+261040,Diverse tasks and representations in CBL research.
+145215,Memory-based approach for lexical acquisition.
+646412,Optimizes function using stepwise estimators.
+1131464,Competitive learning methods with planned enhancements.
+1131466,Estimation of missing data using complexity.
+574264,Evolutionary algorithms for scheduling and optimization problems.
+458439,PFSA modeling with Evolutionary Programming.
+57764,Inductive learning with minimal complexity representations.
+646440,Reversible jump sampler for autoregressive time series.
+1111899,Case-based planning methodology for effective learning.
+521252,Unification of ordinal and cardinal similarity measures.
+1115471,Discovering compressive partial determinations in mixed domains.
+1123493,Assessment of PFSA models using Evolutionary Programming.
+601462,Global coordination in cellular automata evolution.
+421481,Bootstrap theorem for Z estimators applications.
+385572,Accurate recurrence time prediction in medicine.
+30934,Query by Committee algorithm for selective sampling.
+84695,Nonlinear PCA with integral operator kernel functions.
+189566,Knowledge-based construction of probabilistic and decision models.
+69397,Dynamic algorithm selection based on example space.
+6741,Learning through questioning and memory utilization.
+177998,Study adaptive behaviors in complex environments.
+395725,Exploring distributed representations and compositional structures.
+61417,Efficient subsumption algorithm for ILP.
+54129,Introduction to Strongly Typed Genetic Programming.
+1118347,Computational limitations of RCC network.
+1106764,Efficient subsumption algorithms in logic implication.
+102406,Algorithm learns sparse perceptrons effectively.
+75972,Improving inductive learning algorithms with RELIEFF.
+95579,Hierarchical RL with MAXQ decomposition.
+54132,Genetic Programming for optimizing search efficiency.
+27243,"Comparison of voting classification algorithms: Bagging, Boosting."
+1153262,Evolution of rationality towards intelligent AI.
+1153264,Evaluate RISE 1.0 Learning System by Pedro Domingos.
+30973,Analogical similarity estimation using Holographic Representations.
+1129208,Learning compact models from random samples.
+1106771,AA1 convergence and generalization analysis.
+27249,Analyzing bias and variance in decision trees.
+95586,Impact of macro-actions on reinforcement learning.
+95588,Hierarchical RL for efficient problem-solving.
+255233,Improving case retrieval in planning through explanation.
+6775,Statistical evaluation of neural network experiments.
+129287,Training large neural networks for phoneme probability.
+27250,Bayesian explanation for bagging's success.
+19231,Algorithm enhances learning efficiency through committee selection.
+1153275,Comparison of encoding approaches for inference.
+1132948,"Sparse, independent representations of visual scenes."
+1106789,Model selection techniques for consumer loans.
+95597,Learning and planning with hierarchical options.
+6784,Neural network learning algorithm research practices.
+682815,Importance of developmental mechanisms in genetic algorithms.
+1153280,Tutorial on Genetic Algorithms by Darrell Whitley.
+148170,Genetic programming challenges in optimal monitoring.
+263279,Efficient decision rule acquisition from noisy data.
+1116922,"Comparison of ILP, GP, and GLP."
+1152564,Efficient retrieval and adaptation in case-based reasoning.
+1118388,Structural similarity assessment and adaptation in design.
+851968,Efficient natural gradient descent for NNs.
+3101,Hybrid approach for case adaptation knowledge acquisition.
+1129243,Improving learning in dynamic multi-robot systems.
+170798,Learning problem-solving concepts through reflection.
+3112,Interface design for mixed-initiative planning.
+503877,Comparison of optimization algorithms in evolution.
+17821,Game theory for control law on moving horizon.
+503883,Genetic algorithms with multi-parent recombination optimization.
+561238,Enhancing genetic algorithms with reintroduced genetics.
+1110438,Probabilistic classifiers on different feature sets.
+575795,Global learning through evaluation space adaptation.
+1116974,Distributed platform for flexible learning and generalization.
+272720,New metric-based model selection outperforms traditional techniques.
+415693,Evolving rule sets using genetic algorithms.
+18582,Enhancing genetic learning with knowledge-based operators.
+11325,Improved classification accuracy through multiple concept descriptions.
+11326,Revisiting decision tree optimization in research.
+1103162,Multi-agent cooperation in reinforcement learning.
+1111186,Method enhances DMP network performance.
+578645,Automating specification refinement through genetic programming.
+578646,Genetic programming for program evolution.
+578649,Improving search efficiency with collective adaptation.
+1121313,CBR integration with CSP for product design.
+11335,Concept learning challenges with small data.
+1102442,Assessment of machine learning algorithm performance.
+11339,Occam's Razor in Decision Tree Induction.
+52784,Comparison of Bagging and Boosting methods.
+11342,Comparison of pruning and averaging methods.
+1130080,Cortical network activity in behaving monkeys.
+3191,Model selection and uncertainty in regression.
+3192,Bayesian Graphical Models for Discrete Data.
+400455,Facial emotion recognition with categorical perception.
+1135899,Improving blind source separation with adaptive filters.
+591017,Adapting MDL principle for comprehensible models.
+751408,Blind separation of delayed and convolved sources.
+1140230,Blind separation algorithm simplification with Fisher matrix.
+1140231,Efficient training of multi-layer perceptrons.
+1106052,Lazy approach using evidence grids for recognition.
+70970,Evolution of non-deterministic incremental algorithms for search.
+67245,Visual perception and learning simulation.
+67246,Neural network VISOR system for scene analysis.
+205196,Training binary-weight neural networks using constructive methods.
+135130,Genetic algorithm for autonomous vehicle behaviors.
+123556,Backpropagation superiority over perceptron learning rule.
+645084,Modeling disease risk with Bayesian framework.
+1786,Classifier learning benchmark in technical report.
+66556,Critique of Schema Theorem and GA evaluation.
+1130808,Simulated EEG analysis with three-shell head model.
+4649,Accurate relational learning with knowledge-intensive methods.
+582343,Improving document filtering performance collaboratively.
+395075,Evolving collaborative species for parallel evolution.
+582349,Algorithm lllama for DNA structure classification.
+20833,Speeding up rule induction with partitioning.
+1131549,Evolution of modularity through genetic duplications.
+58552,Efficient neural network pattern recognition theory.
+85449,Enhancing neural networks with constructive induction.
+49811,Accuracy estimators for learned concepts using synthetic data.
+77438,Bayesian Automated Taxi for autonomous highway driving.
+4660,Context-sensitive algorithms enhance text categorization performance.
+66594,Automatic parameter selection for optimal performance.
+66596,AI analysis and knowledge extraction from events.
+314459,Feedback loops with saturation in input-output systems.
+1116268,Boosting algorithms improve classifier accuracy with generalizers.
+1103960,Object localization methods in surgery summary: Accuracy with minimal measurements.
+49843,Robust ILP system using statistical correlation.
+1103969,Models of judgment under uncertainty and limitations.
+593240,Interactive Genetic Programming for Image Enhancement.
+207395,Functional theory for creative reading in NLU.
+593248,Speeding up Genetic Programming through Parallel.
+943087,Vector quantizer performance with small training sets.
+7532,Finite-gain stabilization of systems with saturation.
+7537,Global stabilization of linear discrete-time systems.
+25181,Bilinear program for point set separation.
+25184,Feature selection using mathematical programming for ML.
+16437,Learning DCF Grammars with NNPDA capabilities.
+1103985,Hardware-based genetic algorithm with speed advantages.
+6814,Efficient time series modeling with Factorial HMMs.
+6818,Refined mean field theory for networks.
+1154042,Bayesian estimation methods for learning tasks.
+23738,Learning classification rules using Bayesian statistics.
+1107558,Guide for optimal compression using software.
+137359,Constructive induction experiments in AQ17-DCI data.
+16451,Learning SRIN structure with modified RNNs.
+318071,Methodology for decision-modeling integration analysis.
+232860,Modeling human consciousness and cognitive processing.
+1107572,Selecting relevant examples from random sources.
+49895,Inductive Logic Programming evolution from psychology.
+16474,Rule revision in RNN for sequence recognition.
+1154076,Survey on multi-parent recombination operators in EA.
+626999,Improve performance using structural information.
+137380,Learning method combines M-of-N and DNF rules.
+1119178,Correcting bias in conversational case scoring algorithm.
+33904,Baseline for evaluating genetic algorithms.
+1119180,Enhancing learning through concept sharing.
+33907,Genetic algorithm for set partitioning with DOE.
+174418,Enhancing SVM accuracy and speed innovatively.
+70281,Extracts understandable representations from neural networks efficiently.
+73119,Inconsistency in Dempster-Shafer theory and solution.
+9716,Explanation-Based Macro-operator Learning in problem-solving.
+174425,Incorporating invariances in support vector machines.
+416455,Learning robotic behaviors with genetic algorithms.
+18615,Learning set-valued features for decision algorithms.
+127940,Efficient training of feedforward simple recurrent networks.
+1152663,Generalization algorithms enhance robot learning in noise.
+675649,Modeling volatility dynamics using state space.
+1117760,Chess program using TD() and minimax.
+1138091,Analogical reasoning in automated theorem proving.
+1152673,Minimize misclassified points using penalty methods.
+321004,Generic ecosystem model with evolving agents.
+139547,Weight updates for faster neural network learning.
+45533,ASOCS model for parallel processing with priority rules.
+3217,Agnostic PAC-learning algorithm for small decision trees.
+1111240,Neural network performance distribution affects interpretation.
+523574,Qualitative framework for probabilistic inference.
+1110515,Environmental impact on simple organism behaviors.
+73162,Causal inference using graphical models in research.
+52835,Analyzing biases in estimating multi-valued attributes.
+3220,Nearest neighbor algorithm for symbolic features.
+3223,Continuous feature discretization improves machine learning.
+1129367,Genetic algorithms evolve cellular automata computations.
+1129368,Emergent computation mechanisms in cellular automata.
+1129369,Genetic algorithm dynamics and fitness distributions.
+84021,Genetic algorithms for supervised concept learning.
+1127913,Design exploration system reference manual and guide.
+3233,Accuracy estimation and model selection techniques.
+3235,Hybrid NBTree algorithm enhances classification accuracy.
+3236,C++ machine learning library for experts.
+562067,Nonparametric hierarchical models with Dirichlet process.
+3240,Bayesian Classifier Analysis in Machine Learning.
+92065,Iterative weight decay parameter estimation for NN.
+213246,Algorithm for growing multi-layer networks.
+911198,Gradient factors enhance neural network learning.
+12158,Learning DNF with incomplete oracle and faults.
+20178,Physical principles discovered through design experiences.
+20179,Mental models guide index learning in design.
+80491,Linear controller design for system stabilization.
+561364,Bayesian model comparison using MCMC methods.
+20180,Learning indices for schema selection.
+245955,Receding horizon control for robust performance.
+1102548,Instance-based learning system using lattice theory.
+1817,Hybrid learning approach with genetic algorithms.
+31043,Logic and connectionist learning for classification.
+1102550,Enhancing neuro-evolution through culling and teaching.
+20193,Analogical processing and machine learning study.
+1110579,Modeling invention using analogy for understanding.
+213279,Handling variations in online character recognition.
+1133010,Comparison of Boltzmann machines and Gibbs sampling.
+157761,Learning complex functions efficiently with algorithms.
+31055,Extracts understandable concept representations from neural networks.
+12194,Modeling learning from teachers with gaps.
+1133028,Estimating bagging's generalization error using decomposition.
+578780,Automatic discovery of building blocks in genetic programming.
+12198,Efficient identification of read-once formulas.
+12199,Learning k-term DNF formulas with queries.
+90655,Dynamic topology in neural networks with LITs.
+6130,Local error bars in nonlinear regression.
+337766,Refining indexing for CBR systems.
+112787,Efficient case retrieval based on structure.
+1133047,Fuzzy rule learning from noisy examples.
+1105428,Theory refinement for knowledge-base maintenance.
+785678,Immune system concept for computer protection.
+644441,Assessing MCMC convergence using CLT methodology.
+672064,TD learning for time series prediction.
+41216,Efficient sensory input representation using neural network.
+1105433,Bayesian priors for infinite network inference.
+1113459,Reinforcement learning achieves near-optimal performance efficiently.
+55770,Advocating for pure case-based reasoning.
+6163,Value function generalization in reinforcement learning.
+259701,Genetic algorithms for scheduling and combinatorial tasks.
+259702,Evaluation of evolutionary algorithms with diverse tests.
+1131607,Improving source separation with temporal structure.
+430329,Adaptive neural network parser for time-dependent inputs.
+643734,Data-defined problems in multiversion neural-net systems.
+643735,Enhancing neural network generalization through methodologies.
+656048,Adapting control knowledge in expertise models.
+1131611,State merging algorithm for DFA learning.
+617575,Cortical activity transitions between stable states.
+1105450,Efficient bottom-up decision tree pruning algorithm.
+15076,SVM for classification with large datasets.
+10793,Learning algorithm Dfl enhances performance with copies.
+1117049,Validation challenges in evolutionary ecology models.
+647315,Adaptive crossover control in evolutionary algorithms.
+33231,Modeling dependencies with probabilistic independence networks.
+1116328,Perceptron learning analysis with VC entropy.
+1104749,Non-reactive mobot behavior through primitive learning.
+594025,Evolutionary method for artificial ant problem.
+315266,Improving speech recognition accuracy using DBNs.
+643777,Evaluation of expert networks for problem solving.
+1130927,Parametric regression for input-output mapping.
+1132385,Robust model selection with error bounds.
+1108329,Optimizing with changing criteria using CBR.
+1130929,Optimal regularization parameter estimation techniques.
+1104769,Local learning guide with recursive covering approach.
+594047,Hybrid approach for evolving robot controllers.
+1130931,Statistical learning and regularization for regression.
+1130934,Estimation and selection in time-series modeling.
+141868,Lazy learning challenges traditional abstraction methods.
+593329,Analog circuit source identification using genetic programming.
+144701,"Evolution of learning, planning, and memory."
+574462,Genetic Algorithm programming environments with case studies.
+60170,Neural network pruning with adaptive strength.
+120039,Performance comparison of two classification algorithms.
+502574,Theory refinement in intelligent tutoring systems.
+293974,Inference for complex stochastic processes.
+1119216,Induction capacity in NARS for uncertainty.
+1108363,Enhanced problem solving through combined reasoning.
+191216,Ridge regression for non-linear regression analysis.
+469504,Develops orientation selectivity and ocular dominance.
+358866,Bayesian estimation excels for von Mises distribution.
+1116397,Design creativity explored through analogy.
+191222,SVM and RKHS overview for classification.
+36145,Genetic algorithms for accurate network ensemble.
+1115677,"Comparison of regression, symbolic induction, neural networks."
+577331,Enhancing genetic algorithm performance on NK-landscapes.
+31863,Unsupervised learning with MML for data grouping.
+566488,Physical and design knowledge in innovation.
+358887,Estimating parameters in Gaussian model using MML.
+6935,Re-appraisal and implementation of inverse entailment.
+6939,Customized first-order learning for efficient relations.
+197783,Boosting neural networks for character recognition.
+34708,Constructive induction challenge in gene finding.
+1107674,Evolutionary algorithms in robotics optimization and design.
+248119,Learning algorithms for high-dimensional boxes.
+318187,Advantages of Foidl ILP system summarized.
+1152714,Controllability properties of recurrent neural networks.
+1154173,Optimizations and scoring impact on results.
+300071,Improved action recognition with Coupled HMMs.
+1120020,Undiscounted delayed rewards for reinforcement learning.
+423816,Minimize interprocessor communication through grid optimization.
+1106966,TD() for job-shop scheduling with approximation.
+148341,Genetic algorithms convergence mechanisms with interactions.
+136766,Learning search-control knowledge for efficient problem-solving.
+325497,RL enhances foveal visual attention for recognition.
+136767,Efficient planning through non-recursive Horn definitions.
+136768,Efficient goal decomposition rule acquisition.
+409255,Global stabilization of linear systems with control.
+1152740,Preventing local learning in environmental settings.
+1117833,Automatic storage and indexing for plan failures.
+309476,Learning probabilistic transducers with online algorithm.
+1120059,Plasticity-based competitive learning for feature extraction.
+80515,Computation of L2 norm with saturation.
+65212,Bayesian training of neural networks.
+15892,Automatic tool for reusing architectural layouts.
+1120084,Neural network enhances medical prognostic prediction.
+576691,Mutation rates self-adaptation in Genetic Algorithms.
+148399,Interactive teaching model for learning concepts.
+175291,Create accurate neural-network ensemble effectively.
+1112071,Context-driven non-monotonic reasoning in default logic.
+117,Optimal decision-making algorithms in Markov environments.
+157805,Tree-structured bias for effective machine learning.
+300806,Training Boltzmann trees effectively for tasks.
+31105,Improving technician dispatching with machine learning.
+154982,"Study bias, variance, and prediction error."
+141160,Linear systems with sign-observations in signal processing.
+112813,Chemical process design support through retrieval.
+98693,Genetic programming crossover operator effectiveness analysis.
+98698,Adaptive concept learner using genetic algorithms.
+192734,Preventing overfitting in hypothesis selection.
+12247,Learning with incomplete information using queries.
+1109891,Hybrid systems theory combining automata and linear systems.
+141171,Characterizing stability and variations in system inputs.
+312409,Successive Linear Programming for DAE initialization.
+608190,Outperforming traditional techniques in strategy discovery.
+608191,Incremental co-evolution for optimization and discovery.
+55801,Case-based reasoning for tax planning.
+1136791,Efficient genetic programming for breast cancer detection.
+815073,Designing compact feedforward networks with threshold units.
+1114222,Lazy Bayesian Trees algorithm outperforms classifiers.
+173884,Bayesian network parameter learning with backpropagation.
+1102646,Global vegetation model parameter learning with prior knowledge.
+63832,Evolutionary algorithms for robot navigation and learning.
+211906,Bias/variance decomposition for prediction error in classification.
+83449,Context-based similarity for flexible case retrieval.
+2654,Experiments evaluating AdaBoost algorithm with pseudo-loss.
+815096,Maximizing robustness of Perceptron with discrete weights.
+277263,Sport injury diagnosis using machine learning.
+1105505,Model calibration using divide-and-conquer method.
+48550,Nonlinear system control with neural networks.
+83461,Logic subspaces formalism for learning and traversing.
+48555,Comparison of neural network stabilization techniques.
+6238,Autonomous learning and discovery framework for AI.
+636500,Time series prediction with SVM excels.
+340078,Evaluation of classifiers for image applications.
+1113534,Preventing input saturation in tracking problem.
+578898,Detecting cliques in noisy networks using Genetic Programming.
+1951,Adaptive similarity assessment for case-based explanation.
+1952,Learning adaptation knowledge through rules and cases.
+1956,Foundations for multistrategy learning using Inferential Theory.
+636511,Comparison of SVMs with Gaussian Kernels.
+463825,Creating simple ensembles for better understanding.
+1121569,Integral input to state stability analysis.
+1105531,Unifying view on graphical models.
+14428,Belief revision limitations in probability theory.
+14429,Unifying reasoning under uncertainty and ignorance.
+74749,Optimal derivation strategies using PAO algorithm.
+14430,Unified reasoning approach with extended syllogism.
+14431,Unified approach for handling uncertainties in AI.
+1132434,Segmenting time series with gated experts.
+648121,Neural system for SAR processing and boundaries.
+582511,Impact of noise on small disjuncts learning.
+688849,Dynamic parameter adaptation for system stability.
+1997,Estimating prediction rule error rates accurately.
+1131728,Memory-Based Learning for Fast NP Chunking.
+1106298,Consistency in concept learning for prediction.
+86359,Evolving optimal populations using XCS classifier.
+647413,GA-based SAW method outperforms WGSAT.
+1120880,Neural network robustness and accuracy interpretation.
+1131734,Evolutionary feature selection for neural networks.
+562940,Knowledge-based application development using MOBAL system.
+230879,Adaptive source separation algorithm with invariant performance.
+1104851,Improving bagging performance through tree diversity.
+1152075,Arcing algorithms enhance classification accuracy through combination.
+58758,Genetic algorithms for job shop scheduling.
+230884,Blind separation of delayed sources using infomax.
+34082,Addressing conflicting beliefs for better solutions.
+1132486,ICA application in financial time series analysis.
+39890,Empirical basis for distinguishing genuine influences.
+66782,Qualitative models for accurate inductive learning.
+218410,Comparison of symbolic and neural networks.
+647447,Comparison of multi-parent crossover operators in optimization.
+1117184,Navy decision aids development for tasks.
+66794,Automated method enhances learning rate efficiency.
+227178,Evolving visual routines for improved image classification.
+936,Guided by explicit knowledge goals for learning.
+940,Decision models construct volitional explanations for behavior.
+575292,Evolutionary approach for neural network construction.
+941,Incremental learning for domain understanding.
+1109185,Analysis of time series using neural networks.
+85688,Handling imperfect domain theories through constructive induction.
+28202,Advantage learning algorithm for multiplayer games.
+50807,Peak seeking adaptation for unsupervised learning.
+379288,Protein sequencing experiment planning with analogy.
+1154229,Belief networks revisited in brief.
+1109199,Optimal monitoring strategies for embedded agents.
+118682,Telecom risk management Bayesian network learning.
+153598,Analyzing bias and variance in TD learning.
+1154251,Minimize misclassified points with linear program.
+62417,Optimal compression with random codeword selection.
+1125909,Efficient explanation mechanism for predictive models.
+79809,Comparison of MDL and MML methods.
+739280,Performance analysis of CNS-1 on large neural networks.
+70441,Interactive crisis response assistant with CBR integration.
+70442,Predicting user operations for adaptive scheduling.
+70444,Schedule improvement and repair through knowledge acquisition.
+79817,Bayesian network parameters with informative priors.
+129558,Goal-based intelligent information retrieval with ML.
+892139,Communication in distributed multi-agent learning.
+576725,Genetic algorithms' effectiveness in finding cliques.
+28254,Optimal data selection for statistical learning models.
+1246,Efficient reinforcement learning algorithm design and analysis.
+237376,Comparison of learning curves in concept learning.
+27531,Efficient rule extraction from neural networks.
+397488,Fast algorithm for optimal rectangular domain partitioning.
+42847,RBF Networks for adaptive control.
+42848,Evolving fuzzy prototypes for data analysis.
+155736,Gradient descent for online linear prediction performance.
+155738,Learning smooth functions with derivative norms.
+39124,Feature weighting impact on nearest-neighbor algorithms.
+39127,Analysis and extensions of RELIEF algorithm.
+39130,Nearest neighbor algorithm for classification tasks.
+1153577,Eugenic evolution for combinatorial optimization in AI.
+335733,Coevolution of mutation rates in genetic algorithms.
+28290,Genetics and behavior in robotics research.
+18815,Probabilistic approach enhances instance-based learning.
+1136814,Genetic algorithms and simulated annealing comparison.
+1120169,Constructive learning in relational learning.
+82087,Fast probabilistic modeling for efficient optimization search.
+178209,Stochastic search in ILP for optimization.
+139738,Financial time series analysis with RBF approach.
+82090,Efficient search using structure analysis.
+18834,XCS generalization capabilities and Specify operator.
+39165,Selective Bayesian network classifiers with efficient induction.
+190698,Evolutionary design of neural architectures taxonomy.
+1125992,Optimal similarity measures for case-based reasoning.
+1109957,Q-Learning for Bandit Problems without model.
+46470,Boosting ability of decision tree algorithms.
+46476,Counter example to binary tree hypothesis.
+1129570,Automatic modularization for evolutionary learning approach.
+1071981,Icarus reduces sensory load in tasks.
+1129573,Evolution of cooperation in Iterated Prisoner's Dilemma.
+39199,Feature discovery with convex and conic encoders.
+12337,Improves neural net FSM induction performance significantly.
+29723,Statistical framework combining Boltzmann chains.
+694759,Evolutionary approach enhances vector quantizer design.
+46491,Constructing m-of-n concepts for decision tree.
+1128856,ILP and numerical regression combined approach.
+1107010,Identifying goal handling processes in invention.
+643199,Mutation rates adapt to gene interactions.
+1104182,Weighted navigation costs for optimal exploration.
+12347,Comparison of SLRNNs in representational capabilities.
+63915,Comparison of SPA and ANN models.
+519353,Probabilistic systems with causal reasoning.
+608292,Evolving complex structures for faster results.
+1121603,Nonlinear H1-norm bounding techniques for saturation.
+1130356,Adaptive learning for system improvement.
+12359,Pruning enhances generalization in recurrent networks.
+192850,Model selection strategies' generalization performance analysis.
+7032,Regression fits for improved predictive models.
+1128881,Predicting femoral neck fracture recovery effectively.
+140569,Fourier-Neural Recurrent Networks for sequential data.
+1114331,Island Model GA for linearly separable problems.
+7041,Regularization technique using noisy bootstrap.
+561581,Autoregressive time series models with latent components.
+561582,Bayesian analysis of time series structures.
+192870,Dynamic training method for multilayer perceptron.
+1113614,Factors affecting performance of TD draughts player.
+1102761,AI in conflict prevention and resolution.
+116528,Feature selection methods in machine learning.
+561595,Bayesian modeling of non-stationary time series.
+94416,Efficient subsumption algorithms for ILP learning.
+5600,Comparison of planning techniques for effectiveness.
+1000012,Automated algorithm for feature engineering.
+1114364,Predicting gold market trends effectively.
+1121659,Automating causal model learning using Bayesian MML.
+66809,Reinforcement learning algorithm with faster convergence.
+6343,Evaluation of feature weighting methods for lazy learning.
+212777,Learning concept descriptions from few examples.
+583318,Local selection outperforms tournament selection on specific problem classes.
+709518,Regional stability of land cover classification.
+350319,Data averaging and data snooping investigation.
+116553,Survey of non-coding DNA research.
+170338,Comparing TD-Q and PIPE algorithms in soccer.
+179706,Supply functions in stable systems with modifications.
+1112929,Hybrid method combining linear discriminant functions.
+656231,Redesigning control knowledge with machine learning.
+14531,Context-sensitive feature selection for lazy learners.
+1106370,Penalty term for neural network complexity estimation.
+1109208,Predicting problem complexity using Walsh functions.
+1114398,Fitness impact on DMP1 network training methods.
+95188,Kritik integrates model-based reasoning for design.
+510718,Learning Bayesian Networks with Incomplete Data
+208345,"Planning in complex, uncertain environments with CHIRON."
+6378,Efficient coordination of autonomous agents through reinforcement.
+22563,Comparison of machine learning algorithms for TTS.
+10981,Mapping meaning to sounds with contributors' help.
+110041,Benefits of overlapping generations in genetic algorithms.
+14549,Incremental learning with contextual clues via MetaL(B).
+95198,Memory issues in creative problem solving.
+6385,Comparison of agents in reinforcement learning.
+575331,Genetic algorithms for vertex splitting in DAGs.
+568045,ILP in two-voice counterpoint composition.
+1136110,Visual motion perception neural network model.
+1131828,Redesign problem-solving methods through knowledge-level examination.
+67584,Estimating hyperparameters in Dirichlet process mixtures.
+243274,Parallel training strategies for simple recurrent networks.
+135464,Neural network for feature extraction and classification.
+1105672,Enhancing fault diagnosis in telephone loops.
+93755,Learning geometric patterns with noise.
+756061,Study on visual motion perception and plasticity.
+522338,Analyzing reasoning and Occam's razor in networks.
+219239,Learning without hidden information access.
+61073,Study on autonomous homing behavior in robots.
+262178,Evolutionary neural network construction with genetic programming.
+686015,Optimal actions beyond greedy exploration in decision-making.
+1110024,Efficient analogical reasoning in conceptual clustering.
+613409,Non-parametric density estimation with special weights.
+686030,Active learning for multilayer perceptrons with reduction.
+227286,Space-Frequency Basis Function Networks for Estimation.
+45061,Stability and bias in machine learning.
+646836,Optimizing GA performance through selective pressure.
+1108551,Estimating theory accuracy with cross-validation.
+13885,Learning ML controllers for industrial robots.
+1104999,Evolutionary computation for intelligent robot behaviors.
+566653,Analogical processing using structural evaluation in SME.
+1127430,Genetic algorithms for hard 3CNF problems.
+299197,Learning game evaluation with hierarchical neural architectures.
+1135455,Object-oriented simulator for connectionist nets.
+97377,Average-case analysis of decision tree algorithm.
+592826,Machine learning for femoral neck fracture recovery.
+566664,Enhancing SME with merge and marking.
+633030,Estimation of variance and bias.
+633031,Semisoft shrinkage scheme for signal de-noising.
+686061,Active data collection algorithm with neural networks.
+592830,Estimating attribute quality with context-sensitive approach.
+573964,Genetic algorithms optimize using evolution principles.
+1155073,Learning framework integrating abduction and induction.
+17476,Framework for multi-agent reinforcement learning.
+17477,Genetic Programming for autonomous soccer team coordination.
+190706,Evolution of neural networks for robot wandering.
+28336,Evolving predator and prey strategies.
+573978,Comparison of optimization algorithms for efficiency.
+1107861,Boosting techniques for cost-sensitive tree classification.
+17488,Incremental self-improvement method for cooperation.
+1128198,Efficient strategy adaptation in competing subpopulations.
+1108597,Analogical problem solving through scheme adaptation.
+103515,Genetic algorithms' performance influenced by landscape.
+27623,Optimal experiment design for neural networks.
+200480,Efficient tool for exploring case bases.
+103529,Comparing diagnostic solutions complexity and advantages.
+649730,Growing hypercubical output space in SOM.
+39210,Memory recall in neural networks.
+46501,Decision Graphs with inference scheme extension.
+27632,Optimizing information acquisition in uncertain environments.
+649739,Improving vector quantization with neural networks.
+1119471,Efficient learning of zero-one threshold functions.
+103531,Modeling computing time in knowledge-based systems.
+470511,Supporting mixed-initiative planning through interface design.
+509233,Reevaluating consistency in concept learning.
+236759,Blind image separation and enhancement neural network.
+237489,Blind signal separation using mutual information.
+1152944,Improve XCS performance with added memory.
+1118764,Efficient extension for prediction and decision trees.
+643221,Estimation of convergence rates in MCMC algorithms.
+212097,Uncertainty in arguments; context-driven non-monotonic reasoning.
+608326,Sampling-based heuristic for grammar induction.
+643239,Gibbs sampler for James-Stein estimators analysis.
+1131116,Representation issues in search and evolutionary algorithms.
+202639,Connectionist networks enhance prediction accuracy for sequences.
+141324,Analysis of MAX Problem in Genetic Programming.
+294145,Generality and specializations in ILP.
+1128927,Comparison of ML algorithms for blood group.
+561610,Bayesian time series models in physical sciences.
+561611,Bayesian time series analysis with robustness focus.
+147870,Switching dynamics segmentation and classification using NN.
+248395,Efficient differential learning for pattern classification.
+1128935,Predicting survival in anaplastic thyroid carcinoma.
+241133,Temporal-difference learning algorithms in online framework.
+141342,Dynamic Parameter Encoding enhances genetic algorithms.
+141347,Optimal crossover points in genetic algorithms.
+1128946,Evolving edge detectors using genetic programming.
+1131164,Gibbs sampling for cointegrated VAR modeling.
+12439,Improving RBF network performance through learning.
+1131167,Monte Carlo method for decision analysis.
+1129683,Stochastic search method SAGE for grammar.
+359067,Enhancing conversational CBR with integrated reasoning.
+117315,Evolving cooperation strategies using Genetic Programming.
+117316,Adaptive agents evolving in hostile environments.
+144212,Evolving autonomous robot through simulated evolution.
+1106401,Model selection using minimum description length.
+1134022,Chromosome dimension for gene linkage preservation.
+13193,Reinforcement learning for partially observable problems.
+1131192,Efficient MCMC sampling in hierarchical models.
+1107136,Feature selection methods compared: Importance Score vs. Genetic Algorithms.
+1131195,Learning algorithm for SSNs in language learning.
+1128982,Learning recursive sequences through machine-language evolution.
+121792,Analyzing transitivity and Lie algebras in systems.
+653441,Graphs for causal information and decision analysis.
+385251,Quantum algorithm for learning DNF functions.
+1126011,Efficient probabilistic inference using algebraic techniques.
+1134031,Modeling Superscalar Processors with Statistical Simulation.
+642593,Protein sequence classification using clustering algorithm.
+1115166,Importance of explanation in interactive design.
+737204,Object-oriented BP neural network simulator on CM-5.
+118079,Adaptive control system using neural networks.
+1122460,Machine Learning for faster software development.
+1114442,Emerging reasoning technologies in Soft Computing.
+589923,Dynamic belief networks for monitoring activities.
+1121739,Learning control laws for navigation robots.
+626574,Belief maintenance in Bayesian networks.
+1126037,Survey of parallel environments for neural networks.
+645452,Extension of Fill's algorithm without assumptions.
+753264,Improved test error bounds with trade-offs.
+1126044,Connectionist research trends and applications in networks.
+74920,Measurement axiomatization with ordinal assumptions and connections.
+74921,Characterizing monotone latent variable models briefly.
+1105718,Sensorimotor integration and motor control computational models.
+48764,Learning complex behavior in agents efficiently.
+48768,Evolving neural networks for mastering Go.
+1113742,Robustness testing of Genetic Algorithm on Floating.
+74937,Theory and methods for item ordering.
+575402,Comparison of hill-climbing and genetic algorithms.
+168958,Analysis of modified parallel variable distribution.
+78508,Financial markets and EEG analysis using statistical mechanics.
+289085,Comparison of spiking neuron networks with others.
+78511,Comparison of optimization algorithms in research.
+308232,Theory refinement for M-of-N rules efficiently.
+682508,Market-based approach for aggregating beliefs.
+75691,Extracts feature detectors from images.
+75693,Reinforcement learning with self-modifying policies.
+75694,Speeding up learning through bias shifts.
+155158,Inducing recursive relations efficiently from small datasets.
+1105764,Efficient temporal difference learning algorithm with extensions.
+1152259,Importance sampling for isolated modes.
+579008,Identifying redundancy in Genetic Programming through analysis.
+1128201,Efficient crossover operators for graph coloring.
+1133390,Equivalence study between decision trees and operations.
+1118083,Synaptic models for visual feature extraction.
+78549,Chaos analysis in neocortical model with noise.
+604073,Pruning weight saliencies for better generalization.
+595056,Evolution of board evaluation functions.
+1118092,Optimizing noisy functions with few experiments.
+1125386,Multi-classification approach using n^2 classifiers.
+78552,Statistical mechanics models for decision-making.
+78555,Neocortical interactions and statistical mechanics in finance.
+78557,Statistical mechanics applied to bond pricing.
+646900,Improving evolutionary algorithms for constraint satisfaction.
+595063,Dynamic scaling enhances evolutionary optimization performance.
+648369,Retina's spatiotemporal processing theory.
+1128227,Evolutionary algorithms in high-dimensional NK-landscapes.
+89416,Reconstructing rational belief revision theories.
+578306,Fixed-point algorithms for Independent Component Analysis.
+683294,Bayesian inference in economic equilibrium market.
+440815,Change point modeling in stochastic and spatial statistics.
+126867,CHARADE platform for environmental decision support.
+126868,Forest fire planning complexity and integrated approach.
+72056,Efficient mixed fixed/floating-point formats in BP.
+1119505,Evolutionary design of novel 3D forms.
+1128256,Performance analysis of SE-trees vs decision trees.
+1108656,Rule generation and compaction for supervision.
+71336,Sensorimotor integration in computation and psychophysics.
+1109392,Emergent soft constraints in language disambiguation.
+40886,Backpropagation learning on Dutch syllabification task.
+1115959,Pruning framework enhances MTiling neural network performance.
+578347,ICA achieved with Hebbian-like learning rules.
+284023,Neural network algorithms for learning efficiency.
+345340,Efficient reinforcement learning in large spaces.
+621555,Optimizing k-NN classifiers with distance metrics.
+118873,Constructive neural network algorithms for classification.
+8687,Learning challenges in logic programs and theories.
+226698,Gamma MLP enhances speech phoneme recognition significantly.
+578365,Neural learning rules for Independent Component Analysis.
+1135589,Graduate student papers on connectionist modeling.
+8696,Complexity of theory revision algorithms explored.
+1118823,Dynamic method enhances decision tree learning.
+411005,Random weight guessing can outperform algorithms.
+509315,Study of genetics using computational approach.
+171954,Efficient algorithm for evolutionary tree inversion.
+230300,Learning in continuous domains with delayed rewards.
+1105011,"Connections between smoothing, filtering, estimation methods."
+1121057,Inductive machine learning for customer support.
+592973,Training subset selection methods in Genetic Programming.
+592975,Genetic Programming for Boolean Even N Parity.
+48066,Pruning decision trees to minimize loss.
+248431,"Genetic algorithms, tournament selection, noise effects."
+1121063,Enhancements for practicality and performance in Fourier transform.
+592986,Small populations outperform large populations in Genetic Programming.
+48075,Automatic user profiling for fraud detection.
+289885,Neural network learning with Bayesian prototypes.
+592993,Improved efficiency through new context-preserving crossovers.
+592996,Accelerating evolution through discovering and exploiting subroutines.
+28489,Learning control in non-Markovian decision processes.
+590022,Fall diagnosis model with sensor data.
+111676,Evaluation of goal-based explanations with contributors.
+13205,Organizing temporal behaviors in reinforcement environments hierarchically.
+13208,Learning strategies for reinforcement learning improvement.
+102938,Neural network improves database query efficiency.
+102939,Syntax analysis neural network model.
+416867,Equivalence queries for necessary condition in learning.
+72805,Profile-driven scheduling for instruction level parallelism.
+574009,Genetic Programming extension for evolving programs.
+294239,Faster learning with flat spot handling.
+1131223,Bayesian filtering methods for dynamic models.
+77108,Phylogenetic tree construction based on gene lineage.
+5064,Efficient retrieval with Case Retrieval Nets.
+5069,Memory model for technical diagnosis using CBR.
+1131230,"Identifiability, priors, Gibbs sampling in GLMs."
+40125,Monte Carlo Gaussian Process for Regression/Classification.
+1123215,NP-Completeness proof for rule induction simplicity.
+20526,Self-improving factory simulation using RL.
+20528,Efficient LWPR algorithm for non-linear mapping.
+77112,Evolutionary tree inference from ordinal assertions.
+107251,Comparison of attribute types for constructive induction.
+107252,Impact of new attributes on decision trees.
+5075,Comparison of marker-passing and spreading activation algorithms.
+126128,DNA sequence classification through compression-based induction.
+734406,Memory formation in hippocampal system through encoding.
+40131,Neural network vs conventional techniques for lighting.
+703953,Convergence analysis of alternating EM algorithms.
+40135,Refining PID controllers with neural networks.
+1131257,Variance reduction in local interaction random fields.
+1123239,Unsupervised 3D object recognition feature extraction.
+1129778,Genetic algorithms with hierarchical interdependency modeling.
+662250,Supercomputer performance with DSP array processor.
+711994,Analysis of chaotic neural networks with random weights.
+273949,Analog computation modeling with time and noise.
+1131266,Spatial model with covariates enhances predictions.
+1130539,Learning high utility rules with guidance.
+377303,Evolving DFAs using cellular encoding for evolution.
+179180,Efficient simulation tool for connectionist networks.
+1129798,Group behavior and individual complexity link.
+1114512,Efficient Monte Carlo approach with constraints in ILP.
+1110950,Effectiveness of human explanations in tutorials.
+12558,Evolutionary trade network game with optimization.
+853114,Jet identification using accurate neural network.
+853115,Accurate neural network distinguishes gluon/quark jets.
+853116,Self-organizing networks extract jet features.
+853118,Langevin updating enhances learning in MLPs.
+1114526,Approximating high-dimensional rectangles in PAC learning.
+212930,Knowledge transfer enhances coronary disease diagnosis.
+206371,Genetic algorithms for mobile robot planning.
+105856,VC dimension bounds for recurrent neural networks.
+463,Optimizing hillclimbing design through abstraction techniques.
+20592,Learning non-linear boolean functions with LTUs.
+51049,Causal inference in sociological methodology.
+20593,Neural networks using threshold logic unit trees.
+83746,Cascade-Correlation Algorithm exploration in technical report.
+124734,Learning DNF and visual concepts efficiently.
+106590,Plan recognition for traffic monitoring with context.
+1133417,Bayesian inference with logarithmic time complexity.
+1125402,Frequentist connection with convex probability sets.
+1153024,Efficient distributed reason maintenance for activities.
+853155,Neural network reconstructs invariant mass accurately.
+1118120,ASOCS model DNA overcomes implementation challenges efficiently.
+1105810,Mobile robot navigation with case-based reasoning.
+1113831,Study on negotiation strategies in diverse environments.
+646289,Bayesian item response models and selection.
+1106546,Efficient planning with qualitative preferences.
+31479,Addressing correlated features in naive Bayesian classifier.
+31483,Induction algorithms for Bayesian classifiers comparison.
+31489,Minimax wavelet shrinkage for noisy data.
+94639,Genetic programming optimizes data structure evolution.
+631015,Theory of correlations in stochastic networks.
+645571,Bayesian nonparametric inference with Dirichlet Process.
+1106568,Spatially local feedforward networks and interference study.
+430711,Model simulating prosopagnosia through competitive learning.
+7296,Predicts cortical reorganization with lateral interactions.
+1132731,Filter functions and Genetic Programming for gameplay.
+1153064,Stochastic logic programs for bias representation.
+93923,Learning first-order logic with Inductive Constraint Logic
+1134197,Monte Carlo study on chaos probability.
+87363,Automated synthesis of analog electrical circuits.
+395540,Blind signal processing algorithm for ICA.
+395547,Efficient EM algorithms for PCA and SPCA.
+50381,New algorithms for HMM parameter estimation.
+1129015,Performance distribution of Boolean functions with 3 inputs.
+126909,Improved convergence of non-reversible Markov chain.
+143676,Neural architecture for storage and recall.
+395553,Probabilistic PCA with EM algorithm.
+752684,Early stopping in linear networks study.
+1129021,Reduce brittleness in genetic programming maneuvers.
+19045,Automated analog circuit design using genetic programming.
+631052,Neural map formation and weight dynamics.
+126912,Continuous sigmoidal belief networks with slice sampling.
+116790,Improving Bayesian network performance through updates.
+5869,Object recognition and learning using models.
+579108,Sharing building blocks for collective adaptation.
+683355,Bounding probability distributions using qualitative relationships.
+1105877,Exploring monotonicity in item response models.
+59772,Multicategory discrimination algorithm using parallel methods.
+243483,Comparison of mutation and crossover in GP.
+126926,Efficient MCMC algorithm with ordered overrelaxation.
+155277,Functional relation between recognition error and rejection.
+1128314,Distributed adaptation for optimization in graphs.
+1105887,Enhanced control through knowledge acquisition and ML.
+1110209,Relative likelihood in preferential structures.
+307656,Optimal plateau search in Boolean satisfiability.
+199571,Fast quality estimation for neural network.
+1152394,Study of controllability in nonlinear systems.
+60560,Globally convergent algorithm for monotone equations.
+595193,Genetic programming with cultural information for enhancement.
+990075,Adaptation review and proposed taxonomies.
+119686,Constructive neural network learning algorithms for classification.
+1154520,Diffusion limit for growing binary trees.
+28504,TD Models for multi-scale world modeling.
+1154524,Comparison of code generation techniques for software pipelining.
+1154525,Enhancing performance and exception handling in speculation.
+1129096,Reinforcement learning for smoother control tuning.
+1128369,Automatic generation of adaptive programs for animals.
+96845,Hierarchical behavior discovery through evolutionary approach.
+380341,Hybrid algorithm for finding zeroes efficiently.
+8766,Optimizing resource allocation and instruction scheduling.
+1110256,Modeling distributions from random walks on graphs.
+55403,Learning decision structures from rules using AQDT-2.
+389715,Improving prediction accuracy and theory complexity.
+1153816,Simulation of pursuit and evasion strategies.
+131317,Efficient LSTM for long-term dependencies.
+260979,Geometric separability predicts learning method performance.
+264556,Motion detection chip with correlation model.
+35852,Reinforcement learning with CRBP algorithm.
+1119671,Optimal CDM for 1-NN classification.
+1153853,Genetic algorithm using voting chromosomes for optimization.
+1112417,Bayesian regression with MCMC model selection.
+1153860,Genetic algorithms in neural network training.
+1153861,Data mining with unsupervised neural networks.
+35863,Efficient reinforcement learning with k-DNF action maps.
+1121176,Connectionist learning with Case-Based Reasoning.
+1131301,CLTs criteria in Hastings-Metropolis algorithms with Markov chains.
+1131305,Hybrid samplers' convergence properties in MCMC.
+1105148,Maximizing rewards in unknown environments with EIRA.
+134219,Evolutionary computation and algorithms for problem-solving.
+671052,Face specialization influenced by task and frequency.
+1131312,Proving convergence bounds in MCMC algorithms.
+156794,Correcting correlated action effects in regression.
+1153896,Ant training for Santa Fe trail navigation.
+1153899,Accelerating machine learning with polymorphic typing.
+167656,Boosting enhances naive Bayesian learning.
+239829,Improve minority class prediction with weights.
+1104435,Efficient decoding with iteratively decodable codes.
+187260,Integrating previous explanations in instructional dialogues.
+231198,Fixed-size storage learning algorithm for recurrent networks.
+1131334,Cheeger's constant in Markov chain convergence.
+1131335,Estimating L1 error for Markov sampler.
+142268,Modeling uncertainty with plausibility measures.
+504,Belief formation in AI through rational representation.
+506,Rationality in reasoning and representation systems.
+228990,Efficient DNA sequence assembly algorithm.
+228992,Efficient shotgun sequence assembly algorithm.
+1132073,High performance parallel supercomputer with intelligent communication.
+654326,Evolutionary approach integrates CLP and GA.
+1116044,Tutorial on logical reasoning about uncertainty.
+1131359,Comparison of SAW-ing EA and Grouping GA.
+643485,Geometric ergodicity of hierarchical random effects model.
+654339,Regularities constrain weights in neural networks.
+1107319,Learning algorithms for bounded-width branching programs.
+132821,Parameterized complexity of sequence alignment.
+360028,Constructing new attributes for decision trees.
+214472,Exploring computable universes and complexity theory.
+646334,Self-targeting candidates improve convergence rates.
+653628,Predictability of data values in research.
+1107325,Characterizing dimensions in practical design problem-solving.
+166989,Learning algorithm for DNF with efficiency.
+1111788,Multivariate trees improve accuracy over univariate.
+151708,Polychotomous regression models with stochastic gradient method.
+118259,Hierarchical control structures in reinforcement environments.
+32260,On-line investment algorithm with multiplicative updates.
+137130,Belief revision systems with AGM postulates.
+92589,Bayesian networks with feature selection for prediction.
+118260,Hierarchical control learning in changing environments.
+124828,Ensemble training for classification with zip data.
+141596,Variational Gaussian Process Classifiers for classification.
+197452,Dynamic technique for structure selection in neural architecture.
+646357,Convergence analysis of diffusions and discretizations.
+1153106,Classifying EEG signals with sparse polynomials.
+30817,Analysis of Hebbian rules in linear networks.
+642798,Optimal scaling for efficient random walk algorithms.
+1130676,Efficient learning of overcomplete data representations.
+1107355,Reactivity and planning for improved performance.
+1118209,Tailored teaching model for specific learners.
+987188,Improving neural network performance through quantization.
+87417,Design space search guided by modeling knowledge.
+23545,Grounded concept formation for mobile robots.
+23546,Perceptual features for robot navigation through action-oriented.
+1113926,Enhancing RBF networks with EUBAFES technique.
+94713,Bayesian network parameter estimation with missing values.
+1107367,Continuous operator learning for robotic navigation.
+987197,Study on distribution-dependent PAC learning.
+521183,Formalizing knowledge content in case memory.
+1114664,Technical report on Knowledge Based Systems.
+69296,Optimizing genetic algorithms for performance evaluation.
+51180,Efficient learning algorithm for specific automata subclasses.
+43165,Grammatical inference with recurrent neural networks.
+1132815,Hybrid lazy neural tree for regression.
+1107385,Factor analyzers for digit segmentation and pose estimation.
+100197,Comparison of neural networks and statistical models.
+520471,Choosing arguments for new predicates.
+215912,Identifying splice and start sites in mRNA.
+61312,Sexual selection impacts evolutionary dynamics.
+1129106,Technical diagnosis using case-based reasoning techniques.
+43186,Feature-based semantics in NLP with recurrent networks.
+1129111,Learning techniques with regularization for approximation.
+41732,Connectionist network controls autonomous vehicle navigation.
+22869,Case-Based Reasoning for Robotics Control Evaluation.
+9513,Analyze learning challenges with changing data distributions.
+9515,Tracking concept drift by minimizing disagreements.
+119712,Genetic algorithm for pattern classification.
+270456,Gaussian process regression with Bayesian perspective.
+5959,Chunking in soar: A versatile learning mechanism.
+576362,"Evolving controllers for physical robots: challenges, directions."
+1153183,Linear discriminant updates using quasi-additive algorithms.
+22874,Prototype similarity-based retrieval tool for software repositories.
+22875,Inductive learning techniques in case-based reasoning.
+22876,Case-based reasoning system with flexible retrieval.
+1124837,Modeling therapy decisions using POMDPs.
+1132857,Market-based consensus probability distribution derivation.
+594511,Efficient genetic programming with strong typing.
+22883,DNA promoter sequences theory for learning systems.
+238401,Pairwise coupling for polychotomous classification strategy.
+1136449,Receptive field topography rearrangement after stimulation.
+714208,Testing exogeneity of instrumental variables in econometrics.
+9559,Incremental learning for computer intrusion detection.
+135798,Classification methodology for ill-structured domains.
+1152490,Unsupervised neural networks for association rules.
+1109566,Hybrid classification algorithm for improved performance.
+1103038,Managing context-sensitive features in machine learning.
+177115,"Case Retrieval Nets: Foundations, Properties, Implementation, and Results."
+523394,Automated discovery of linear feedback models.
+1128453,Adaptive penalty method for genetic algorithm.
+1109581,MDP reachability analysis with compact representations.
+101660,Meta-knowledge extraction for hypothesis space restriction.
+101662,Learning logic programs within Bayesian framework.
+9581,De-noising with smooth wavelet reconstruction properties.
+9586,Adaptive simulated annealing in control and cybernetics.
+1135750,Algorithm for largest agreement subtree in trees.
+51934,Neural network tools for ECG monitoring.
+762980,Study on visual cortex plasticity and modeling.
+1153900,Accelerating machine learning with additional resources.
+593859,Analysis of GP populations in MAX problem.
+714256,Probabilistic calculus for causal domains.
+8874,Coevolutionary approach enhances function optimization effectively.
+25794,Impact of lifelong learning on knowledge transfer.
+75121,Importance of knowledge in inductive learning.
+28632,Investment strategies with improved algorithms.
+1153922,Efficient computational and storage advantages in networks.
+1119742,Object recognition using Bayesian networks.
+63549,Monte Carlo method for Bayesian learning.
+1138619,Scheduling algorithms for processors with lookahead.
+1102364,Conflicts in preference-based default theories.
+28640,Predicting binary sequences using advanced algorithms.
+28641,Connections between game theory and algorithms.
+409725,Optimizing code generation with resource requirements.
+292277,Evolving control structures with defined macros.
+606479,Evolution of communication schemes in multi-agent systems.
+1153942,Efficient parallel Genetic Programming on SIMD.
+1153945,Group formation effects on evolutionary search analyzed.
+1153946,Primate retinal cone pathways: experiments and results.
+709113,Improving superscalar processor performance through theoretical model.
+194609,Predicting mRNA sites using neural networks.
+90470,Automated plan recognition using probabilistic belief networks.
+820661,Binary tree quartet splits inferred via dyadic inference.
+820662,Algorithm for accurate evolutionary tree reconstruction.
+1105231,Computer simulations in theoretical biology for Artificial Life.
+73712,Closed shift-invariant subspaces for specified approximation.
+54844,Learning domain-specific bias through related tasks.
+684972,Probabilistic principal axes determination in data analysis.
+134314,Belief change in dynamic systems modeling.
+735303,Efficient global optimization method for continuous spaces.
+824245,Stimulus specificity in perceptual learning implications.
+195361,Optimizing step-size parameters in temporal-difference learning.
+529165,Gas identification with temperature sensor and AI.
+1131414,Retinal ganglion cell behavior simulation model.
+617378,Characterizing musical sounds using higher order statistics.
+1120563,Memory model for distributed processing.
+47570,Document reuse framework with illocutionary and rhetorical structure.
+684986,Hierarchical latent variable model for visualization.
+735311,Differential Evolution for Function Optimization principles.
+187354,ILP for diterpene structure elucidation from 13C NMR.
+1132157,Naive Bayesian learning adaptation.
+58436,Efficient model selection for hillclimbing search.
+278403,Efficient parameter reduction in neural networks.
+58453,Intelligent search for complex design optimization.
+58454,Prototype selection rules for iterative design.
+206524,Automatic fraud detection using data mining.
+593104,Genetic programming explores bloat with fitness.
+133628,Sensor data classification using supervised Bayesian learning.
+46887,Learning higher-order polynomials through feature construction.
+49720,Bayesian experimental design for linear models.
+1131471,Classification algorithms for regression tasks methodology.
+643597,Bayesian modeling for nonlinear time series.
+1107418,Evolving teamwork and coordination in genetic programming.
+1129994,Research on AI and knowledge-based systems.
+573535,Algorithm for perfect phylogeny and triangulation.
+814836,Comparison of scheduling algorithms in processors.
+1119004,Brain-mind interactions at multiple scales.
+1134320,Treatment effects formulas with imperfect compliance.
+1116181,Exploration in machine learning systems implications.
+1108167,Learnability of complex DNF formulas efficiently.
+1108169,Facial feature extraction using neural networks.
+49753,Bayesian optimal design for normal linear model.
+57773,Software pipelining for architectures with structural hazards.
+7430,Multi-time models for abstract planning.
+521251,Comparison of case-based classifiers and rote-learning.
+593155,Hand programming and learning for robotics solutions.
+642894,Convergence rates of various sampling algorithms.
+1126315,Gas detection using olfactory sensors and neural networks.
+1108175,"Interdisciplinary study linking neurobiology, cognition, AI."
+1059953,Predicting sequences with minimal loss.
+521269,Unifying ordinal and cardinal similarity measures.
+1118302,Learning recursive Horn clauses with ILP.
+1130780,Wavelet shrinkage method for curve estimation.
+1134346,Causal effects in clinical experimentation using networks.
+1134348,Distinguishing causal relationships in structural equation models.
+1135082,Handwritten digit recognition with compact features.
+899085,Regulating compile-time speculation for code performance.
+124952,Efficient probabilistic inference in Bayesian networks.
+240791,Self-generating teaching input for efficient learning.
+189571,Probabilistic evaluation of counterfactual queries.
+189572,Counterfactual evaluation in structural models for policy.
+1126350,Malicious membership queries and exceptions in networks.
+189574,Bayesian network theory refinement through learning.
+177993,Study on energy extraction and behavior.
+27230,Enhancing robot navigation with AI-based learning.
+1119078,Theory patching tractability in logical domains.
+128540,Balancing design and expertise for autonomous agents.
+308529,Trainer role in reinforcement learning for agents.
+54131,Critique of Building Block Hypothesis in GP.
+75983,Spatial neural networks with reduced interference.
+15670,Social network analysis in complex systems.
+33818,Financial markets optimized trading using statistical mechanics.
+95594,Scaling RL algorithms with variable temporal resolution.
+6782,Supervised learning algorithm for compact decision trees.
+33823,Statistical mechanics approach to EEG data.
+25805,Learning DNF expressions and statistical query.
+1153287,Hierarchical planning and learning in AI.
+596075,Dynamic explanation generation in complex environments.
+817774,Estimating nucleotide sites for evolutionary trees.
+18532,Stabilization of systems with measurement error.
+18536,Proof of Artstein's theorem on stabilization.
+235670,Enhancing software pipelining efficiency through unroll-and-jam.
+235678,Efficient stage scheduling in modulo schedules.
+235679,Efficient modulo scheduling with minimal registers.
+739707,Software design and implementation for RAP.
+17811,Genetic algorithms improve feature selection efficiency.
+503871,Improving neural networks through adaptability and performance.
+235683,Minimizing register requirements for rate-optimal software pipelining.
+1128531,Declarative to procedural knowledge transfer approach.
+594649,Occam's Razor impact on neural networks.
+1128536,C programming machine learning library tutorial.
+1102400,Incremental algorithm for learning regular grammars.
+593921,Fitness-driven growth in evolutionary computation.
+486840,Adaptive strategy in evolving environments.
+1127810,Reactive obstacle avoidance in autonomous robots.
+503893,Genetic algorithms for combinatorial optimization problems.
+399370,CuPit-2: High-level parallel programming language.
+387795,Evolutionary robotics design strategies at UNR.
+220420,Genetic local search for QAP.
+593942,Programming challenges for artificial ants.
+8961,Machine Learning Research: Four Current Directions
+645016,Perfect simulation algorithms in various models.
+481073,PAC adaptive control algorithm for exploration.
+11337,Decision tree size biases based on distribution.
+578650,Collective memory through information center utilization.
+1130069,Sound texture analysis using higher order statistics.
+1127851,Efficient high-level language bias generation for ILP.
+124224,Behavior near zero of GCV estimates.
+37483,Enhancing learned rules with new techniques.
+578669,Hybridized search techniques enhance program discovery efficiency.
+1127863,Clausal Discovery in Temporal Databases for KDD.
+1135894,Progress and plans of first four years.
+645046,Exponential convergence of Langevin diffusions.
+22229,Automatic programming for learning mental models.
+149669,Analyzing time and probability in reasoning.
+365294,Efficient planning with multi-time models.
+169279,Smoothing spline models for correlated random errors.
+1138755,Optimization criteria for multiple sequence alignment.
+323128,ECOC technique corrects bias and variance.
+22241,Program evolution and optimization through control structures.
+156977,EM Algorithm for Mixtures of Factor Analyzers
+763010,Visual cortex plasticity and receptive field changes.
+1120650,Inducing logic programs with multiple recursive clauses.
+1105344,Gaussian processes for regression in NN.
+59244,Automated knowledge base refinement with explanations.
+286500,Framework for evolving complex behavior in agents.
+567005,Unsupervised neural network controller for robots.
+644361,Perfect sampling algorithm for Harris Markov chains.
+644363,Exact simulation algorithms using Markov chains.
+154023,Robust convergence of nonlinear identification algorithm.
+286513,Studying specialist and generalist behaviors in evolution.
+459206,Contextual semantics influence genetic programming evolution.
+671269,Predicts conditional probability distributions for time series.
+1105360,Negation in stable ILP for learning.
+1112650,Decision-theoretic approach to understanding defaults.
+632796,Wavelet thresholding for density estimation.
+47682,Enhancing learning algorithms for better generalization.
+47683,Incremental model for commonsense reasoning.
+47684,Efficient metric for inductive learning.
+4637,Efficient algorithm for learning switching distributions.
+642920,Connectionist architecture demonstrating systematicity in cognition.
+634902,Heuristic approach improves genetic bin packing.
+459213,Genetic program operators analyzed using edit distance.
+459214,External dependency impact on genetic programming.
+634904,Comparison of serial and parallel Genetic Algorithm.
+459216,Evolutionary learning techniques with internal reinforcement.
+20821,Introduction to logical decision trees.
+178718,Indexed bibliography of genetic algorithms 1957-1993.
+1108209,Evolutionary algorithm study on crossover operator.
+1112665,Algorithm enhances center point selection efficiency.
+1104647,Real-time adaptive neuro-evolution for agents.
+1140289,Predicting utility loads with Artificial Neural Networks.
+66563,Genetic Programming Schema Analysis using Experiments.
+67292,Efficient nonlinear control estimation using RBF.
+66564,Genetic programming study on crossover and mutation.
+154047,Optimal identification of LTI systems.
+642930,Connectionist architecture learns syntactic parsing precisely.
+654519,Efficient air traffic control planning using evolution.
+178727,Genetic algorithms approach to network design.
+1135108,EM Algorithm for Gaussian parameter estimation.
+593201,Optimal neural networks with genetic algorithms.
+162075,Efficient VLIW/SIMD microprocessor for neural networks.
+593209,Parallel Genetic Programming for fine-grained programs.
+107569,Recognizing handwritten digits using generative models.
+1123530,Fitness structure impact on subsolution acquisition.
+1135115,Rapid learning of binding-match and detector circuits.
+1132285,Learning harmonic progression with Markov models.
+1131557,Specialization study in evolving artificial neural networks.
+162080,Neural network library for training models.
+3932,Analogues for innovative design explored.
+593210,Genetic programming for program optimization discovery.
+118424,Neural network routing for optical networks.
+1135122,Fast parallel neural network training on MultiSpert.
+634938,Genetic algorithm optimizes fragment allocation efficiently.
+1131565,Gene regulation in neural network development.
+20857,General model-level definition of data mining.
+118435,Neural network reduces latency in networks.
+118436,Memory access patterns prediction for performance optimization.
+643695,Bayesian regression methods for simulation summarized.
+1130847,Genetic algorithm outperforms greedy heuristic.
+1111978,Bayesian neural networks consistency for regression.
+1154012,Study on anytime influence diagrams summarized briefly.
+1108258,Forest fire planning with temporal reasoning.
+49844,Comparison of pruning methods for concept learning.
+49847,Efficient pruning method enhances predictive accuracy.
+189620,Efficient dynamic reasoning in probabilistic databases.
+189623,Efficient belief network inference with localization.
+1108267,Integrated approach for multiagent planning.
+1050679,Genetic algorithm optimizes neural network topology.
+634975,Genetic algorithm efficiency improvement through optimization.
+1114838,Efficient network construction for general-specific relationships.
+577227,CGA convergence properties for static optimization problems.
+28026,CRNs handle large case bases effectively.
+601561,Machine learning in agricultural databases using WEKA.
+24476,Comparative preferences in decision-making contexts.
+1026,Debate on learned behavior's impact on evolution.
+95642,Adaptive reactive navigation in autonomous agents.
+270600,Efficient rule derivation from specific examples.
+145384,Temporal difference learning algorithms' performance analysis.
+16461,Neural networks and machine learning in NLP.
+35335,Parallel optimization theorem for multiple processors.
+1138027,Program synthesis and transformation techniques for optimization.
+1035,Studying sensor evolution using neural networks.
+1114864,Annotated bibliography for AI Statistics tutorial.
+1154068,Bayesian approach improves MARS model interpretation.
+449841,Theory-guided logic program induction with regular language.
+1154071,Perfect simulation using Gibbs and sandwiching methods.
+1106854,Equivalence in controllability and Lyapunov functions.
+210309,Minimax risk analysis in classification using entropy.
+801170,Enhanced genetic algorithm for optimization efficiency.
+251756,Cellular encoding for neural network control.
+645870,Transition probabilities for Independence Metropolis Sampler.
+144679,Automated design optimization with improved speed.
+1138043,Weighted bipartite matching with polynomial complexity.
+86923,Feedback stabilization in control systems.
+342802,Phonetic classification using hybrid neural network.
+1152633,Feasibility study of autonomous vehicles with control.
+711527,ESOP minimization in Machine Learning.
+684372,Self-organizing controller with polynomial models.
+216878,Feature extraction and pattern finding techniques.
+62274,Comparison of new and old algorithms.
+72406,Comparison of reinforcement learning methods on pendulum.
+101811,Universal representations in programming research group.
+246618,Comparison of fixed and floating building blocks.
+1136631,Improved probabilistic performance guarantees for classifiers.
+1152676,Evolving cooperative groups using genetic algorithms.
+235776,Automatic algorithm selection for inductive learning.
+57119,Methods for competitive coevolution in EA.
+119956,Comparison of global and local methods.
+948147,Fast Kohonen Net Implementation for Spert-II
+739816,Learning system for image segmentation.
+3222,Optimality of Bayesian Classifier beyond independence.
+1117786,Intelligent search method with ILP for problem-solving.
+1110520,Generalization of visuomotor transformation in local remappings.
+36802,Dynamic Belief Networks for event monitoring.
+3232,Decision table evaluation for supervised learning.
+3237,Feature subset selection with dynamic search space.
+1111265,Neural network head tracking with adaptation.
+695284,Complexity of combinatorial problems on colored graphs.
+37541,Learning parity mappings challenges with methods.
+1110546,Stochastic algorithms for graph optimization comparison.
+71736,Sequential Importance Sampling for Nonparametric Bayes Models.
+1135955,Impact of early stopping and regularization methods.
+12155,Learning DNF formulas with malicious queries precisely.
+258259,Error stability analysis of gradient algorithms.
+1114118,Power system security margin prediction using RBF.
+606647,Adaptive agents in dynamic fitness environments.
+12165,Cooperative robots learn directed graphs efficiently.
+1110563,Control and visualize neural networks efficiently.
+12169,Learning model for ambiguous boundary with unreliable queries.
+1133004,Local Multivariate Binary Processors with acknowledgements.
+1133008,Modeling cortical neuron spiking variability with gain.
+1102567,Argumentation system for cooperative design on the Web.
+12195,Efficient learning algorithms for deterministic automata.
+28851,Comparison of search algorithms for program discovery.
+644427,Estimators for nearest neighbor random fields.
+1113438,Evolution of motivation in adaptive learning.
+1121459,Automatic phonetic transcription using machine learning.
+689439,Machine description speeds up resource contention detection.
+633585,Wavelet shrinkage for log spectrum estimation.
+31083,Data mining with classification algorithms in C++.
+6152,Reinforcement learning with modular neural networks.
+1119987,Sonogram image classification using case-based reasoning.
+1114184,Global controllability in time-varying systems.
+82664,Learning memory search procedures for adaptation.
+82666,Goal-driven learning in fundamental AI issues.
+672070,Evaluate neural network predictors using bootstrapping.
+672071,Method for obtaining local error bars.
+632874,Minimax Bayes method for signal estimation.
+1114192,Multimodal data exploration and neural network applications.
+644470,Improved convergence in MCMC algorithms.
+5462,Regularization principles lead to various approximation schemes.
+594011,Study on bloat in variable length representations.
+20924,Probabilistic similarity metrics for case-based reasoning.
+1131634,Genetic search for optimal neural network architectures.
+1120786,Nonparametric survival analysis using trees and splines.
+1112767,Application of alternative discrete-time operators in nonlinear models.
+180301,Estimating functions with Bayes estimators.
+160705,Visual perception and learning in neural networks.
+628458,Optimizing local Hebbian learning with ffi-rule.
+628459,Neural architecture learns spatial transformations effectively.
+1130915,Neural network forecasts on wavelet-transformed time series.
+1116336,Compute missing information fraction for EM algorithm.
+390889,Hierarchical model with dynamic unit selection.
+57922,Learning from multiple-instance examples with noise.
+594039,Hierarchical learning with procedural abstraction mechanisms.
+13654,Enhancing connectionist networks through control mechanisms.
+57932,Dynamic reposing vs tangent distance for drug prediction.
+73972,Integrating case-based reasoning and heuristic search.
+198443,Genetic representations for evolutionary design optimization.
+60159,Parallel language for neural algorithms tutorial.
+101143,Modeling goal-driven explanation learning process strategies.
+101145,"Everyday abductive explanation, experience, and goals."
+763181,Visual cortex model predicts cortical reorganization.
+44121,Factor graphs model global functions efficiently.
+593328,Evolution of time-optimal fly-to controller.
+259772,Enhancing case-based reasoning through precedent comparison.
+189708,Model for fast decision-making in autonomous agents.
+60169,Compiler for CuPit on MasPar MP-1/MP-2.
+24530,Approximate dynamic programming for structured MDPs.
+467383,Evolving Turing-complete programs for register machines.
+20972,Importance of exploration in learning games.
+13686,Symbolic and neural learning in ML framework.
+152731,Efficient neural network model for processing sentences.
+118558,Memory-based Q-learning for adaptive traffic control.
+118559,Signal predistorter adaptation using dual reinforcement learning.
+1154123,Clearning for noise-free input assumption violation.
+1154124,Noise reduction and improved learning in modeling.
+1126503,Lifelong robot learning with limited data.
+40583,Bayesian wavelet thresholding for regression with prior.
+95719,Comparison of Laplace approximation basis choices.
+693143,Efficient algorithm for large datasets.
+36131,Adaptive probabilistic networks for intelligent systems in AI.
+1123689,Scalable and effective Bayesian network learning.
+6913,Investigating convergence of EM and Gibbs.
+256106,Underwater mammal classification using wavelet analysis.
+36140,Improving multiclass learning with error-correcting codes.
+1115670,Completeness theorem for inverse entailment in inductive inference.
+1108389,Bayesian network arc reversal algorithm for simulations.
+6923,Learning logic formulas with interpretations and constraints.
+6925,Algorithms using rectangles for multiple-instance problem.
+36162,Efficient neural network operations and learning.
+62329,Automatic modular neural network for efficient learning.
+36167,Model uncertainty for safe dynamic control learning.
+6941,Handling multi-class and real number problems.
+245288,Improving peg-into-hole assembly speed efficiently.
+62333,Auditory perception system for humanoid robot sound localization.
+189774,Assessing causal influences from indirect experiments.
+1133846,System identification with nonuniform frequency response data.
+167205,Space-Time Scheduling of Parallelism on Raw.
+62347,Hand manipulation learning for humanoid hand.
+267003,Initialization and search bias in neural networks.
+1114992,Analog neural nets struggle with regular languages.
+1112026,Converts symbolic rules into network for revision.
+1119295,Distance induction in first-order logic.
+1111304,Reinforcement learning enhances medical diagnostic decision-making.
+964248,Data mining and visualization for Bayesian classifier.
+45603,Symbiotic evolution in sequential decision tasks.
+1109830,Efficient neural network execution with reduced precision.
+1152761,Genetic algorithms for efficient neural network learning.
+62389,Machine learning challenges and solutions in design.
+444191,Optimizing smoothing splines for projection pursuit.
+263482,Improving ILP learning system performance with sketches.
+263486,Recursive Horn clauses with iterative bootstrap induction.
+263498,Genetic algorithms optimize cellular neural network.
+675756,Impact of data splitting on financial analysis.
+1125895,Estimating shortest paths in dynamic graphs.
+627024,Optimizing early stopping criteria for training.
+12211,Hypothesis combination for precise target approximation.
+643069,Practical applications of Markov Chain Monte Carlo.
+1112075,Weight optimization algorithm using schemata search.
+884094,Estimating density with compactly supported wavelets.
+120817,Primate attention control for machine vision.
+1110628,Bayesian testing independence with mutual information.
+18770,Methods for learning probabilistic networks from data.
+18773,Bayesian network classifiers for improved performance.
+173863,Learning network structure from incomplete data.
+1130243,Static data association for localization with terrain.
+1102625,Framework for configuring greedy algorithms in cost-sensitive.
+63812,Induction with prior knowledge using FLARE.
+18781,Enhances learning and reasoning tasks.
+18785,AI problems with computational intractability.
+1129494,EKF enhances neural network training.
+578845,Automatic music-making programs using neural networks.
+68115,Inductive learning with prior knowledge and reasoning.
+293271,Training methods impact learning two-person games.
+63835,Discovering macro-operators in deductive learning.
+1919,Representing actions with stochastic effects using Bayesian.
+164,Reconstructing polynomials from noisy functions efficiently.
+293285,Experimental learning vs behavior cloning in control.
+12275,Neural model for hierarchical image representation.
+1103383,Culture's impact on cognitive system evolution.
+1114239,Interactive software for design optimization strategies.
+6215,Dynamic programming for incremental planning in AI.
+288107,Rule induction algorithm design and evaluation.
+385067,CBR approach for document retrieval in industry.
+1121537,Query complexity in exact learning with polynomials.
+1103394,Evaluation of Anapron case-based system assessment.
+6224,Performance bounds for greedy policies with imperfections.
+2663,Canonical Distortion Measure for Vector Quantization.
+104840,Optimized theory revision system with evaluator.
+632935,Estimation of density and hazard rate.
+1106236,Adapting prior cases in case-based reasoning.
+375605,Evolutionary design of buildable objects.
+1132406,Face and object recognition in the brain.
+28964,Learning robust parameters in Bayesian networks.
+308003,ILP applications in knowledge discovery and databases.
+47839,Efficient POMDP algorithm for decision-making.
+753070,Improving error bounds for similar classifiers.
+563613,Gene structure prediction using linguistic methods.
+1132416,Face recognition based on spatial frequency.
+2695,Improved generalization in neural networks.
+2696,Visual recognition and neural network analysis.
+2698,Automatic face recognition system with overfitting reduction.
+1105530,RBF neural networks for process control.
+1113551,Modeling optimization tasks using case-based reasoning.
+688824,Model explains cortical neuron spiking variability.
+1138968,Optimizing neural networks with genetic algorithms.
+1120858,Object recognition using unsupervised BCM network.
+40605,Nonlinear wavelet shrinkage using Bayesian methods.
+1132443,Improving forecasting accuracy through data cleaning and learning.
+1999,Performance enhancement and decision graph wrappers.
+33325,Winnow algorithm for spelling correction.
+644577,Geometric ergodicity notions for Markov chains.
+66751,Algorithm for Perfect Phylogeny Problem.
+594119,Optimizing strategies in uncertain pursuit scenarios.
+1132461,Gated experts reduce overfitting by matching.
+1115701,Bayesian Prototype Trees with Simulated Annealing.
+1131741,Searching technique in constraint logic programming.
+270085,Analyzing plateaus in local search algorithms.
+1136040,Neural theory for visual perception binding.
+1131752,Tracing genetic algorithms with expected bit.
+1131754,Evolutionary solver excels in routing optimization.
+4878,Cooperation among agents using Case-based Reasoning.
+1123756,Case-Based Probability Factoring in Bayesian Networks
+1135345,Symbolic analysis of connectionist algorithms on distributed-memory.
+1107728,Adaptive connectionist planning method using reinforcement learning.
+1154232,Counterfactual queries and causal inference in planning.
+1154233,Overview of Bayesian networks for data analysis.
+17363,Logistic response data analysis using projection pursuit.
+1213,Efficient superscalar performance through boosting technique.
+149139,Study on Minimum Feature Set Problem.
+28230,Decision-Theoretic Case-Based Reasoning in Technical Report.
+50838,Clustering learning tasks for knowledge transfer.
+1125906,Classification techniques for utility elicitation.
+32698,Ensemble learning for Hidden Markov Models.
+754594,Visual tracking with attention mechanism.
+1133930,Data value prediction methods and performance.
+1115790,Adaptive wavelet control for uncertain systems.
+28249,Efficient TD() implementation with TTD procedure.
+1237,Learning systems with diverse strategies and representations.
+684531,Self-organizing non-linear controllers in polynomial networks.
+238099,Carcinogenicity data analysis using machine learning.
+131042,Efficient Bayesian regression with Gaussian processes.
+444240,Genetic algorithm system for prototype learning.
+1112106,Fading memory systems under worst-case scenarios.
+27535,Refining probabilistic rule bases with combined methods.
+28267,Learning strategies in multistrategy learning systems.
+1120138,Modeling stochastic volatility of financial markets.
+1117920,Uncertainty modeling with plausibility measures properties.
+1125944,Analyze diabetes monitoring time series data.
+1118658,Framework for solving multiple-instance learning.
+263553,Generalized cross validation for non-Gaussian data.
+1125953,Hypothesis space complexity in ILP with language series.
+114308,Learning and forgetting relationship analysis.
+630817,Efficient coding framework for sparse image codes.
+687401,Neural network simulates Turing machine.
+594900,Genetic Programming for Binary String Complexity.
+10174,Improving learning algorithms with omitted data.
+73323,Enhanced robotic control through case-based method.
+46431,Improving decision tree comprehensibility without sacrificing accuracy.
+202520,Incorporating Bayesian knowledge into Boltzmann machines.
+15987,Linear dependencies in chain graphs for modeling.
+10186,Learning default concepts from observational data.
+294030,MDL learning for efficient probabilistic neural networks.
+675847,Maximizing Sharpe Ratio for nonlinear trading strategies.
+190697,Evolutionary algorithms for robotic bulldozer neurocontroller.
+576795,Sequential procedure and evolutionary algorithm for graph coloring.
+1125993,Similarity measures framework using lattice-valued functions.
+519318,Preference elicitation for optimal system configuration.
+1120197,Hybrid approach for reducing classifier error.
+1152896,Failure examples bias learning systems.
+1122304,Gamma MLP enhances speech recognition classification.
+2702,Fast algorithm for non-linear dimension reduction.
+1129572,Parsing genes using constraint-based approach.
+1112194,Approximation methods using scattered shifts compared.
+29738,Optimal decision rule for pattern recognition.
+1128868,Identifying protein coding regions in genomic DNA.
+633721,Wavelet transform and statistical applications summary.
+630890,Neural model of egocentric distance representation.
+1123068,Decision table classifiers for business users.
+561568,Hospital quality monitoring using hierarchical time series.
+733534,High-performance vector microprocessor for neural networks.
+1102751,Challenges in revising impure theories accurately.
+1114336,Challenges in legal precedent modeling.
+1123087,Financial time series prediction using neural networks.
+6311,Automated model selection for machine learning tasks.
+116512,Competition in neuromuscular connection development.
+6318,Unified approach combining instance-based learning.
+7047,Enhancing generalization in classification through lifelong learning.
+1123093,Predicate invention using Hidden Markov Models.
+1103499,Recent concepts in utility and probability.
+151430,Efficient algorithms for learning recursive logic programs.
+431206,Efficient scheme for large dataset smoothing.
+372862,Improving ILP performance through advanced techniques.
+561593,Particle filtering for time series improvement.
+1106330,Knowledge representation for accurate predictions.
+1105603,Analyzing RNN learning of natural language grammars.
+1132505,Financial data forecasting architecture with stability.
+74821,Estimation method using lasso for interpretability.
+6344,Improved classification accuracy for mixed attributes.
+116545,Duplication enhances genetic programming efficiency.
+733576,Handwritten digit recognition using connectionist networks.
+1112911,Evolution of restricted iteration creation in GP.
+1105622,Chaos exploration in two-neuron system.
+1102794,Partial-memory incremental learning for intrusion detection.
+262108,Adaptation and pruning of fuzzy inference.
+116552,Genetic algorithm performance with non-coding segments.
+41417,User preferences for complex domain solutions.
+1140543,Spatial attention modeling in computational neuroscience.
+14529,Flexible weighting for faster concept learning.
+1117219,GLM null hypothesis vs smooth alternatives testing.
+1107095,Bayesian approach enhances ILP handling.
+1140548,Directional-Unit Boltzmann Machine in neural networks.
+523010,Modeling spatial attention in computational neuroscience.
+42156,ASOCS architecture for adaptive parallel logic.
+262121,Automated fuzzy controller tuning for rail transportation.
+22564,Rule-based and case-based reasoning for names.
+14545,Neural network enhances ECG monitoring accuracy.
+22566,Comparison of name-pronunciation systems using reasoning.
+1106388,Predicting ordinal classes in ILP.
+429781,Mistake-driven learning algorithms enhance text categorization.
+335042,Efficient implementation of sigmoidal neural nets.
+219218,Monte Carlo method for Bayesian regression.
+610529,Information processing in primate retinal cone pathways.
+250566,Feature selection for optimal classification performance.
+1104946,Bias learning in theoretical machine learning models.
+195792,Efficiency comparison of encoding methods for NN.
+1152179,Enhancing learning and processing in networks.
+89308,Abductive hypothesis construction and selection in explanations.
+350373,Improving classification accuracy with error-correcting codes.
+628667,Generalizing TD learning in reinforcement algorithms.
+628668,Reactive critic for adaptive control strategies.
+102061,Simulating QDS is PSPACE-complete.
+430574,Resonance analysis with aperiodic forces.
+1107808,Activity influences synaptic competition at neuromuscular junction.
+1110028,Learning functions using group representations efficiently.
+45052,Accounting for model uncertainty using Bayesian.
+89335,Refining knowledge-based systems through explanation.
+252715,Supports AI education with interactive programs.
+4983,Jet engine exhaust nozzle design tool.
+646837,Evolutionary heuristic for minimum vertex cover.
+1139009,Generalization challenges perceptual learning theories.
+252725,Learning evolving concepts with partial-memory approach.
+593544,Evolutionary synthesis of machine-language iteration.
+299195,Neural networks and temporal difference in gaming.
+593559,Interactive genetic programming for music generation.
+1108570,Bayesian feature induction for temporal classification.
+272345,Case-based query answering in two applications.
+593560,Automated fitness raters for music generation.
+70520,Local trajectory optimizers improve global optimization.
+131122,Sequential learning method for knowledge transfer.
+8591,Increase parallelism by relaxing control flow.
+217852,Improving efficiency and accuracy of logic programs.
+264347,Online regression with multidimensional outputs.
+7867,Legacy programs re-engineered for automated design optimization.
+27612,Sample complexity of weak learning algorithms.
+1152917,EM algorithm convergence analysis for mixture.
+28359,Reinforcement learning algorithm using Boolean formulae search.
+103528,Integrated diagnostic system with advanced reasoning.
+46500,Boolean network algorithms for image recognition.
+27631,Memory-based learning for robot juggling task.
+289779,Improved genetic algorithms for efficient design optimization.
+103537,Extract structures from continuous variables using density.
+633081,Minimax risk estimation in lp-balls.
+255628,Efficient visual search using attention mechanism.
+397590,Algorithm for inducing recursive clauses.
+1129610,Studying coevolving behavior in pursuit game.
+50980,Parametric design problem solving through models.
+28385,Improving network routing efficiency through reinforcement learning.
+427606,Modular neural networks inspired by biology.
+616336,Instruction scheduling using finite state automata.
+1120252,Variable selection method using lasso for Cox.
+1152958,Reflective neural network for reliability and flexibility.
+1152959,Reject incorrect answers in neural network.
+1385,Reinforcement learning for complex coordinated control.
+254923,Genetic algorithm prototype learner for classification.
+34961,Refining rule-bases using neural networks.
+46547,Improving decision tree predictive accuracy with attributes.
+13136,Perceptual learning in vernier hyperacuity using networks.
+1131137,Comparison of simple and complex models.
+233106,Egocentric spatial representation in early vision.
+561613,Statistical analysis of hospital quality monitors.
+1131149,Equivalence of adaptive ridge and lasso.
+1104258,Regression with input-dependent noise using Gaussian processes.
+1152991,Importance sampling for isolated modes in Markov chains.
+447250,Introduction to RBF networks for learning.
+115188,Inversion methods for connectionist networks.
+102879,Continuous rate changes learning algorithms.
+1131150,Adaptive penalization algorithm with automatic tuning.
+56708,Control real robot using distributed classifier systems.
+1128943,Interaction between Crossover Operator and Tree Depth.
+134060,Reinforcement learning model with expected mistake bound.
+102884,Robust trainability of single neurons.
+1131163,Protein sequence classification based on similarity.
+4274,Update diagnostic knowledge base using strategies.
+1131172,Metropolis algorithm behavior in high dimensions.
+767763,Probabilistic error bounds for partition-based classifiers.
+152226,Infer regular grammar efficiently with algorithm.
+152227,Learning DFA efficiently from simple examples.
+626530,Belief maintenance with probabilistic logic.
+626531,Predicting glucose levels in diabetic patients.
+1131180,Metropolis chain convergence in finite state.
+1130454,Probabilistic reasoning with incomplete information.
+1131184,Learning parsing with Simple Synchrony Networks.
+1128974,Evolutionary method finds neural network building-blocks.
+1128975,Correlation between task difficulty and performance.
+1128977,Improving efficiency of Genetic Programming evaluations.
+1128978,Adverse interaction with tree depth restriction.
+117328,Capture design rationale in device functions.
+24043,Face detection system outperforms state-of-the-art methods.
