@@ -1,6 +1,6 @@
 # 🚀 LLM as GNN: Graph Vocabulary Learning for Text-attributed Graph Foundation Model
 
-
+**Please be aware that this repository is still under maintenance. We will release a more polished and formal version as soon as possible.**
 
 ## 🔎 Overview
 
